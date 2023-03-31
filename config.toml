@@ -1,0 +1,52 @@
+baseURL = "http://localhost:1313/"
+languageCode = "en-us"
+title = "Every kilometer counts!"
+theme = "mediumish-gohugo-theme"
+summaryLength = 25
+copyright = "Charles Troupin - All rights reserved"
+enableEmoji = true
+publishDir = "docs"
+
+[params]
+  logo = "/images/logo.png"
+  description ="Ils ne savaient pas que c'était impossible alors ils l'ont fait"
+
+[params.author]
+  name = "Charles Troupin"
+  thumbnail = "/images/author.png"
+  #description = "Creator of this blog."
+
+[params.index]
+  picture = "/images/logo.png"
+  title = "Charles Troupin"
+  subtitle = ""
+  mdtext = '''  
+  Every kilometer counts!       
+  Chaque kilomètre compte!      
+  Cada kilómetro cuenta!             
+
+'''
+
+
+  alertbar = false
+
+[params.social]
+  github = "ctroupin"
+  twitter = "CharlesTroupin"
+
+## Main Menu
+[[menu.main]]
+    name = "Blog"
+    weight = 100
+    identifier = "blog"
+    url = "/blog"
+[[menu.main]]
+    name = "Races"
+    weight = 200
+    identifier = "races"
+    url = "/races"
+[[menu.main]]
+    name = "About Me"
+    identifier = "about"
+    weight = 300
+    url = "/"
