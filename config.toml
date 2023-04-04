@@ -8,16 +8,16 @@ enableEmoji = true
 publishDir = "docs"
 
 [params]
-  logo = "./images/logo.png"
+  logo = "/images/logo.png"
   description ="Ils ne savaient pas que c'était impossible alors ils l'ont fait"
 
 [params.author]
   name = "Charles Troupin"
-  thumbnail = "./statics/images/author.png"
+  thumbnail = "/images/author.jpg"
   #description = "Creator of this blog."
 
 [params.index]
-  picture = "./statics/images/logo.png"
+  picture = "/images/author.jpg"
   title = "Charles Troupin"
   subtitle = ""
   mdtext = '''  
