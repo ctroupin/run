@@ -41,27 +41,28 @@
                         <h1 class="posttitle">{{ .Title }}</h1> 
                     </div>
 
-                    <!-- Post Featured Image -->
-                    {{$images := .Resources.ByType "image"}}
-                    {{with $images.GetMatch "*cover*" }}
-                        <img class="featured-image img-fluid" src="{{ .Permalink }}" alt="thumbnail for this post">
-                    {{end}}
-                    <!-- End Featured Image -->
 
                     <!-- Post Content -->
                     <div class="article-post">
                         {{ if (isset .Params "racedate") }}
-                            <i class="fa-solid fa-calendar-days"></i> {{ dateFormat "2 January 2006" .Params.racedate }}<br>
+                            <i class="fa-solid fa-calendar-days"></i> {{ dateFormat "2 January 2006" .Params.racedate }} |
                         {{ end }}
                         {{ if (isset .Params "distance") }}
-                            <i class="fa-solid fa-ruler-horizontal"></i> {{ .Params.distance }} km<br>
+                            <i class="fa-solid fa-ruler-horizontal"></i> {{ .Params.distance }} km |
                         {{ end }}
                         {{ if (isset .Params "elevation") }}
-                            <i class="fa-solid fa-mountain"></i> {{ .Params.elevation }} m<br>
+                            <i class="fa-solid fa-mountain"></i> {{ .Params.elevation }} m D⁺ |
                         {{ end }}
-                        {{ if (isset .Params "elevation") }}
-                            <i class="fa-solid fa-stopwatch"></i>
+                        {{ if (isset .Params "racetime") }}
+			<i class="fa-solid fa-stopwatch"></i> {{ .Params.racetime }} 
                         {{ end }}
+
+                        <!-- Post Featured Image -->
+                        {{$images := .Resources.ByType "image"}}
+                        {{with $images.GetMatch "*cover*" }}
+                            <img class="featured-image img-fluid" src="{{ .Permalink }}" alt="thumbnail for this post">
+                        {{end}}
+                        <!-- End Featured Image -->
         
                 
                         {{ .Content}}
