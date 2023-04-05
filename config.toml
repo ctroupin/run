@@ -32,7 +32,10 @@ publishDir = "docs"
 
 [params.social]
   github = "ctroupin"
+  gitlab = "ctroupin"
   twitter = "CharlesTroupin"
+  flickr = "sharlo1982"
+  a500px = "CharlesTroupin"
 
 ## Main Menu
 [[menu.main]]
@@ -49,4 +52,4 @@ publishDir = "docs"
     name = "About Me"
     identifier = "about"
     weight = 300
-    url = "/"
+    url = "/about"
