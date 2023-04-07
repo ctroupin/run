@@ -1,4 +1,4 @@
-baseURL = "http://localhost:1313/"
+baseURL = "https://ctroupin.github.io/run"
 languageCode = "en-us"
 title = "Every kilometer counts!"
 theme = "mediumish-gohugo-theme"
