@@ -11,7 +11,7 @@ comments: false
 
 Voilà comme plusieurs personnes ont demandé, voici un compte-rendu, ou quelque chose qui y ressemble, de l'Ultramarathon de La Palma. Commençons par la fin: un peu plus de 13 heures pour terminer la course. Ni fier, ni déçu, ça reste super de pouvoir terminer une telle course sans avoir fait d'entraînements spécifiques (montagne, altitude, sorties longues, ...) mais d'un autre côté l'objectif initial, à savoir terminer en moins de 12 heures, était totalement accessible s'il n'y avait pas eu... vous allez la savoir plus loin.
 
-![Image alt](./images/transvulcania2022_000002.jpg)
+![Transvulcania](./images/transvulcania2022_000002.jpg)
 
 Pour essayer de structurer un peu l'histoire je vais reprendre la course par tronçons comme sur leur site web. Enfin, juste pour avoir un peu de contexte sur la course et pourquoi je la refaisais, j'ai écrit quelques lignes ici: https://ctroupin.wordpress.com/2022/10/21/transvulcania-4episode/.
 
@@ -41,7 +41,7 @@ Départ vers 4h30 de la maison pour prendre le bus à 5h, personne dans les rues
 
 Le car arrive quand même fort juste au lieu de départ, il y a tellement de trafic (alors que les voitures ne sont pas autorisées) que le bus nous lâche bien avant, donc on doit descendre un chemin en mode "trail”, à la frontale. Dans le sas de départ c'est un peu la fête, moi là ça me saoule déjà, l'organisation a été merdique depuis le début, donc les "_toutes les mains en l'air_” c'est sans moi.
 
-| ![Départ](./images/transvulcania2022_000006.jpg) |
+| ![Départ nocturne](./images/transvulcania2022_000006.jpg) |
 |:--:|
 | _Quelques minutes avant le départ._|
 
@@ -62,7 +62,7 @@ On arrive au village, comme d'hab il y a des gens dehors, certain(e)s en pyjama,
 Rien à se mettre sous la dent au ravito, là c'est moi qui était trop optimiste (et mal informé), pas grave j'ai de quoi tenir. On part maintenant pour une bonne montée jusqu'à quasi 2000 m d'altitude à travers les volcans et les forêts de pins canariens (Pinus canariensis pour les spécialistes). Jamais eu de problèmes dans cette partie donc ça se passe bien, j'en profite pour prendre quelques photos.
 Normalement on peut sortie les bâtons de rando (avant le ravito c'était interdit), mais je préfère continuer sans eux encore quelques kilomètres. Il faut savoir que beaucoup de coureurs sont dangereux avec des bâtons donc je vais attention aux autres et à moi.
 
-| ![Lever de soleil](./images/transvulcania2022_000008.jpg) |
+| ![Tenerife à l'horizon](./images/transvulcania2022_000008.jpg) |
 |:--:|
 | _Vue vers l'est avec Tenerife derrière les nuages_|
 
@@ -77,7 +77,7 @@ Ici on repart pour une longue descente, elle peut être casse-gueule par endroit
 
 On voit au loin la Caldera de Taburiente, dont on va suivre la crête une grosse partie de la course. Au ravito j'en profite pour remplir mon sac de bouffe et surtout bien boire. Tout est (encore) sous contrôle et je profite bien. Mal nul part, respiration lente, bonnes sensations... juste un peu faim mais ce sera vite résolu.
 
-| ![Lever de soleil](./images/transvulcania2022_000009.jpg) |
+| ![Caldera de Taburiente](./images/transvulcania2022_000009.jpg) |
 |:--:|
 | _La Caldera de Taburiente en arrière-plan, une vue impresionnante de ce qui nous attend pour le reste de la course._|
 
@@ -86,7 +86,7 @@ On voit au loin la Caldera de Taburiente, dont on va suivre la crête une grosse
 
 Pas grand monde au Refuge du Pilar, peu importe, j'en profite pour bien manger et boire. Puis repars assez vite vers la suite. Je me souviens bien de cette partie car en 2015 j'avais commencé à sentir un peu de fatigue et avait arrêté de courir, car le trajet suivait une longue piste forestière hyper chiante. Cette année, changement, on nous envoie sur un chemin quasi parallèle à la fameuse piste, cette fois dans une zone boisée et mon monotone.
 
-| ![Lever de soleil](./images/transvulcania2022_000010.jpg) |
+| ![La piste de la Hilera](./images/transvulcania2022_000010.jpg) |
 |:--:|
 | _Vue depuis la piste de la Hilera._|
 
@@ -100,7 +100,7 @@ J'ai l'impression que mes mollets veulent me parler, pour me dire que j'ai de la
 
 Après quelques kilomètres on arrive à un point de contrôle qui n'est toutefois pas une zone de ravito: le Refuge de la Punta de los Roques. On y sert de l'eau (je suppose qu'elle a été amenée par hélicoptère, sinon???). Juste après cette montée, une vertigineuse descente qui n'aide pas vraiment, vu que de toute façon il faudra continuer de monter encore et toujours, jusqu'à atteindre le somment de l'île.
 
-| ![Lever de soleil](./images/transvulcania2022_000012.jpg) |
+| ![Intérieur de la Caldera](./images/transvulcania2022_000012.jpg) |
 |:--:|
 | _L'intérieur de la Caldera de Taburiente._|
 
@@ -110,7 +110,7 @@ Je perds un peu la notion du temps mais ça va globalement bien. Avec du recul j
 
 J'arrive au ravitaillement un peu limite, donc je m'asseois et prends le temps. Je pense qu'à ce moment-là si quelqu'un m'avait examiné, il m'aurait peut-être dit d'arrêter. Enfin voilà, je repars pour les 4 kilomètres jusqu'au sommet. Ça monte et ça descend, on en a l'habitude, et pour agrémenter le tout, une dame (pas très gentille) nous dit "bâtons interdits jusqu'au sommet". Je pense que je n'en ai rien à f**, je les plie et range dans le sac, les mollets vont encore vouloir me parler mais je ferai la sourde oreille.
 
-| ![Lever de soleil](./images/transvulcania2022_000013.jpg) |
+| ![Téléscopes](./images/transvulcania2022_000013.jpg) |
 |:--:|
 | _De nombreux téléscopes se trouvent près du sommet de l'île_.|
 
@@ -118,7 +118,7 @@ J'arrive péniblement au Roque de los Muchachos (2426 m) mais pour être honnêt
 
 ## Roque de los Muchachos – Torre del Time
 
-| ![Lever de soleil](./images/transvulcania2022_000014.jpg) |
+| ![Roque de los Muchachos](./images/transvulcania2022_000014.jpg) |
 |:--:|
 | _La zone de ravitaillement du Roque de los Muchachos_.|
 
@@ -126,14 +126,14 @@ J'ai souvent fait l'erreur de repartir trop vite de la zone de ravitaillement al
 
 Ce dont je ne me souvenais pas, c'est que la descente est entrecoupée de petites montées bien raides, heureusement le plan fonctionne bien et je cours sans problème quasi tout le temps (en dehors des photos). Pour la première fois depuis le départ, je décide d'afficher la distance parcourue sur la montre, afin de voir combien il reste jusqu'au prochaine ravitaillement (10 km au total). Le paysage est spectaculaire et surtout, j'ai l'impression que le mal d'altitude disparaît (par contre le nez coule toujours).
 
-| ![Lever de soleil](./images/transvulcania2022_000015.jpg) |
+| ![Caldera de Taburiente](./images/transvulcania2022_000015.jpg) |
 |:--:|
 | _Vue de la Caldera de Taburiente_.|
 
 
 La descente se déroule plutôt bien et le moral remonte quand je compare avec la descente des autres éditions. Je regarde la montre toutes les 5 minutes (jamais un bon signe), les kilomètres défilent et nous voici à quelques hectomètres de la Tour del Time, 1000 m d'altitude. All good.
 
-| ![Lever de soleil](./images/transvulcania2022_000016.jpg) |
+| ![Torre del Time](./images/transvulcania2022_000016.jpg) |
 |:--:|
 | _Depuis la Torre del Time_.|
 
@@ -149,13 +149,13 @@ Bon faut continuer, mais ce genre de douleur prend tout l'attention, je n'ai plu
 
 Pour me consoler je prends des photos du volcan _Tajogaite_, entré en eruption il y a un peu plus d'un an. Parfois il y a des bénévoles sur le bord du chemin, quand je m'arrête ils demandent "tu veux arrêter?", je leur réponds que non, que j'ai juste envie de vomir. Une fois sur la grand route je discute un peu avec la Croix Rouge, en me disant qu'ils auront peut-être un truc à me proposer, n'importe quel médoc, vu que je ne prends jamais rien, m'aurait probablement sauvé, mais non, le seul truc qu'ils me disent c'est que si j'ai encore mal au prochaine ravitaillement (3 km plus bas) je n'ai qu'à demander qu'on me ramène (i.e.: abandon). Super plan!
 
-Comment je suis sorti de cette impasse? Un gars qui avait appelé les gens de la Croix Rouge me demande si ça va mieux (réponse évidente: non), mais bon, on se fait un check 👊, et il me dit: "tu vas finir alors?” et je lui dis que oui. Et je l'ai fait. Les 3 derniers km de descente se passe quasi comme sur des roulettes, je redépasse plein de gens même si la douleur est exactement la même.
+Comment je suis sorti de cette impasse? Un gars qui avait appelé les gens de la Croix Rouge me demande si ça va mieux (réponse évidente: non), mais bon, on se fait un check 👊, et il me dit: "tu vas finir alors?” et je lui dis que oui. C'était suffisant pour le faire. Les 3 derniers km de descente se passe quasi comme sur des roulettes, je redépasse plein de gens même si la douleur est exactement la même.
 
 | ![Volcan Tajogaite](./images/transvulcania2022_000018.jpg) |
 |:--:|
 | _Descente vers Tazacorte._|
 
-Sur le bord du chemin, on tombe sur un coureur couché et tremblant, entouré de pompiers. Et là on se dit: l'air de rien cette course elle peut faire très, très mal. Une fois à la plage de Tazacorte, je mange une pomme et bois un peu d'eau, puis c'est reparti pour la montée finale.
+Sur le bord du chemin, on tombe sur un coureur couché et tremblant, entouré de pompiers. Là on se dit: l'air de rien cette course elle peut faire très, très mal. Une fois à la plage de Tazacorte, je mange une pomme et bois un peu d'eau, puis c'est reparti pour la montée finale.
 
 ## Tazacorte – Ligne d'arrivée
 
