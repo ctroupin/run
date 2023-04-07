@@ -13,11 +13,11 @@ publishDir = "docs"
 
 [params.author]
   name = "Charles Troupin"
-  thumbnail = "/images/author.jpg"
+  thumbnail = "author.jpg"
   #description = "Creator of this blog."
 
 [params.index]
-  picture = "/images/author.jpg"
+  picture = "author.jpg"
   title = "Charles Troupin"
   subtitle = ""
   mdtext = '''  
