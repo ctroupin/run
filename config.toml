@@ -8,7 +8,7 @@ enableEmoji = true
 publishDir = "docs"
 
 [params]
-  logo = "/images/logo.png"
+  logo = "logo.png"
   description ="Ils ne savaient pas que c'était impossible alors ils l'ont fait"
 
 [params.author]
