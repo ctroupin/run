@@ -11,7 +11,7 @@ comments: false
 
 Voilà comme plusieurs personnes ont demandé, voici un compte-rendu, ou quelque chose qui y ressemble, de l'Ultramarathon de La Palma. Commençons par la fin: un peu plus de 13 heures pour terminer la course. Ni fier, ni déçu, ça reste super de pouvoir terminer une telle course sans avoir fait d'entraînements spécifiques (montagne, altitude, sorties longues, ...) mais d'un autre côté l'objectif initial, à savoir terminer en moins de 12 heures, était totalement accessible s'il n'y avait pas eu... vous allez la savoir plus loin.
 
-![Image alt](./images/transvulcania2022_000002.jpg)
+![L'île de La Palma](./images/transvulcania2022_000002.jpg)
 
 Pour essayer de structurer un peu l'histoire je vais reprendre la course par tronçons comme sur leur site web. Enfin, juste pour avoir un peu de contexte sur la course et pourquoi je la refaisais, j'ai écrit quelques lignes ici: https://ctroupin.wordpress.com/2022/10/21/transvulcania-4episode/.
 
