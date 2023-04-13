@@ -49,7 +49,12 @@ publishDir = "docs"
     identifier = "races"
     url = "/races"
 [[menu.main]]
+    name = "City running"
+    identifier = "city"
+    weight = 400
+    url = "/cityrunning"
+[[menu.main]]
     name = "About Me"
     identifier = "about"
-    weight = 300
+    weight = 500
     url = "/about"
