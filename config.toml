@@ -1,4 +1,4 @@
-baseURL = "http://localhost:1313/"
+baseURL = "https://ctroupin.github.io/run"
 languageCode = "en-us"
 title = "Every kilometer counts!"
 theme = "mediumish-gohugo-theme"
@@ -8,16 +8,16 @@ enableEmoji = true
 publishDir = "docs"
 
 [params]
-  logo = "/images/logo.png"
+  logo = "logo.png"
   description ="Ils ne savaient pas que c'était impossible alors ils l'ont fait"
 
 [params.author]
   name = "Charles Troupin"
-  thumbnail = "/images/author.jpg"
+  thumbnail = "author.jpg"
   #description = "Creator of this blog."
 
 [params.index]
-  picture = "/images/author.jpg"
+  picture = "author.jpg"
   title = "Charles Troupin"
   subtitle = ""
   mdtext = '''  
