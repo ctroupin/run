@@ -27,7 +27,7 @@
                             <div class="col-xs-12 col-md-9 col-lg-10 text-center text-md-left md-nopad-left">
                                 <a target="_blank" class="link-dark">{{ .Site.Params.author.name }}</a><br>
                                 <span class="author-description">
-                                    <i class="fa-thin fa-square-root-variable"></i>
+                                    <i class="fa-solid fa-tags"></i>
                                     {{ dateFormat "2 January 2006" .PublishDate }}
                                     <i class="far fa-clock clock"></i>
                                     {{ .ReadingTime }} min read
@@ -45,16 +45,16 @@
                     <!-- Post Content -->
                     <div class="article-post">
                         {{ if (isset .Params "racedate") }}
-                            <i class="fa-solid fa-calendar-days"></i> {{ dateFormat "2 January 2006" .Params.racedate }} |
+                            📅 {{ dateFormat "2 January 2006, 15:00" .Params.racedate }} 
                         {{ end }}
                         {{ if (isset .Params "distance") }}
-                            <i class="fa-solid fa-ruler-horizontal"></i> {{ .Params.distance }} km |
+                            📏 {{ .Params.distance }} km 
                         {{ end }}
                         {{ if (isset .Params "elevation") }}
-                            <i class="fa-solid fa-mountain"></i> {{ .Params.elevation }} m D⁺ |
+                            ⛰️ {{ .Params.elevation }} m D⁺
                         {{ end }}
                         {{ if (isset .Params "racetime") }}
-			<i class="fa-solid fa-stopwatch"></i> {{ .Params.racetime }} 
+                            ⏱️ {{ .Params.racetime }} 
                         {{ end }}
 
                         <!-- Post Featured Image -->
@@ -63,16 +63,13 @@
                             <img class="featured-image img-fluid" src="{{ .Permalink }}" alt="thumbnail for this post">
                         {{end}}
                         <!-- End Featured Image -->
-        
-                
                         {{ .Content}}
                     </div>
                     
                     <!-- Post Categories -->
                     <div class="after-post-tags">
                         <ul class="tags">
-                        <i class="fa-solid fa-tags"></i>
-
+                        <i class="fa-solid fa-tags"></i>                      
                         {{ range .Params.tags }}
                         <li>
                         <a href="{{ "/tags/" | relLangURL }}{{ . | urlize }}">{{.}}</a>
