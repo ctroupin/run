@@ -12,6 +12,8 @@ comments: false
 Voilà comme plusieurs personnes ont demandé, voici un compte-rendu, ou quelque chose qui y ressemble, de l'Ultramarathon de La Palma. Commençons par la fin: un peu plus de 13 heures pour terminer la course. Ni fier, ni déçu, ça reste super de pouvoir terminer une telle course sans avoir fait d'entraînements spécifiques (montagne, altitude, sorties longues, ...) mais d'un autre côté l'objectif initial, à savoir terminer en moins de 12 heures, était totalement accessible s'il n'y avait pas eu... vous allez la savoir plus loin.
 
 ![L'île de La Palma](./images/transvulcania2022_000002.jpg)
+|:--:|
+| _L'île de La Palma, une des 7 îles Canaries 🇮🇨. Image acquise par Sentinel-2 le 14 mars 2023._|
 
 Pour essayer de structurer un peu l'histoire je vais reprendre la course par tronçons comme sur leur site web. Enfin, juste pour avoir un peu de contexte sur la course et pourquoi je la refaisais, j'ai écrit quelques lignes ici: https://ctroupin.wordpress.com/2022/10/21/transvulcania-4episode/.
 
@@ -161,13 +163,18 @@ Sur le bord du chemin, on tombe sur un coureur couché et tremblant, entouré de
 
 La montée ne comporte que 300 m de D⁺, sur des chemins de pierres hyper durs, avec plusieurs traversées de routes. Je ne prends même pas la peine de sortir les bâtons, ça fera mal et tant pis. Le soleil se couche, ça sent fort les 13 heures de course et je me dis que ça aurait pu être pire.
 
-Une fois à 300 m d'altitude, il reste une longue avenue à parcourir. Tout le monde marche, normal, mais mes jambes sont plutôt contents d'être là donc autant courir. Il y a pas mal de monde sur les bords de la route, visiblement contents que je cours, donc ça déroule, ça se termine à du 3'45 / km.
+Une fois à 300 m d'altitude, il reste une longue avenue à parcourir. Tout le monde marche, normal, mais mes jambes sont plutôt contentes d'être là, donc autant courir. Il y a pas mal de monde sur les bords de la route, visiblement contents que je cours, donc ça déroule, ça se termine à du 3'45''/km.
 
 Après la ligne d'arrivée je vois plein de coureurs bien à la ramasse, ça me fait penser que c'est un beau gâchis ce que j'ai fait, mais en même temps en considérant tout ce qu'i y a autour, les entraînements (limités), le boulot, les enfants... ça reste une solide perf'.
 
 ## Conclusions
 
 Certains diront que c'est un exploit, mais ce n'est pas le cas. C'est juste une course et comme on dit, il faut pouvoir aller au charbon. Dans ma tête j'avais envie de montrer que même avec des enfants très jeunes, un boulot qui prend du temps, et surtout un terrain d'entraînement relativement plat, il y avait moyen de s'en sortir en un morceau.
+
+Un mois après le trail j'ai aussi régigé cet [article post-course](../../blog/20221110_posttransvulcania)
+
+
+[article post-course]({{< ref "/blog/20221110_posttransvulcania" >}})
 
 ## Remerciements
 
