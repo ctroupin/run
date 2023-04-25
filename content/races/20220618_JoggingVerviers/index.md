@@ -16,7 +16,7 @@ J'ai toujours ce souvenir de Bernie qui disait qui appelait cette course le _cha
 
 D'un autre côté il faut admettre que la course est plutôt chouette: le public est très présent du début à la fin, et le parcours est varié et très agréable dans son ensembe (je sais, ça ne veut rien dire). Enfin, j'habite dans la première avenue de la course alors ne pas participer ce serait un peu dommage. 
 
-![Tracé de la course](./images/joggingverviers01.JPG)
+![Tracé de la course](./images/joggingverviers01.jpg)
 
 
 Mes premières tentatives avaient été plutôt mitigées: parfois des temps sous l'heure (pas difficile en soi, mais il faut un minimum de vitesse), d'autres fois bien au dessus, alors que j'étais bien entrainé.
@@ -24,7 +24,7 @@ En 2017 si je ne me trompe, j'avais suivi le meneur d'allure des 55 minutes (mer
 
 ## La prépa
 
-Rien à signaler à part le volume croissant les derniers mois, avec comme but semi-avoué de tourner à 100 km la semaine. Et aussi les premiers tests avec 2 séances dans une journée (matin et soir), en suivant les conseils de _Runwise_ sur Youtube. J'arrive donc à la course avec les jambes pas spécialement légères mais on s'en fout un peu j'ai envie de dire. 
+Rien à signaler à part le volume croissant les derniers mois, avec comme but semi-avoué de tourner à 100 km la semaine. Et aussi les premiers tests avec 2 séances dans une journée (matin et soir), en suivant les conseils de _Runwise_ sur Youtube. J'arrive donc à la course avec les jambes pas spécialement légères mais on s'en fout un peu j'ai envie de dire.
 
 Comme d'habitude je ne fais pas la reconnaissance du parcours, ça me saoule un peu de faire 2 fois la même chose en peu de temps, même si ça peut probablement aider. La stratégie de course il n'y en a pas: ça partira vite et puis vers Ensival ça aura décanté.
 
@@ -40,15 +40,9 @@ La montée à partir d'Ensival elle est plutôt longue mais ne me fait pas peut:
 
 On arrive dans le _tunnel_ près du tennis de Heusy, ambiance de fou, je tire un peu plus vu la fin approche. Aucune idée du temps que je ferai mais je m'amuse bien car ça va beaucoup plus vite que je ne le pensais. Les gens en bord de route sont vraiment motivés et ça fait plaisir. Près de la Plaine de Rouheid je sais qu'il ne reste plus qu'une sâle petite montée, après c'est juste descendre jusque la piste. Je vois Arnaud et sa famille au dessus de cette côte, dernière dose de motivation pour bien terminer ces 13 km.
 
-Je termine en 49'30'', tellement loin de ce que j'avais souhaité (vers 52') que je n'y comprends rien. Je vois les gens cracher leurs poumons sur le stade de Biélmont, moi ça va plutôt bien, donc je repars chercher le petit à la maison pour profiter du beau temps. Allure moyenne: 3'50''/ km, ça me perturbe un peu car je faisais mes séances souvent à 3'45''/km pour les séances à allure 10 km et j'avais l'impression que c'était limite, ici avec les montées etc ça passe super bien. Bref, 2022 aura été une année où je n'aurai pas foiré ce jogging. 
+Je termine en 49'30'', tellement loin de ce que j'avais souhaité (vers 52') que je n'y comprends rien. Je vois les gens cracher leurs poumons sur le stade de Biélmont, moi ça va plutôt bien, donc je repars chercher le petit à la maison pour profiter du beau temps. Allure moyenne: 3'50''/ km, ça me perturbe un peu car je faisais mes séances souvent à 3'45''/km pour les séances à allure 10 km et j'avais l'impression que c'était limite, ici avec les montées etc ça passe super bien. Bref, 2022 aura été une année où je n'aurai pas foiré ce jogging.
 
 ## Les photos
 
 J'en profite pour re-partager cette album de photos du jogging de 5 km:
 https://photos.app.goo.gl/zmAkGoyDsDAaqYQE8
-
-
-
-
-
-

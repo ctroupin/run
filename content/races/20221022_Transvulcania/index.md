@@ -15,7 +15,7 @@ Voilà comme plusieurs personnes ont demandé, voici un compte-rendu, ou quelque
 |:--:|
 | _L'île de La Palma, une des 7 îles Canaries 🇮🇨. Image acquise par Sentinel-2 le 14 mars 2023._|
 
-Pour essayer de structurer un peu l'histoire je vais reprendre la course par tronçons comme sur leur site web. Enfin, juste pour avoir un peu de contexte sur la course et pourquoi je la refaisais, j'ai écrit quelques lignes ici: https://ctroupin.wordpress.com/2022/10/21/transvulcania-4episode/.
+Pour essayer de structurer un peu l'histoire je vais reprendre la course par tronçons comme sur leur site web. Enfin, juste pour avoir un peu de contexte sur la course et pourquoi je la refaisais, j'ai écrit quelques lignes ici: [transvulcania 4° épisode](https://ctroupin.wordpress.com/2022/10/21/transvulcania-4episode/).
 
 | ![Profile](./images/transvulcania2022_000003.jpg) |
 |:--:|
