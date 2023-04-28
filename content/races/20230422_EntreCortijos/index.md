@@ -10,7 +10,7 @@ comments: false
 ---
 
 20th kilometer: I see Alberto taking pictures. He asks me how I'm feeling.
-> I'm good, but the climb near Fontanales was tought.
+> I'm good, but the climb near Fontanales was tough.
 
 Then he replies that there is another one which is also tough (_durilla_ is the word that he used).
 I think I misunderstood: there cannot be another climb. No. I quickly check the race profile printed on our bib, and I don't see anything suspicious.
@@ -19,7 +19,7 @@ I think I misunderstood: there cannot be another climb. No. I quickly check the 
 |:--:|
 |_The race bib with the profile printed on the lower part._|
 
-We continue to go downhill, close to 4'/km, at that rhythm the end is close. Except that I start to recognize the track we're running... I did it in October last year. And yes, there is an horrible climb at some point. But no, they cannot do that to us. Not now. I'm with a couple of other runners, one of them tells me:
+We continue to go downhill, close to 4'/km, at that rhythm the end is close. Except that I start to recognize the track we're running... I did it in October last year. And yes, there is a horrible climb at some point. But no, they cannot do that to us. Not now. I'm with a couple of other runners, one of them tells me:
 > This is the last joke they've prepared for us.
 
 Or something like that. It becomes increasingly obvious that I'm going to suffer. But how the f** did I end up there?

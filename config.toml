@@ -18,6 +18,7 @@ publishDir = "docs"
 
 [params.index]
   picture = "maincover.jpg"
+  picture404 = "maincover2.jpg"
   title = "Charles Troupin"
   subtitle = ""
   mdtext = '''  

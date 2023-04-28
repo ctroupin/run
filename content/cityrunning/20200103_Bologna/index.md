@@ -7,12 +7,11 @@ comments: false
 
 Bologna is one of the largest city in Italy. It's also the capital Emilia-Romagna region, in the north of the country. When you look at the city map, you realize the center is not so extended with a diameter of 2.5 km.
 
-![Center of Bologna](./images/BolognaMap_e.jpg)
-
 ### 👟 Classic
 
-
 Some locals told us to run following the city walls, kind of an hexagonal shape (the orange line). There is a bike lane most of the time, but also lot of traffic lights, noise and ... bikes. I did not try it, surely for a pure, flat session it’s ok.
+
+![Center of Bologna](./images/BolognaMap_e.jpg)
 
 ### 🗺️ Off the beaten track
 I experienced several tracks in the southern part of Bologna: first you have to cross the city (if you’re located close to the train station -- red circle), and there are a few, almost straight streets that you can follow to get out of it. Once you’re out of the hexagon, you have many choices, it becomes hilly and the funny part can start.
