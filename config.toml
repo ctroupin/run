@@ -6,6 +6,7 @@ summaryLength = 25
 copyright = "Charles Troupin - All rights reserved"
 enableEmoji = true
 publishDir = "docs"
+assetDirs = "static"
 
 [params]
   logo = "logo.png"
@@ -59,3 +60,4 @@ publishDir = "docs"
     identifier = "about"
     weight = 500
     url = "/about"
+

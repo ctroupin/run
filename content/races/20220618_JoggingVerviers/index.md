@@ -8,15 +8,16 @@ tags: ["Race", "Verviers", "Belgique"]
 comments: false
 ---
 
+
 Le fameux jogging de Verviers... je n'ai jamais écrit dessus mais j'ai bien en tête ce que je veux raconter, et pourquoi. Ce jogging c'est le parfait exemple de course foirée (par moi) de nombreuses fois. Des bonnes jambes et des temps de merde en gros.
 
 ## In the beginning...
 
 J'ai toujours ce souvenir de Bernie qui disait qui appelait cette course le _championnat du monde de Verviers_, ou un truc dans le genre. Une manière un peu péjorative de parler des coureurs qui prennent cette course très au sérieux.
 
-D'un autre côté il faut admettre que la course est plutôt chouette: le public est très présent du début à la fin, et le parcours est varié et très agréable dans son ensembe (je sais, ça ne veut rien dire). Enfin, j'habite dans la première avenue de la course alors ne pas participer ce serait un peu dommage. 
+D'un autre côté il faut admettre que la course est plutôt chouette: le public est très présent du début à la fin, et le parcours est varié et très agréable dans son ensembsle (je sais, ça ne veut rien dire). Enfin, j'habite dans la première avenue de la course alors ne pas participer ce serait un peu dommage. 
 
-![Tracé de la course](./images/joggingverviers01.jpg)
+{{< myiframe "./leaflet/index2.html" >}}
 
 Mes premières tentatives avaient été plutôt mitigées: parfois des temps sous l'heure (pas difficile en soi, mais il faut un minimum de vitesse), d'autres fois bien au dessus, alors que j'étais bien entrainé.
 En 2017 si je ne me trompe, j'avais suivi le meneur d'allure des 55 minutes (merci Sébastien E.), pour (enfin) réaliser un temps acceptable de 55'15''. En 2019 sans aucun véritable objectif (autre que celui d'améliorer mon temps), je termine (si mes souvenirs sont bons) en 52'50. Donc en 2022, après 2 années sans jogging, pendant la prépa de la _Transvulcania_, je me dis que m'approcher des 52 minutes serait cool.
