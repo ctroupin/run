@@ -65,9 +65,9 @@
   	}
   });
 
-  var Parcours = omnivore.gpx('/data/JoggingVerviers2017.gpx', null, customLayer);
+  var Parcours = omnivore.gpx('/run/data/JoggingVerviers2017.gpx', null, customLayer);
   Parcours.addTo(map);
-  var GPM = omnivore.gpx('/data/JoggingVerviersGPDM.gpx', null, gpmLayer);
+  var GPM = omnivore.gpx('/run/data/JoggingVerviersGPDM.gpx', null, gpmLayer);
   GPM.addTo(map);
   GPM.bringToFront();
 
