@@ -17,7 +17,7 @@ J'ai toujours ce souvenir de Bernie qui disait qui appelait cette course le _cha
 
 D'un autre côté il faut admettre que la course est plutôt chouette: le public est très présent du début à la fin, et le parcours est varié et très agréable dans son ensembsle (je sais, ça ne veut rien dire). Enfin, j'habite dans la première avenue de la course alors ne pas participer ce serait un peu dommage. 
 
-{{< myiframe "./leaflet/index2.html" >}}
+{{< myiframe "./leaflet/jogging2022.html" >}}
 
 Mes premières tentatives avaient été plutôt mitigées: parfois des temps sous l'heure (pas difficile en soi, mais il faut un minimum de vitesse), d'autres fois bien au dessus, alors que j'étais bien entrainé.
 En 2017 si je ne me trompe, j'avais suivi le meneur d'allure des 55 minutes (merci Sébastien E.), pour (enfin) réaliser un temps acceptable de 55'15''. En 2019 sans aucun véritable objectif (autre que celui d'améliorer mon temps), je termine (si mes souvenirs sont bons) en 52'50. Donc en 2022, après 2 années sans jogging, pendant la prépa de la _Transvulcania_, je me dis que m'approcher des 52 minutes serait cool.
