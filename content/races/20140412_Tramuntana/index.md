@@ -10,7 +10,7 @@ comments: false
 ---
 
 19 mai 2014, _Pollença_, petit village dans le nord-est de Majorque, une fin d’après-midi... 
-> L’important c’est de participer!, 
+> L’important c’est de participer!
 
 me sort une dame debout devant la porte de sa maison, quand je lui ai dit que je ne pouvais plus courir. Perso, cette phrase, “L’important c’est de participer“, je l’ai toujours trouvé débile. Beaucoup diront c’est vrai, l’important c’est de gagner, pas de participer, mais là encore, pas d’accord. De nos jours quand on voit comment on “gagne”, ça fait presque pitié. Donc en trail, une phrase qui a pas mal de sens serai:
 > l’important c’est de terminer (dans un état qui ne soit pas lamentable).
