@@ -26,10 +26,44 @@ On a quand même fait un mésocycle d'entrainement centré sur l'allure spécifi
 ## L'état esprit
 
 Pour cette édition je n'ai jamais été aussi peu stressé. Pourquoi?
-1. Les entrainements ont été vraiment bon, je sais ce que je vaux et à quelle vitesse je dois courir.
+1. Les entrainements ont été vraiment bons, normalement je sais ce que je vaux et à quelle vitesse je dois courir.
 2. L'année dernière ça s'était super bien déroulé.
-3. Le parcours est légèrement plus long (600 m environ) eond je sais que faire un meilleur temps que l'année dernière est hors de portée.
+3. Le parcours est légèrement plus long (600 m environ) que les années précédentes, donc je sais que faire un meilleur temps que l'année dernière est hors de portée.
 
 ## La course
 
 {{< myiframe "./leaflet/jogging2023.html" >}}
+
+### Le départ
+
+Plus j'y pense et plus je me rends compte que je déteste les départs: trop de monde, ça pousse (parfois), puis il y a de temps en temps des gens qui ne devraient pas être aux avants-postes. Cette fois-ci je discutais avec des amis donc on n'était clairement mal placés. Donc à moi d'assumer. On commence en montée, je dépasse calmement mais sûrement, sans me cramer.
+
+### Début de course
+
+Beaucoup de gens sur les bords des routes, ça fait plaisir! La descente par la chaussée de Heusy (nouveauté) est évidemment super rapide, de quoi dérouler et dépasser autant que possible. Petit changement au niveau de la place Verte: on continue sur la rue Xhavée, en très légère montée, pour ensuite tourner sur la rue Jardon. Une fois arrivé devant l'Harmonie, le reste du parcours est identique aux autres années.
+
+Gérarchamps, Ensival, ... tout s'enchaine vite, c'est plus ou moins plat et ça doit aller vite, avant d'aborder le montée vers Piedvache.
+
+### Milieu de course
+
+Boum, Ensival, gros ralentissement avec le début de la montée, néanmoins ça tourne toujours pas mal et j'arrive à dépasser des coureurs. Dans cette partie là j'ai toujours l'impression qu'il faut limiter la casse, même si on est tous dans les mêmes draps et que tout le monde ralentit. 
+
+Le début de Piedvache (petit bosse) fait vraiment mal, mais après ça ira. Pas de trop de coureurs autour de moi, ça me fait toujours rite quand je compare avec d'autres éditions où j'allais moins vite et était dans un peloton. On peut presque penser qu'une fois Piedvache terminé, il ne reste plus rien point de vue montées, ce n'est pas vraiment le cas: il restera la rue de l'Usine et enfin le chemin de Rouheid.
+
+![Jogg Verviers](./images/joggingVerviers01.png)
+|:--:|
+|_Fin de la montée de Piedvache._|
+
+Toujours autant de monde sur les routes, j'essaie toujours de retrouver les gens que je connais car ils sont aux mêmes endroits d'année en année. Je suis d'ailleurs un peu triste de ne pas croiser ma tante et mon oncle vers Maraifosse... 
+
+L'endroit avec la plus grosse concentration de monde restera le Tennis de Heusy et son _tunnel_, là par contre c'est très difficile de pouvoir identifier quelqu'un parmis la foule, ça va trop vite.
+
+### La fin...
+
+Que dire, si ce n'est que ça continue sur la même rythme que le départ. On est due des Prés et un coureur me demande s'il reste des montées... Une petite, oui, ça ira. Je n'ai pas trop regardé le chrono depuis le début, ce sera clairement un moins bon temps que l'année dernière, bien que je pense que j'étais plus en forme. Le changement de parcours n'y est pas pour rien.
+
+Dans la dernière descente j'essaie d'emmener un coureur en difficulté (toute relative) sur la fin.
+
+![Jogg Verviers](./images/joggingVerviers02.png)
+|:--:|
+|_Sur la ligne d'arrivée._|
