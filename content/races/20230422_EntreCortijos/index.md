@@ -51,9 +51,7 @@ Of course, I love to run but for the races, one needs to be there in advance, ha
 
 I started _low profile_, not fast but fast enough to overtake many runners. After 2 kilometers I took the polls out of the bag and I must say the helped a lot! The landscapes were spectacular, and I thought I should take some pictures. However, with the good rhythm I thought it was better to continue.
 
-![Race track](./images/Entrecortijos002.JPG)
-|:--:|
-|_The race track._|
+{{< myiframe "./leaflet/EntreCortijos2023.html" >}}
 
 After several kilometers uphill we got the first descent. Not extremely technical, but enough to make you slow down if you're not used to this type of terrain (stones, rocks, dust). And directly after that descent: we got back to the climbing. Zero transition, not even one meter of flat terrain. Eat that!
 
