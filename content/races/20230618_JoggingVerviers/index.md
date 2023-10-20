@@ -62,7 +62,11 @@ L'endroit avec la plus grosse concentration de monde restera le Tennis de Heusy 
 
 Que dire, si ce n'est que ça continue sur la même rythme que le départ. On est due des Prés et un coureur me demande s'il reste des montées... Une petite, oui, ça ira. Je n'ai pas trop regardé le chrono depuis le début, ce sera clairement un moins bon temps que l'année dernière, bien que je pense que j'étais plus en forme. Le changement de parcours n'y est pas pour rien.
 
-Dans la dernière descente j'essaie d'emmener un coureur en difficulté (toute relative) sur la fin.
+Dans la dernière descente j'essaie d'emmener un coureur en difficulté (toute relative) sur la fin, en pensant que ça allait aller. Mais visiblement il était bien bien crâmé, donc voilà, _ciao ciao_, le demi-tour de piste se fera tout seul. 
+
+Derrière la ligne ça sent la destruction massive, normal, moi j'essaie de repartir afin de retrouver Fred qui tente se passer sous l'heure, une performance qui n'est pas de plus simple, surtout avec ce nouveau parcours. Je le retrouve pour les derniers hectomètres, accompagné de Yohan Zaradski (qui a fini 2ème!), on l'encourage non-stop, au final il ne lui manquera que 3 petites minutes pour réaliser son défi.
+
+Un bon ptit jogging de Verviers, certains _crachent_ un peu dessus alors que c'est une course bien sympa avec vraiment beaucoup de gens sur le parcours, donc on espère qu'elle continuera encore pendant longtemps.
 
 ![Jogg Verviers](./images/joggingVerviers02.png)
 |:--:|
