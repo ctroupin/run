@@ -1,5 +1,5 @@
 ---
-title: "Ultra Mallorca Serra de Tramuntana"
+title: "Ultra Mallorca Serra de Tramuntana 2014"
 racedate: 2014-04-19T23:00:00+00:00
 publishdate: 2014-04-25
 distance: 113
@@ -64,8 +64,8 @@ Au bout de ces 2 derniers km, me voici enfin dans le village de _Pollença_. Du 
 
 ## Les conclusions?
 
-1. Entraînements: not bad, mais peut et doit mieux faire. Super sensations sur 70 km, aussi bien en montée qu’en descente, puis après, relâchement. Au final, sans doute possible de faire 2 heures de moins sur le parcours en gérant mieux la distance et l’effort. Positif aussi, les seules douleurs sont celles aux pieds, les cuisses et mollets s’en sortent indemnes.
-2. Alimentation: beaucoup de changements qui portent leurs fruits. A continuer.
-3. Matériel: complètement pris (volontairement) à la légère: produits de base de la boutique que tout le monde connaît et que je ne nommerai pas, sauf pour les chaussures, des SpeedCross, qui à mon avis ne convenait pas du tout au type de terrain (du très dur sur quasi tout le trajet). Pas de trucs de compression, pas de chaussettes pour les bras, pas de pansements sur les mollets... A prendre plus au sérieux.
-4. Mental: en général quand je commence la course, je sais que je vais la terminer (sauf si c’est le jogging de Verviers), donc pas trop de problème. Il y a eu des sales bad trips sur la course, et pas vraiment d’opportunités d’échanger quelques mots avec d’autres coureurs pour penser à autre chose (et pas de lecteur MP3 pour écouter Bon Jovi, Calvin Harris, ou les To Be Three), mais ces sales moments ils ont une durée de vie très limitée, raison pour laquelle il vaut mieux ne pas leur prêter attention
-5. La suite? Content d’avoir terminé, dans un temps pas trop mauvais, mais je ne me sens pas passionné par ce sport comme certains de mes amis, qui j’espère se reconnaitront. J’ai vu les photos des gars qui passait la ligne d’arrivée comme si c’était un truc énorme… peut-être ça l’était, mais perso j’arrive pas à me dire qu’on a fait autre chose que d’avoir été d’un village à un autre à pied, en passant par quelques cols de la Tramuntana.
+1. __Entraînements:__ not bad, mais peut et doit mieux faire. Super sensations sur 70 km, aussi bien en montée qu’en descente, puis après, relâchement. Au final, sans doute possible de faire 2 heures de moins sur le parcours en gérant mieux la distance et l’effort. Positif aussi, les seules douleurs sont celles aux pieds, les cuisses et mollets s’en sortent indemnes.
+2. __Alimentation:__ beaucoup de changements qui portent leurs fruits. A continuer.
+3. __Matériel:__ complètement pris (volontairement) à la légère: produits de base de la boutique que tout le monde connaît et que je ne nommerai pas, sauf pour les chaussures, des SpeedCross, qui à mon avis ne convenait pas du tout au type de terrain (du très dur sur quasi tout le trajet). Pas de trucs de compression, pas de chaussettes pour les bras, pas de pansements sur les mollets... A prendre plus au sérieux.
+4. __Mental:__ en général quand je commence la course, je sais que je vais la terminer (sauf si c’est le jogging de Verviers), donc pas trop de problème. Il y a eu des sales bad trips sur la course, et pas vraiment d’opportunités d’échanger quelques mots avec d’autres coureurs pour penser à autre chose (et pas de lecteur MP3 pour écouter _Bon Jovi_, _Calvin Harris_, ou les _To Be Three_), mais ces sales moments ils ont une durée de vie très limitée, raison pour laquelle il vaut mieux ne pas leur prêter attention
+5. __La suite?__ Content d’avoir terminé, dans un temps pas trop mauvais, mais je ne me sens pas passionné par ce sport comme certains de mes amis, qui j’espère se reconnaitront. J’ai vu les photos des gars qui passait la ligne d’arrivée comme si c’était un truc énorme… peut-être ça l’était, mais perso j’arrive pas à me dire qu’on a fait autre chose que d’avoir été d’un village à un autre à pied, en passant par quelques cols de la Tramuntana.
