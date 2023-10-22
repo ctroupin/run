@@ -77,15 +77,15 @@ Record perso au semi évidemment explosé, beaucoup de plaisir sur tout le parco
 Pas grand chose à ajouter, si ce n'est la question: 
 > Était-ce possible d'aller plus vite?
 
-Ça prendrait un peu trop de temps pour bien y répondre, mais je vais quand même essayer rapidement. En gros je n'ai pas envie de rentrer détruit à la maison parce que j'ai trop forcé à un semi. Quand la course s'arrête la vie _normale_ reprend, il faut ranger, nettoyer, s'occuper des enfants, aller à la plaine de jeux, faire les courses, aller travailler (en courant). 
+Ça prendrait un peu trop de temps pour bien y répondre, mais je vais quand même essayer rapidement. En gros je n'ai pas envie de rentrer détruit à la maison parce que j'ai trop forcé à un semi. Quand la course s'arrête la vie _normale_ reprend, il faut ranger, nettoyer, etc.
 
-Donc oui, probablement il y a moyen d'aller un peu plus vite en se faisant plus mal, chacun décide de comment il aborde une compétition. En avril par exemple j'ai couru en donnant tout, ou presque, le résultat n'a pas été à la hauteur et puis après le retour en voiture n'a pas été facile (autrement dit: j'étais explosé et avais pensé dormir un peu sur place).
+Donc oui, probablement il y a moyen d'aller un peu plus vite en se faisant plus mal; chacun décide de comment il aborde une compétition. En avril par exemple, j'ai couru en donnant tout, ou presque, le résultat n'a pas été à la hauteur et puis après le retour en voiture n'a pas été facile (autrement dit: j'étais explosé et avais pensé dormir un peu sur place).
 
 Voilà qui termine ce petit _report_ sur ce qui a été le 4° course de l'année, et probablement l'anté-pénultième.
 
 ### Remerciements
 
-Merci à Arnaud pour m'avoir aidé à me bouger le c** et à (enfin) m'inscrire à une course. Et aussi à tous les coureurs du Sart Tilma, pour avoir supporté toutes ces séances de piste les derniers mois.
+Merci à Arnaud pour m'avoir aidé à me bouger le c** et à (enfin) m'inscrire à une course. Et aussi à tous les coureurs du Sart Tilman, pour avoir supporté toutes ces séances de piste les derniers mois.
 
 
 

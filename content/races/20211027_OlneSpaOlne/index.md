@@ -27,7 +27,6 @@ It was cold, windy sometimes, but the usual technique, consisting in wearing man
 
 ![Olne Spa Olne](./images/OSO02.jpg)
 
-
 - the race itself: when I did it 10 years ago, I remember I thought 
 > I won’t run it again. 
 
