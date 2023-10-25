@@ -5,7 +5,7 @@ publishdate: 2020-01-05
 distance: 22
 elevation: 530
 racetime: "01:39:02"
-tags: ["Trail", "Belgium", "Liège", "Sart Tilman"]
+tags: ["Trail", "Belgium", "Liège", "Sart Tilman", "Semi-marathon"]
 comments: false
 ---
 
@@ -40,7 +40,7 @@ Sur l’ensemble du parcours j’ai vraiment eu l’impression de planer, tout a
 
 | ![](./images/belleHivernoise03.jpg) |
 |:--:|
-| _En jaune: le parcours de la course; en orange, les traces des entrainements dans la zone du Sart Tilman._|
+| _En jaune: le parcours de la course; en orange, les traces des entrainements dans la zone du Sart Tilmanß._|
 
 ### En résumé
 
