@@ -5,7 +5,7 @@
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	
-	<title>La Belle Hivernoise 2019</title>
+	<title>Trail des 600 Boitheux</title>
 	
 	<link rel="shortcut icon" type="image/x-icon" href="docs/images/favicon.ico" />
 
@@ -14,7 +14,7 @@
     <script src='//api.tiles.mapbox.com/mapbox.js/plugins/leaflet-omnivore/v0.3.1/leaflet-omnivore.min.js'></script> 
     <script src='https://cdnjs.cloudflare.com/ajax/libs/leaflet.fullscreen/1.4.1/Control.FullScreen.min.js'></script> 
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet.fullscreen/1.4.1/Control.FullScreen.min.css"/>
-	<script src="/run/js/basemaps.js" crossorigin=""></script>
+    <script src="/run/js/basemaps.js" crossorigin=""></script>
 
 	<style>
 		html, body {
@@ -37,7 +37,7 @@
 
 <div id="map" style="width: 100%; height: 400px;"></div>
 <script>
-  var map = L.map('map', {fullscreenControl: true}).setView([50.5965,5.5844], 13);
+  var map = L.map('map', {fullscreenControl: true}).setView([50.4821,5.8258], 11);
 
   var baseMaps = {
   	"CartoDB": CartoDB,
@@ -56,11 +56,10 @@
   	}
   });
 
-  var Parcours = omnivore.gpx('/run/data/BelleHivernoise2018.gpx', null, customLayer);
+  var Parcours = omnivore.gpx('/run/data/TrailBoitheux2019.gpx', null, customLayer);
   Parcours.addTo(map);
 
-
-L.control.layers(baseMaps, [], {autoZIndex:false, collapsed:false}).addTo(map);
+L.control.layers(baseMaps, {}, {autoZIndex:false, collapsed:false}).addTo(map);
 
 </script>
 
