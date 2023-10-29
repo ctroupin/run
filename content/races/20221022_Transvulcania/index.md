@@ -23,6 +23,9 @@ Pour essayer de structurer un peu l'histoire je vais reprendre la course par tro
 
 La stratégie de course elle est simple: ne pas se cramer sur les 50 premiers kilomètres, afin de pouvoir bien faire les 17 km de descente depuis le sommet de l'île. Et pour la bouffe: boire fréquemment, bien mangé entre les ravitos, et éviter si possible les gels et l'excès de boisson isotonique. Et petit détail: la montre ne m'affiche ni le temps, ni les km, juste la fréquence cardiaque et l'altitude. Par expérience je sais que tant que je ne regarde pas les km, c'est que tout va bien.
 
+{{< myiframe "./leaflet/transvulcania2022.html" >}}
+
+
 ## Avant la course
 
 La question habituelle c'est: "alors, tu stresses?” Personnellement avant une course comme ça je ne me sens pas hyper bien. Pas à cause de la course mais parce qu'on est censé se reposer, ne pas courir, et ça c'est pénible. Là en plus j'étais seul (sans les enfants), donc pas spécialement de quoi me distraire. Heureusement en allant faire les courses j'ai quand même profité pour faire un petit détour avec quelques escaliers.
@@ -172,9 +175,6 @@ Après la ligne d'arrivée je vois plein de coureurs bien à la ramasse, ça me 
 Certains diront que c'est un exploit, mais ce n'est pas le cas. C'est juste une course et comme on dit, il faut pouvoir aller au charbon. Dans ma tête j'avais envie de montrer que même avec des enfants très jeunes, un boulot qui prend du temps, et surtout un terrain d'entraînement relativement plat, il y avait moyen de s'en sortir en un morceau.
 
 Un mois après le trail j'ai aussi régigé cet [article post-course](../../blog/20221110_posttransvulcania)
-
-
-[article post-course]({{< ref "/blog/20221110_posttransvulcania" >}})
 
 ## Remerciements
 
