@@ -85,7 +85,8 @@ Voilà qui termine ce petit _report_ sur ce qui a été le 4° course de l'anné
 
 ### Remerciements
 
-Merci à Arnaud pour m'avoir aidé à me bouger le c** et à (enfin) m'inscrire à une course. Et aussi à tous les coureurs du Sart Tilman, pour avoir supporté toutes ces séances de piste les derniers mois.
+Merci à Arnaud pour m'avoir aidé à me bouger le cul et à (enfin) m'inscrire à une course. Et aussi à tous les coureurs du Sart Tilman, pour avoir supporté toutes ces séances de piste les derniers mois. J'allais oublier de mentionner le TEC Liège Verviers qui, avec son service pas terrible, m'a poussé à ne plus prendre le bus depuis 1 an et demi, et par conséquent de faire les trajets entre la gare et le bureau en courant.
+
 
 
 
