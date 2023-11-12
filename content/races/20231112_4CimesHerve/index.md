@@ -10,27 +10,30 @@ comments: false
 
 > Une course, un défi, une légende.
 
-C'est avec ces mots qu'est décrite la course, "_Les 4 Cimes_", ou si on veut être complet: "_Les 4 Cimes du Pays du Herve_". Pour l'avoir courrue pour la première fois il y a de nombreuses années, je pense que la description est juste.
+C'est avec ces mots qu'est décrite la course, "_Les 4 Cimes_", ou si on veut être complet: "_Les 4 Cimes du Pays du Herve_". Pour l'avoir courue pour la première fois il y a de nombreuses années, je pense que la description est juste.
 
 ## In the beginning...
 
-Pour moi les 4 Cimes c'est déjà une vieille histoire. Sans refaire toute mon histoire de coureur, je peux dire que c'est une des premières grosses courses à laquelle j'ai participé, ça devait être en 2007. Je revenais de mon séjour en Erasmus à Gran Canaria et commençais à travailler à Liège. Mon collègue et ami Marc m'avait parlé régulièrement de cette course, et un jour de novembre je me suis dit: "Let's do it". Mais les inscriptions étant cloturée, il fallait la faire de manière officieuse. Je ne sais plus en combien de temps j'avais fini (plus de 3 heures à coup sûr), mais en tout cas ça avait été laborieux.
+Pour moi les 4 Cimes c'est déjà une vieille histoire. Sans refaire toute mon histoire de coureur, je peux dire que c'est une des premières grosses courses à laquelle j'ai participé, ça devait être en 2007. Je revenais de mon séjour Erasmus à Gran Canaria et commençais à travailler à Liège. Mon collègue Marc m'avait parlé régulièrement de cette course, et un jour de novembre je me suis dit: "Let's do it". Mais les inscriptions étant cloturée, il fallait la faire de manière officieuse. Je ne sais plus en combien de temps j'avais fini (plus de 3 heures à coup sûr), mais en tout cas ça avait été laborieux.
 
 ![](./images/Cimes00.JPG)
 
-S'en suivirent d'autres tentatives, dont je ne garde pas spécialement de souvenirs (ni bons, ni mauvais), mais je vois par exemple qu'en 2009 j'ai fait 03:01:47 et en 2011, 03:06:29, donc rien de brillant.
+S'en suivirent d'autres tentatives, en étant bien inscrit, et dont je ne garde pas spécialement de souvenirs (ni bons, ni mauvais), mais je vois par exemple que j'ai fait
+- en 2009, 03:01:47
+- en 2011, 03:06:29
+Bref, rien de brillant.
 
-Par ailleurs c'est une course que je considère dans mon Top3 des courses que j'ai le plus foirées. 
+Par ailleurs c'est une course que je considère dans mon Top-3 des courses que j'ai le plus foirées. 
 
 ## Le retour sur le parcours...
 
-C'est un peu le hasard qui me fait revenir sur le parcours. Pas d'ambition particulière, juste envie de profiter de l'endroit (normalement il fera sec et froid) et surtout de voir comment les jambes vont tourner sur une telle distance. La semaine n'a pas été particulièrement facile point de vue entrainements, mais j'ai (heureusement) évité de courir vendredi et samedi (enfin si j'ai couru mais juste pour aller à la boulangerie). Et samedi séance de muscu super light, sans activer trop les jambes ni détruire le haut du corts. Essayez de faire une course à fond avec une douleur aux pecs ou aux épaules, vous verrez que ce n'est pas très drôle.
+C'est un peu le hasard qui me fait revenir sur le parcours. Pas d'ambition particulière, juste envie de profiter de l'endroit (normalement il fera sec et froid) et surtout de voir comment les jambes vont tourner sur une telle distance. La semaine n'a pas été particulièrement facile point de vue entrainements, mais j'ai (heureusement) évité de courir vendredi et samedi (enfin si j'ai couru mais juste pour aller à la boulangerie). Et samedi séance de muscu super _light_, sans activer trop les jambes ni détruire le haut du corts. Essayez de faire une course à fond avec une douleur aux pecs ou aux épaules, vous verrez que ce n'est pas très drôle.
 
 Donc comme pour le Semi de Liège, améliorer mon temps sera déjà une bonne chose, même si ici je pense plus au plaisir qu'à autre chose.
 
 ## L'avant-course 
 
-Départ vers 10h de la maison, je me gare dans le grand parking à côté de la route qui va vers Henri-Chapelle, après tout ce n'est que 1.5 km jusqu'au départ, et en voyant la file de voitures qui n'avancent quasi pas pour entrer dans Battice, je me dis que c'était le bon choix. Point de vue fringues: après l'avoir courue dans des conditions de merde (drache et froid), j'avais envie d'être léger, donc 2 t-shirts manches courtes et des manchettes, et l'affaire est faire, j'ai eu chaud toute la course.
+Départ vers 10h de la maison, je me gare dans le grand parking à côté de la route qui va vers Henri-Chapelle, après tout ce n'est que 1.5 km jusqu'au départ, et en voyant la file de voitures qui n'avancent quasi pas pour entrer dans Battice, je me dis que c'était le bon choix. Point de vue fringues: après l'avoir courue dans des conditions de merde (drache et froid), j'avais envie d'être léger, donc 2 t-shirts superposés manches courtes et des manchettes, et l'affaire est faire, j'ai eu chaud toute la course.
 
 ![](./images/Cimes01.JPG)
 
@@ -38,11 +41,11 @@ Départ vers 10h de la maison, je me gare dans le grand parking à côté de la 
 
 ## La course
 
-Le départ des 2 Cimes et des 4 Cimes est en même temps, donc je me dis que ça ne sert à rien d'aller trop vite. Je me fais dépasser par plein de gens, en aillait l'impression d'aller penart. La montre indique 3'35/km. C'est pas moi qui vais me niquer les quad's au premier km.
+Le départ des 2 Cimes et des 4 Cimes est en même temps, donc je me dis que ça ne sert à rien d'aller trop vite. Je me fais dépasser par plein de gens, en ayant l'impression d'aller pénard. La montre indique 3'35/km. En tout cas ce n'est pas moi qui vais me niquer les quads au premier km.
 
 {{< myiframe "./leaflet/QuatreCimesHerve2023.html" >}}
 
-Après j'ai l'impression que je vais trop vite et surtout que je vais très vite exploser. Le jeu sera alors de retarder au plus tard l'explosion. Bonne surprise: les côtes se passent très bien, je dépasse beaucoup sans forcer. Par contre en descente je vais le couillon et n'exagèrent pas les foulées. Je suis en pleine lecture de "_La Clinique du Coureur_" et j'ai sans doute peur après avoir lu ce qu'ils disent sur les descentes.  
+Après j'ai l'impression que je vais trop vite et surtout que ça va très vite exploser. Le jeu sera alors de retarder au plus tard l'explosion. Bonne surprise: les côtes se passent très bien, je dépasse beaucoup sans forcer. Par contre en descente je fais le couillon et n'exagèrent pas les foulées. Je suis en pleine lecture de "_La Clinique du Coureur_" et j'ai sans doute peur après avoir lu ce qu'ils disent sur les descentes.  
 
 Vers le 8ème km, les 2 distances se séparent, ça permet de voir un peu plus clair dans le peloton. J'ai toujours l'impression d'aller trop vite et que ça va finir par peter. Bor*** il reste encore 25 km. Depuis quasi le début j'ai mis la montre sur mode "cardio", rien à faire du temps, de la vitesse et de ces trucs-là. Il y a de toute façon des panneaux tous les kilomètres, avec en plus le profile de la course. 
 
@@ -69,4 +72,3 @@ __31ème km__, je me rends compte que je n'ai aucune idée du temps écoulé. 2 
 Énormes remerciements aux organisateurs et aux bénévoles, vraiment tout était nickel, chaque fois je me dis qu'on a de la chance d'avoir encore des courses comme ça dans la région, qui ne sont pas tombées dans l'escarcelle de grosses boîtes privées qui visent unique le chiffr€. 
 
 Merci à Arnaud pour le dossard, à Gédéon pour les photos (pas encore été voir), et à Marc pour m'avoir fait découvrir cette course il y a déjà longtemps.
- 
