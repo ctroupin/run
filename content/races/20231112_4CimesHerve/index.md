@@ -67,6 +67,8 @@ On commence à recontrer des coureurs qui marchent dans les côtes, normal, j'es
 __30ème__ km, ça monte, ça va redescendre, puis enfin la montée finale (de merde) vers l'arrivée. 
 __31ème km__, je me rends compte que je n'ai aucune idée du temps écoulé. 2 heures et quelques, mais combien? Donc je change le mode de la Garmin (qui était en cardio) et voit: 2h19. Il reste 2 bornes. A.M. avait fait 2h26 si mes souvenirs sont bons, donc comme je cours avec son dossard, autant améliorer son temps. Malheureusement même si la descente se fait bien (probablement une des 2 descentes où j'ai tiré), la dernière côte ne me permettra pas de passer sous les 2h27, ce qui est quand même plus de 30 minutes de mieux que mon ancien record (c'était dans une autre vie, pas le moment pour expliquer ça ici).
 
+![](./images/heart_cimes.jpg)
+
 ## Remerciements
 
 Énormes remerciements aux organisateurs et aux bénévoles, vraiment tout était nickel, chaque fois je me dis qu'on a de la chance d'avoir encore des courses comme ça dans la région, qui ne sont pas tombées dans l'escarcelle de grosses boîtes privées qui visent unique le chiffr€. 
