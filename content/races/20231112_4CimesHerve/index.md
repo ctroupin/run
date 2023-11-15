@@ -54,6 +54,7 @@ Vers le 8ème km, les 2 distances se séparent, ça permet de voir un peu plus c
 À un moment j'ai dû déconnecter, ou peut-être entrer dans une période de _flow_, et les kilomètres ont commencé à passer super vite. J'avais prévu 3 gels, ça peut paraitre trop mais:
 1. Je crois que je consomme pas mal de calories vu mon poids.
 2. Il me manque de l'entrainement à ce niveau-là, le _gut training_ comme ils disent.
+Et aux ravitaillements, je prends bien le temps de boire et aussi de manger du solide.
 
 Je ne sais pas jusque quand a duré le _flow_, en tout cas on est "vite" arrivé à 25 km, et à ce moment-là je suis entré en mode "_calcul_": c'est quand un coureur commence à faire des calculs de temps, de vitesse etc, genre:
 > Si je cours à du 12 km/h ou plus, il ne me reste plus que 8 X 5 = 40' de course.
@@ -68,6 +69,12 @@ __30ème__ km, ça monte, ça va redescendre, puis enfin la montée finale (de m
 __31ème km__, je me rends compte que je n'ai aucune idée du temps écoulé. 2 heures et quelques, mais combien? Donc je change le mode de la Garmin (qui était en cardio) et voit: 2h19. Il reste 2 bornes. A.M. avait fait 2h26 si mes souvenirs sont bons, donc comme je cours avec son dossard, autant améliorer son temps. Malheureusement même si la descente se fait bien (probablement une des 2 descentes où j'ai tiré), la dernière côte ne me permettra pas de passer sous les 2h27, ce qui est quand même plus de 30 minutes de mieux que mon ancien record (c'était dans une autre vie, pas le moment pour expliquer ça ici).
 
 ![](./images/heart_cimes.jpg)
+
+## Les améliorations
+
+Toujours bon de lister les points à améliorer, comme de toute façon je vais oublier:
+1. Entraînements en descente: peut-être le plus urgent. Avec du recul, la dernière fois que j'ai vraiment eu mal aux cuisses c'était après le Jogging de Verviers, qui n'est pas spécialement difficile, mais c'est probablement les descentes faites à fond qui ont cassé de la fibre musculaire.
+2. Sorties longues: encore un thème récurrent dans ce blob, les fameuses sorties longues, que je ne fais plus depuis très longtemps, et ce pour différentes raison. En fait ce sont les courses qui me forcent à courir longtemps, sinon je crois que ma moyenne de km par sortie est en dessous de 10.
 
 ## Remerciements
 
