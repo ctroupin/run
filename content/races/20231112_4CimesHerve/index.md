@@ -14,7 +14,11 @@ C'est avec ces mots qu'est décrite la course, "_Les 4 Cimes_", ou si on veut ê
 
 ## In the beginning...
 
-Pour moi les 4 Cimes c'est déjà une vieille histoire. Sans refaire toute mon histoire de coureur, je peux dire que c'est une des premières grosses courses à laquelle j'ai participé, ça devait être en 2007. Je revenais de mon séjour Erasmus à Gran Canaria et commençais à travailler à Liège. Mon collègue Marc m'avait parlé régulièrement de cette course, et un jour de novembre je me suis dit: "Let's do it". Mais les inscriptions étant cloturée, il fallait la faire de manière officieuse. Je ne sais plus en combien de temps j'avais fini (plus de 3 heures à coup sûr), mais en tout cas ça avait été laborieux.
+Pour moi les 4 Cimes c'est déjà une vieille histoire. Sans refaire toute mon histoire de coureur, je peux dire que c'est une des premières grosses courses à laquelle j'ai participé, ça devait être en 2007. Je revenais de mon séjour Erasmus à Gran Canaria et commençais à travailler à Liège. Mon collègue Marc m'avait parlé régulièrement de cette course, et un jour de novembre je me suis dit:
+
+> Let's do it. 
+
+Mais les inscriptions étant cloturée, il fallait la faire de manière officieuse. Je ne sais plus en combien de temps j'avais fini (plus de 3 heures à coup sûr), mais en tout cas ça avait été laborieux. J'ai appris par la suite que Marc l'avait terminé 15 (!) fois, donc chapeau à lui!
 
 ![](./images/Cimes00.JPG)
 
@@ -69,6 +73,8 @@ __30ème__ km, ça monte, ça va redescendre, puis enfin la montée finale (de m
 __31ème km__, je me rends compte que je n'ai aucune idée du temps écoulé. 2 heures et quelques, mais combien? Donc je change le mode de la Garmin (qui était en cardio) et voit: 2h19. Il reste 2 bornes. A.M. avait fait 2h26 si mes souvenirs sont bons, donc comme je cours avec son dossard, autant améliorer son temps. Malheureusement même si la descente se fait bien (probablement une des 2 descentes où j'ai tiré), la dernière côte ne me permettra pas de passer sous les 2h27, ce qui est quand même plus de 30 minutes de mieux que mon ancien record (c'était dans une autre vie, pas le moment pour expliquer ça ici).
 
 ![](./images/heart_cimes.jpg)
+|:--:|
+|_Le cardio (battements par minute) le long de la course. Comme prévu: ça descend vite dès qu'on descend._|
 
 ## Les améliorations
 
@@ -80,4 +86,4 @@ Toujours bon de lister les points à améliorer, comme de toute façon je vais o
 
 Énormes remerciements aux organisateurs et aux bénévoles, vraiment tout était nickel, chaque fois je me dis qu'on a de la chance d'avoir encore des courses comme ça dans la région, qui ne sont pas tombées dans l'escarcelle de grosses boîtes privées qui visent unique le chiffr€. 
 
-Merci à Arnaud pour le dossard, à Gédéon pour les photos (pas encore été voir), et à Marc pour m'avoir fait découvrir cette course il y a déjà longtemps.
+Merci à Arnaud pour le dossard, à [Gédéon](http://www.gedeonbaltazard.be/) pour les photos (pas encore été voir), et à Marc pour m'avoir fait découvrir cette course il y a déjà longtemps.
