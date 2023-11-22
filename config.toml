@@ -41,17 +41,17 @@ assetDirs = "static"
 
 ## Main Menu
 [[menu.main]]
-    name = "🖊️ Blog"
+    name = "Blog"
     weight = 100
     identifier = "blog"
     url = "/blog"
 [[menu.main]]
-    name = "🏁 Races"
+    name = "Races"
     weight = 200
     identifier = "races"
     url = "/races"
 [[menu.main]]
-    name = "🏙️ City running"
+    name = "City running"
     identifier = "city"
     weight = 400
     url = "/cityrunning"
