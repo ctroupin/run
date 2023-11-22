@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<base target="_top">
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	
+	<title>Jogging de Verviers</title>
+	
+	<link rel="shortcut icon" type="image/x-icon" href="docs/images/favicon.ico" />
+
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin=""/>
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+    <script src='//api.tiles.mapbox.com/mapbox.js/plugins/leaflet-omnivore/v0.3.1/leaflet-omnivore.min.js'></script> 
+    <script src='https://cdnjs.cloudflare.com/ajax/libs/leaflet.fullscreen/1.4.1/Control.FullScreen.min.js'></script> 
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet.fullscreen/1.4.1/Control.FullScreen.min.css"/>
+	<script src="/run/js/basemaps.js" crossorigin=""></script>
+
+	<style>
+		html, body {
+			height: 100%;
+			margin: 0;
+		}
+		.leaflet-container {
+			height: 400px;
+			width: 600px;
+			max-width: 100%;
+			max-height: 100%;
+		}
+	</style>
+
+	
+</head>
+<body>
+
+
+
+<div id="map" style="width: 100%; height: 400px;"></div>
+<script>
+var map = L.map('map', {fullscreenControl: true}).setView([50.5470,5.7764], 11);
+
+var baseMaps = {
+"CartoDB DarkMatter": CartoDB_DarkMatter,
+"OpenStreetMap": OpenStreetMap_Mapnik,
+"ESRI World Imageny": Esri_WorldImagery,
+};
+
+map.addLayer(OpenStreetMap_Mapnik)
+
+var customLayer = L.geoJson(null, {
+    style: function(feature) {
+        return {
+            color: "#" + Math.floor(Math.random()*16777215).toString(16),
+            weight: 3,
+            opacity: .9
+            };
+    }
+});
+
+var customLayerLast = L.geoJson(null, {
+    style: function(feature) {
+        return {
+            color: "red",
+            weight: 4,
+            opacity: 1
+            };
+    }
+});
+
+var moves = ["OSO2011.gpx", "OSO2014.gpx", "OSO2017.gpx","OSO2018.gpx", "OSO2021.gpx", "OSO2022.gpx"]
+
+var nMoves = moves.length;
+var OldTracks = [];
+for (var i = 0; i < nMoves ; i++) {
+    var moveGps = omnivore.gpx('/run/data/' + moves[i], null, customLayer).addTo(map);
+    OldTracks.push(moveGps);
+    console.log(OldTracks);
+}
+
+var lastTrack = omnivore.gpx('/run/data/OSO2023.gpx', null, customLayerLast).addTo(map);
+
+var start = L.marker([50.59011,5.75211]).addTo(map);
+
+var overlayers = {
+    "Past editions": L.layerGroup(OldTracks),
+    "2023": lastTrack
+};
+
+L.control.layers(baseMaps, overlayers, {autoZIndex:false, collapsed:false}).addTo(map);
+
+</script>
+
+</body>
+</html>
