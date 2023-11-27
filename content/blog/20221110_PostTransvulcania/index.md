@@ -70,7 +70,13 @@ Ici pour être précis je veux surtout dire muscu: là où en 2010 j'allais prob
 |:--:|
 | _La Caldera de Tejeda._|
 
-À côté de ça j'ai quand même travaillé avec un préparateur physique pour tout ce qui est: mobilité (dévérouillage articulaire), plyométrie, proprioception, étirements dynamiques et éducatifs. C'est venu quelques mois avant la course, j'ai senti que ça aidait et j'imagine qu'avec le temps et la pratique ça aidera encore plus. 
+À côté de ça j'ai quand même travaillé avec un préparateur physique pour tout ce qui est
+- mobilité (dévérouillage articulaire), 
+- plyométrie, 
+- proprioception, 
+- étirements dynamiques et 
+- éducatifs. 
+C'est venu quelques mois avant la course, j'ai senti que ça aidait et j'imagine qu'avec le temps et la pratique ça aidera encore plus. 
 
 Avec plus de temps libre je crois que j'irais 2 fois par semaine à la salle pour travailler aussi bien le haut du corps que les jambes. 
 
