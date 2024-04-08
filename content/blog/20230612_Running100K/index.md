@@ -21,7 +21,6 @@ Vers fin mai 2022 que j'ai commencé à mieux compter les kilomètres. À l'épo
 
 ![Les bois du Sart Tilman](./images/running100_02.jpeg)
 
-
 Les premières semaines j'étais vers 90-95 km, ça allait sans trop de soucis. Et aussi, ça correspondait à l'époque où j'ai arrêté de prendre le bus pour aller au bureau, ajoutant ainsi pas mal de kilomètres au total. Je me souviens d'avoir faire des sorties le dimanche en fin de soirée pour finalement arriver aux fameux 100K. C'était bête, c'est sûr, mais voilà, si courir 5-10 km un dimanche soir permet d'accomplir un objectif, 
 alors pourquoi pas.
 

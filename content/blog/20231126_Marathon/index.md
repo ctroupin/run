@@ -49,10 +49,3 @@ Courir plus de 42 km j'ai déjà dû le faire pas mal de fois, surtout en trail 
 
 Pour le physique j'ose espérer que je tiendrai le coup vu les longues courses déjà terminées et aussi le volumr d'entrainement. Pour le mental j'ai l'impression que les sorties longues aideront. Je sais que certains plans proposent de ne pas dépasser un certains nombres de km dans la préparation du marathon, ici je me dis que déjà faire une sortie route de 35 km ça me plairait. 
 
-
-
-is accessible for free throughout the venue:
-
-    Network: nhow
-    Login: nh
-    Password: wifi
