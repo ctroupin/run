@@ -135,8 +135,7 @@ Ce dont je ne me souvenais pas, c'est que la descente est entrecoupée de petite
 |:--:|
 | _Vue de la Caldera de Taburiente_.|
 
-
-La descente se déroule plutôt bien et le moral remonte quand je compare avec la descente des autres éditions. Je regarde la montre toutes les 5 minutes (jamais un bon signe), les kilomètres défilent et nous voici à quelques hectomètres de la Tour del Time, 1000 m d'altitude. All good.
+La descente se déroule plutôt bien et le moral remonte quand je compare avec la descente des autres éditions. Je regarde la montre toutes les 5 minutes (jamais un bon signe), les kilomètres défilent et nous voici à quelques hectomètres de la _Torre del Time_, 1000 m d'altitude. All good.
 
 | ![Torre del Time](./images/transvulcania2022_000016.jpg) |
 |:--:|
@@ -152,9 +151,17 @@ Bon faut continuer, mais ce genre de douleur prend tout l'attention, je n'ai plu
 |:--:|
 | _Le nouveau volcan, né en 2021._|
 
-Pour me consoler je prends des photos du volcan _Tajogaite_, entré en eruption il y a un peu plus d'un an. Parfois il y a des bénévoles sur le bord du chemin, quand je m'arrête ils demandent "tu veux arrêter?", je leur réponds que non, que j'ai juste envie de vomir. Une fois sur la grand route je discute un peu avec la Croix Rouge, en me disant qu'ils auront peut-être un truc à me proposer, n'importe quel médoc, vu que je ne prends jamais rien, m'aurait probablement sauvé, mais non, le seul truc qu'ils me disent c'est que si j'ai encore mal au prochaine ravitaillement (3 km plus bas) je n'ai qu'à demander qu'on me ramène (i.e.: abandon). Super plan!
+Pour me consoler je prends des photos du volcan _Tajogaite_, entré en eruption il y a un peu plus d'un an. Parfois il y a des bénévoles sur le bord du chemin, quand je m'arrête ils demandent 
 
-Comment je suis sorti de cette impasse? Un gars qui avait appelé les gens de la Croix Rouge me demande si ça va mieux (réponse évidente: non), mais bon, on se fait un check 👊, et il me dit: "tu vas finir alors?” et je lui dis que oui. C'était suffisant pour le faire. Les 3 derniers km de descente se passe quasi comme sur des roulettes, je redépasse plein de gens même si la douleur est exactement la même.
+> Tu veux arrêter?
+
+je leur réponds que non, que j'ai juste envie de vomir. Une fois sur la grand route je discute un peu avec la Croix Rouge, en me disant qu'ils auront peut-être un truc à me proposer, n'importe quel médoc, vu que je ne prends jamais rien, m'aurait probablement sauvé, mais non, le seul truc qu'ils me disent c'est que si j'ai encore mal au prochaine ravitaillement (3 km plus bas) je n'ai qu'à demander qu'on me ramène (i.e.: abandon). Super plan!
+
+Comment je suis sorti de cette impasse? Un gars qui avait appelé les gens de la Croix Rouge me demande si ça va mieux (réponse évidente: non), mais bon, on se fait un check 👊, et il me dit: 
+
+> tu vas finir alors?
+
+et je lui dis que oui. C'était suffisant pour le faire. Les 3 derniers km de descente se passe quasi comme sur des roulettes, je redépasse plein de gens même si la douleur est exactement la même.
 
 | ![Volcan Tajogaite](./images/transvulcania2022_000018.jpg) |
 |:--:|
@@ -174,7 +181,7 @@ Après la ligne d'arrivée je vois plein de coureurs bien à la ramasse, ça me 
 
 Certains diront que c'est un exploit, mais ce n'est pas le cas. C'est juste une course et comme on dit, il faut pouvoir aller au charbon. Dans ma tête j'avais envie de montrer que même avec des enfants très jeunes, un boulot qui prend du temps, et surtout un terrain d'entraînement relativement plat, il y avait moyen de s'en sortir en un morceau.
 
-Un mois après le trail j'ai aussi régigé cet [article post-course](../../blog/20221110_posttransvulcania)
+Un mois après le trail j'ai aussi rédigé cet [article post-course](../../blog/20221110_posttransvulcania)
 
 ## Remerciements
 
@@ -182,4 +189,6 @@ Je ne pensais pas écrire cette partie, maintenant ça fait un peu comme une th�
 
 Merci aux collègues du Sart Tilman, c'est toujours un plaisir de courir avec vous tous ces temps de midi, et ça doit justement rester un plaisir! Merci à Arnaud pour ces séances "tranquilles” où au final on était plus proche du 4 min/km que du 5 min/km. Merci à Jordi pour tout ce qui est prépa physique, je crois que ça a porté ses fruits, et merci à Alberto C. qui a eu cette riche idée de me proposer de faire cette course l'année dernière quand on s'entraînait tranquillement à Gran Canaria.
 
-Mes excuses si j'ai oublié quelqu'un (il n'est jamais trop tard pour éditer ).
+Mes excuses si j'ai oublié quelqu'un (il n'est jamais trop tard pour éditer).
+
+📸 https://photos.app.goo.gl/FyqcC1qQ6mWH8YD89

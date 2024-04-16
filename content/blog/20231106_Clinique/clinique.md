@@ -1,6 +1,6 @@
 ---
 title: "La Clinique du Coureur (2022)"
-publishdate: 2023-03-08T20:00:00+00:00
+publishdate: 2025-03-08T20:00:00+00:00
 tags: ["Book review"]
 comments: false
 ---
@@ -46,4 +46,6 @@ Si on suit la raisonnement, pour éviter les blessures il suffirait d'éviter le
 - n'augmentez pas votre volume
 - ne changez pas d'entraineur ;)
 
-Est-ce que tout ça est possible? Sans doute, mais ce n'est pas vraiment le but: souvent on veut courir plus et plus vite; on veut tester de nouvelles séances; on veut (doit) changer de chaussures car les anciennes n'existent plus. 
+Est-ce que tout ça est possible? Sans doute, mais ce n'est pas vraiment le but: souvent on veut courir plus et plus vite; on veut tester de nouvelles séances; on veut (doit) changer de chaussures car les anciennes n'existent plus. Alors que faire?
+
+La progressivité: on conseille d'augmenter le volume d'un certain pourcentage par saison. Autrement dit: ne pas passer de 50 km à 120 km par semaine. Pour les chaussures, ne pas passer d'une paire avec plein d'amorti vers une paire minimaliste. La transition doit se faire   
