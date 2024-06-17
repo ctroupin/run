@@ -40,7 +40,7 @@ Sur l’ensemble du parcours j’ai vraiment eu l’impression de planer, tout a
 
 | ![](./images/belleHivernoise03.jpg) |
 |:--:|
-| _En jaune: le parcours de la course; en orange, les traces des entrainements dans la zone du Sart Tilmanß._|
+| _En jaune: le parcours de la course; en orange, les traces des entrainements dans la zone du Sart Tilman._|
 
 ### En résumé
 
