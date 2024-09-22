@@ -79,7 +79,7 @@ Après, on voit clairement la différence entre des coureurs locaux moyens-bons 
 
 ![](./images/GCrun_07.JPG)
 
-À refaire? Non. Même JM était pas vraiment content. On a déjà fait des sorties probablement plus dures, en petit groupe, et tout se passait bien. Ici dès le début ça s'est emballé, au point qu'une sortie annoncée comme "tranquille" s'est transformée en séance de "meilleurs temps" pour certains.
+À refaire? Bien sûr que non. Même JM, qui m'avait invité, n'était pas vraiment content. Ensemble on a déjà fait des sorties probablement plus dures, en petit groupe, et tout se passait bien. Ici dès le début ça s'est emballé, au point qu'une sortie annoncée comme "tranquille" s'est transformée en séance de "meilleurs temps" pour certains. L'effet de groupe probablement.
 
 Bon voilà, j'ai presque fini cet article quand j'attendais à l'avion à l'aéroport, puis il y a fallu un long trajet en train pour y mettre la ligne finale. Prochain article, presque sûr, sur la prépa du marathon de Eindhoven, octobre 2024.
 
