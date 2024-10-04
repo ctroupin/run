@@ -1,3 +1,10 @@
+---
+title: "Prépa Marathon Eindhoven"
+publishdate: 2025-09-10
+tags: ["Marathon"]
+comments: false
+---
+
 Je vais profiter du trajet en train pour écrire un peu sur le marathon de Eindhoven et surtout la préparatoon pour celui-ci.
 On est à 5 semaines (3 semaines maintenant) de l'objectif, et jusqu'à présent ça va assez bien.
 
