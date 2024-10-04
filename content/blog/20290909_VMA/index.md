@@ -1,6 +1,6 @@
 ---
 title: "VO2max et ses mystères"
-publishdate: 2024-04-04T06:00:00+00:00
+publishdate: 2029-04-04T06:00:00+00:00
 tags: ["Training"]
 comments: false
 ---

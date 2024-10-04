@@ -1,6 +1,6 @@
 ---
 title: "Sortie en groupe à Gran Canaria"
-publishdate: 2029-08-07
+publishdate: 2024-08-07
 tags: ["Gran Canaria", "Islas Canarias", "Trail"]
 comments: false
 ---
