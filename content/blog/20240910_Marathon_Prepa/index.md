@@ -6,22 +6,22 @@ comments: false
 ---
 
 Je vais profiter de différents trajets en train pour écrire un peu sur le [marathon de Eindhoven](https://asmlmarathoneindhoven.nl/) et surtout la préparation pour celui-ci.
-Quand j'ai commencé à écrire ce texte, on était 5 semaines puis 3 semaines de l'objectif, et à ces moments-là ça va allait encore assez bien. Maintenant il reste moins d'une semaine et tout a changé...
+Quand j'ai commencé à écrire ce texte, on était 5 semaines, puis 3 semaines de l'objectif, et à ces moments-là ça va allait encore assez bien. Maintenant il reste moins d'une semaine et tout a changé...
 
 ## Au commencement...
 
-Ici la décision de courir le marathon de Eindhoven est simple: j'ai foiré à [Paris](https://ctroupin.github.io/run/races/20240407_paris/), il faut que je retente. 
-Et pourquoi j'avais, à l'époque, décidé de courir à Paris? Probablement parce que j'avais couru le [semi de la Province de Liège](https://ctroupin.github.io/run/races/20231015_semiliege/) et que ça c'était vraiment bien passé.
+Ici, la décision de courir le marathon de Eindhoven est simple: j'ai foiré à [Paris](https://ctroupin.github.io/run/races/20240407_paris/), il faut que je retente. 
+Et pourquoi j'avais, à l'époque, décidé de courir à Paris? Probablement parce que j'avais couru le [semi de la Province de Liège](https://ctroupin.github.io/run/races/20231015_semiliege/) et que ça c'était plutôt bien passé.
 
 ## Le plan
 
 Avoir un bon plan pour l'entrainement, ça aide. D'habitude je mélangeais un peu plusieurs plan, j'utilisais des séances vues sur Youtube (merci [RunWise](https://www.youtube.com/@RunWise_)), mais la vie de tous les jours fait qu'il était difficile de planifier plus d'une semaine à l'avance. Et quand ce n'est pas planifié, on a tendance à faire, je ne vais pas dire n'importe quoi, mais plutôt quelque chose qui n'est pas optimal. 
 
 Les gros soucis de Paris, je les connaissais (ici je parle uniquement de la prépa course à pied, pas de virus ou autres):
-1. Une préparation quasi inexistante: dommage, sans prépa, pas de miracle sur de telles distances.
-2. Un manque cruel de sorties longues: un marathon c'est long aussi bien pour les jambes que pour la tête. Si après 1h de course tu sais qu'il te reste environ 2 heures à tirer, il faut être prêt.
-3. Un manque de stress (positif): normalement quand on prépare un gros évènement on sent parfois la boule au ventre, surtout au départ, alors qu'à Paris j'étais en mode "touriste", pas grand chose à faire. Donc ici je vais essayer de me mettre une petite pression, même sur certaines séances.
-4. L'alimentation: je n'étais pas trop mal mais je n'étais pas non plus super _sharp_. De petites habitudes à changer devraient aider.
+1. Une __préparation__ quasi inexistante: dommage, sans prépa, pas de miracle sur de telles distances.
+2. Un manque cruel de __sorties longues__: un marathon c'est long aussi bien pour les jambes que pour la tête. Si après 1 heure de course, tu sais qu'il te reste environ 2 heures à tirer, il faut être prêt.
+3. Un manque de __stress__ (positif): normalement quand on prépare un gros évènement on sent parfois la boule au ventre, surtout au départ, alors qu'à Paris j'étais en mode _touriste_, pas grand chose à faire. Donc ici je vais essayer de me mettre une petite pression, même sur certaines séances.
+4. L'__alimentation__: je n'étais pas trop mal mais je n'étais pas non plus super _sharp_. De petites habitudes à changer devraient aider.
 
 ### Les entrainements
 
@@ -36,7 +36,7 @@ La course en elle-même n'est que la réalisation de tout ce qui a été prépar
 
 ### Sensations et mental
 
-Un truc qui manquait cruellement lors du marathon de Paris, c'était le manque de pression. Souvent la pression est vue négtivement alors qu'elle a aussi du positif. Pas de pression c'est comme si on s'en tapait de la course et ce qui m'était arrivé. Pas seulement sur Paris d'alleurs, mais aussi lors de gros trails il y  quelues mois. D'un côté c'est bien parce u'il y a une époque ou c'était vraiment stressant de prendre un départ. Stressant et négatif. Parfois je disais que ça me stressait plus un départ de course qu'un examen à l'univ ou une présentation orale devant plus de 100 personnes. J'ai jamais vraiment compris d'où ça venait. 
+Un truc qui manquait cruellement lors du marathon de Paris, c'était le manque de pression. Souvent la pression est vue négtivement alors qu'elle a aussi du positif. Pas de pression c'est comme si on s'en tapait de la course et ce qui m'était arrivé. Pas seulement sur Paris d'alleurs, mais aussi lors de gros trails il y  quelques mois. D'un côté c'est bien parce u'il y a une époque ou c'était vraiment stressant de prendre un départ. Stressant et négatif. Parfois je disais que ça me stressait plus un départ de course qu'un examen à l'univ ou une présentation orale devant plus de 100 personnes. J'ai jamais vraiment compris d'où ça venait. 
 
 #### Comment se mettre une pression? 
 
@@ -51,9 +51,9 @@ Bref, pour se mettre de la pression, ce sera pour une autre fois.
 
 ## Les objectifs
 
-Entrons dans le vif du sujet: quels sont les objectifs de la course. 
+Entrons dans le vif du sujet: quels sont les objectifs de la course?
 1. Terminer en moins de 3 heures. Voilà qui est simple (à énoncer) et clair. Point de vue entrainements etc ça devrait passer, après c'est sûr que la réalité peut rattraper la fiction et que tant que ce n'est pas fait, c'est facile à dire. Mon meilleur temps reste une grosse sous-performance et donc de quoi se la jouer avec mes 3h36 minutes et tous ces kilomètres de marche le long de la Seine.
-2. Autre objectif important est de terminer en ayant l'impression d'avoir bouclé un marthon, donc en ayant poussé (ou tiré) assez, en ayant senti que ça devenait dur mais que les entrainements permettent de sortir la tête hors de l'eau.
+2. Autre objectif important est de terminer en ayant l'impression d'avoir bouclé un marathon, donc en ayant poussé (ou tiré) assez, en ayant senti que ça devenait dur mais que les entrainements permettent de sortir la tête hors de l'eau.
 3. Enfin, j'aimeris que cette course me donne envie de refaire un marathon (en plus vite et en mieux).
 
 ## Des chiffres, encore des chiffres
