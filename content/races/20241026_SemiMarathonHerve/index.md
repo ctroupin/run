@@ -64,7 +64,9 @@ Il y a un peu de monde pour nous encourager, j'essaie d'en profiter pour garder 
 
 ## Résultat
 
-La fin de course a été un peu délicate, je me demande souvent si je me fais assez mal en course pour faire de bons temps, ici je crois que c'était le cas, que j'étais bel et bien dans le rouge. Au final mission remplie, étant donné que je finis en moins d'1h30. Par contre j'ai dû marcher quelques dizaines de secondes dans une côte à laquelle je ne m'attendais et ça c'est vraiment pas bon. Pas d'excuses pour ça, promis je ferai en sorte que ça n'arrive plus!
+La fin de course a été un peu délicate, je me demande souvent si je me fais assez mal en course pour faire de bons temps, ici je crois que c'était le cas, que j'étais bel et bien dans le rouge. Au final mission remplie, étant donné que je finis en moins d'1h30. Ça fait (environ) 19° sur 200, et 3° dans la catégorie V1 (je sais qu'on s'en tape, merci).
+
+Par contre j'ai dû marcher quelques dizaines de secondes dans une côte à laquelle je ne m'attendais et ça c'est vraiment pas bon. Pas d'excuses pour ça, promis je ferai en sorte que ça n'arrive plus!
 
 Sur ce type de distance et de profil (300 m de dénivelé positif), je me trompe peut-être mais j'ai tendance à penser que mon poids est quand même un facteur limitant. Sur du plat, quand il ne faut pas se relancer tout le temps, j'ai l'impression que ça va. Ici je me traine comme un boulet, surtout à partir de 15 km. Mais avec ces histoires de poids on s'éloigne un peu du sujet de la course.
 
