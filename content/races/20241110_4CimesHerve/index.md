@@ -94,6 +94,10 @@ Les 4 cimes, c'est avec envie que je les aborde. Je baisse le rythme mais en gar
 
 Une fois arrivé sur la grand route vers le KM-18 dans ma tête je sais que ça va aller, il y a quelques kilomètres de descente, puis on doit encore traverser une grand route, et là, ça monte mais ça doit aller. Je profite vraiment des montées, bizarrement d'ailleurs, car même sans aller hyper vite, je dépasse beaucoup de coureurs. Dont le gars accompagné par son vélo. 
 
+| ![](./images/cimes06.jpg) |
+|:--:|
+| _Le profil et où je me suis mis dans le rouge._|
+
 Les kilomètres continuent de défiler à un bon rythme, toujours aucune douleur, mais j'essaie vraiment de relacher les épaules et le dos pour ne pas me ramasser d'horribles douleurs comme au marathon de Paris et dans une moindre mesure au semi de Herve. Les gels aussi passent bien, les fameux 226ERS, dont mes préférés sont ceux au goût de miel + noisette. 
 
 La fin approche petit à petit, je commence à calculer pour voir si un 2h25 est faisable, mais ça semble ambitieux à ce moment là de la course. Peu importe, on verra à l'arrivée. Dernier ravito, je tombe sur un pote et on discute un peu. J'hésite à lui proposer de terminer ensemble, mais visiblement je vais plus vite. Lucide, je lui dis quand même:
