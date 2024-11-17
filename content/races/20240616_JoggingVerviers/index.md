@@ -11,7 +11,9 @@ comments: false
 
 > Cette fois-ci c'est promis, je ne me ferai plus avoir au départ!
 
-C'est ce que je m'étais dit plusieurs fois la semaine précédent la course. Chaque fois c'est pareil: je crois que je suis (relativement) bien placé, et puis je termine dans un gros bouchon. On ne m'y reprendra plus. Les jambes étaient pas top vendredi et samedi mais au final ça ne change rien le jour de la course. Un bon échauffement bien complet, 14h50 je me dirige vers la ligne de départ afin d'avoir une bonne place. Je vois l'ami Gwen qui s'avance pas mal: lui il doit savoir... mieux que moi. Et puis non, il continue et va encore plus loin. Que faire? Trop tard, mon cerveau me dit: "tracasse, t'es bien ici". Pas de stress donc.
+C'est ce que je m'étais dit plusieurs fois la semaine précédent la course. Chaque fois c'est pareil: je crois que je suis (relativement) bien placé, et puis je termine dans un gros bouchon. On ne m'y reprendra plus. Les jambes étaient pas top vendredi et samedi mais au final ça ne change rien le jour de la course. 
+
+Un bon échauffement bien complet, 14h50 je me dirige vers la ligne de départ afin d'avoir une bonne place. Je vois l'ami Gwen qui s'avance pas mal: lui il doit savoir... mieux que moi. Et puis non, il continue et va encore plus loin. Que faire? Trop tard, mon cerveau me dit: "tracasse, t'es bien ici". Pas de stress donc.
 
 Décompte (en anglais), ça va partir, on est serrés. Coup de pistolet, ça part. Le gars devant n'avance pas. Le gars derrière me pousse. Vous faites déjà ch*** les mecs. Je tente un dépassement rapide sur le côté droit. Raté. Ça bloque comme c'est pas possible. La question qui me taraude: 
 

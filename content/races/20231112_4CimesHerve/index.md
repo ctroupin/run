@@ -1,9 +1,9 @@
----
-title: "Les 4 Cimes du Pays du Herve"
+--- 
+title: "Les 4 Cimes du Pays du Herve 2023"
 publishdate: 2023-11-12
 racedate: 2023-11-12T11:10:00
 distance: 32.99
-racetime: 2:17:10
+racetime: 2:27:12
 tags: ["Race", "Herve", "Belgique"]
 comments: false
 ---
