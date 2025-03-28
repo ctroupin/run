@@ -3,6 +3,7 @@ title: "Sortie en groupe à Gran Canaria"
 publishdate: 2024-08-07
 tags: ["Gran Canaria", "Islas Canarias", "Trail"]
 comments: false
+summary: "Tradition oblige, chaque fois que je vais aux Canaries, j'essaie d'aller courir avec des amis. En général ça fonctionne plutôt bien, mais ici j'ai eu droit à un plan bien foireux..."
 ---
 
 Tradition oblige, chaque fois que je vais aux Canaries, j'essaie d'aller courir avec des amis. En général ça fonctionne plutôt bien, mais ici j'ai eu droit à un plan bien foireux, la bonne excuse pour écrire un article ici.

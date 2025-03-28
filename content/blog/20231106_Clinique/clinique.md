@@ -3,6 +3,7 @@ title: "La Clinique du Coureur (2022)"
 publishdate: 2025-03-08T20:00:00+00:00
 tags: ["Book review"]
 comments: false
+draft: true
 ---
 
 Jusqu'il y a peu je ne connaissais pas du tout le _Clinique du Coureur_. Et vous? En fait c'est lors d'un podcast de _Runwise_ sur Youtube que j'en ai entendu parler pour la première fois. Blaise Dubois nous parle de chaussures minimalistes, de blessures, de foulée... que des choses intéressantes.

@@ -3,6 +3,7 @@ title: "Olne - Spa - Olne map"
 publishdate: 2023-11-22
 tags: ["Trail", "Olne", "Spa"]
 comments: false
+summary: "OSO is among the legendary races in the Verviers region, along with the _Crètes de Spa_, the _4 Cimes du Plateau de Herve_ and the _Grand Jogging de Verviers_. In this post I tried to compile the previous tracks of the race."
 ---
 
 Trying to compile past tracks of the famous [_Olne-Spa-Olne_](https://www.courirpourleplaisir.be/%C3%A9v%C3%A8nement/olne-spa-olne/) race.

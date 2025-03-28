@@ -3,6 +3,7 @@ title: "Prépa Marathon Eindhoven"
 publishdate: 2024-10-06
 tags: ["Marathon"]
 comments: false
+summary: "Je vais profiter de différents trajets en train pour écrire, un peu, sur le [marathon de Eindhoven](https://asmlmarathoneindhoven.nl/) et surtout la préparation pour celui-ci."
 ---
 
 Je vais profiter de différents trajets en train pour écrire, un peu, sur le [marathon de Eindhoven](https://asmlmarathoneindhoven.nl/) et surtout la préparation pour celui-ci.
