@@ -26,7 +26,7 @@ Assez rapidement je me suis fait à l'idée: on dit très souvent qu'une coupure
 1. En 2023 j'étais à quasi 5000 km courus sur l'année. Rien d'exceptionnel, mais j'avais envie de casser cette barre symbolique. Et sans courir 2 semaines ça allait être fort juste pour atteindre ce total.
 2. On allait partir quelques jours aux Canaries pour les fêtes. Et pour moi les Canaries c'est synonime de courir à la montagne. Être là bas sans courir c'est un peu comme du gachis.
 
-| ![Séance sur piste](./images/norun00.JPG) |
+| ![Zone centrale de Gran Canaria](./images/norun00.JPG) |
 |:--:|
 | _Dans la zone centrale de Gran Canaria._|
 

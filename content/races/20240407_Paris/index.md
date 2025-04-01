@@ -13,7 +13,7 @@ Dans une course à pied normalement il y a toujours une partie où on prend du p
 
 ## Les marathons en général
 
-Normalement j'avais prévu d'écrire un article sur les marathons, j'en profite pour le terminer et mettre le lien: [Inscrit (enfin) à un marathon]({{< ref "/blog/20231126_Marathon" >}} "Inscrit (enfin) à un marathon").
+<!-- Normalement j'avais prévu d'écrire un article sur les marathons, j'en profite pour le terminer et mettre le lien: [Inscrit (enfin) à un marathon]({{< ref "/blog/20231126_Marathon" >}} "Inscrit (enfin) à un marathon"). -->
 
 
 | ![](./images/Paris2024_8445.JPG) |
@@ -91,7 +91,7 @@ Un beau foirage mais pas du gachis: ça aurait été du gachis si je m'étais en
 ### Les points positifs
 
 - L'alimentation en course: je crois que la prise de gels a bien fonctionné, avec une bonne régularité.
-- L'alimentation d'avant course: pareil, la prise de glucide et d'eau est bien passé.
+- L'alimentation d'avant course: pareil, la prise de glucide et d'eau est bien passée.
 - Le mental: maigre consolation, mais je suis content d'avoir fait ce qu'il fallait pour terminer. 
 
     

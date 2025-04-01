@@ -3,6 +3,7 @@ title: "Lost in Trieste"
 publishdate: 2023-03-08T20:00:00+00:00
 tags: ["Trieste", "Italy", "Lost"]
 comments: false
+summary: "Trieste, March 2023: after a long trip and a drink with a friend, I wanted to have a short, easy run. What should have lasted less than one hour ended up in one of the longest run of the year."
 ---
 
 In March this year (2023) I had a meeting in Trieste, in the northeastern part of Italy. I am happy because I have already been there several times and have some friends living in the city. So after a long trip from Venezia, I dropped my backpack in the hotel room and went for a drink with a friend (who is also a runner). The plan was to have an easy, short jogging after the drink, then a quick dinner. He suggested me an easy route, mainly along the coast, which I thought was a good idea.
