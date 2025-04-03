@@ -23,7 +23,19 @@
             <ul class="navbar-nav ml-auto">
                 {{ range .Site.Menus.main }} 
                 <li class="nav-item {{ if $currentPage.HasMenuCurrent "main" . }}active{{ end }}">
-                    <a class="nav-link" href="{{ .URL }}">{{ .Name | title }}</a>
+                    {{ if eq .Name "Blog" }}
+                        <h6> <a class="nav-link" href="{{ .URL }}"><i class="fa-solid fa-feather-pointed"></i> {{ .Name | title }}</a></h6>
+                    {{ end }}
+                    {{ if eq .Name "Races" }}
+                        <h6> <a class="nav-link" href="{{ .URL }}"><i class="fa-solid fa-flag-checkered"></i> {{ .Name | title }}</a></h6>
+                    {{ end }}
+                    {{ if eq .Name "City running" }}
+                        <h6> <a class="nav-link" href="{{ .URL }}"><i class="fa-solid fa-tree-city"></i> {{ .Name | title }}</a></h6>
+                    {{ end }}
+                    {{ if eq .Name "About Me" }}
+                        <h6> <a class="nav-link" href="{{ .URL }}"><i class="fa-solid fa-circle-info"></i> {{ .Name | title }}</a></h6>
+                    {{ end }}
+                    
                 </li>
                 {{ end }}
             </ul>
