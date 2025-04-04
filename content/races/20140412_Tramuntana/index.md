@@ -5,7 +5,7 @@ publishdate: 2014-04-25
 distance: 113
 elevation: 4370
 racetime: "19:12:35"
-tags: ["Trail", "Canary Islands", "La Palma"]
+tags: ["Race", "Mallorca", "Balearic Islands"]
 comments: false
 ---
 

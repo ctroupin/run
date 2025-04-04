@@ -6,6 +6,7 @@ distance: 14.00
 racetime: 54'07''
 tags: ["Race", "Verviers", "Belgique"]
 comments: false
+summary: "La course la plus célèbre de la ville et ces 13 (ou 14) kilomères, ça mérite bien un nouvel article dans le blog."
 ---
 
 Pourquoi encore écrire sur cette course?    

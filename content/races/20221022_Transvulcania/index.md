@@ -1,19 +1,20 @@
 ---
-title: "Transvulcania 2022 🌋"
+title: "Transvulcania 2022 🌋🇮🇨"
 racedate: 2022-10-22T06:00:00+00:00
 publishdate: 2022-10-23
 distance: 74
 elevation: 4350
 racetime: "13:06:59"
-tags: ["Trail", "Canary Islands", "La Palma"]
+tags: ["Trail", "Race", "La Palma", "Canary Islands"]
 comments: false
+summary: "Commençons par la fin: un peu plus de 13 heures pour terminer la course, laquelle traverse l'île de La Palma du sud vers le nord."
 ---
 
 Voilà comme plusieurs personnes ont demandé, voici un compte-rendu, ou quelque chose qui y ressemble, de l'Ultramarathon de La Palma. Commençons par la fin: un peu plus de 13 heures pour terminer la course. Ni fier, ni déçu, ça reste super de pouvoir terminer une telle course sans avoir fait d'entraînements spécifiques (montagne, altitude, sorties longues, ...) mais d'un autre côté l'objectif initial, à savoir terminer en moins de 12 heures, était totalement accessible s'il n'y avait pas eu... vous allez la savoir plus loin.
 
 ![L'île de La Palma](./images/transvulcania2022_000002.jpg)
 |:--:|
-| _L'île de La Palma, une des 7 îles Canaries 🇮🇨. Image acquise par Sentinel-2 le 14 mars 2023._|
+| _L'île de La Palma, une des 7 îles Canaries. Image acquise par Sentinel-2 le 14 mars 2023._|
 
 Pour essayer de structurer un peu l'histoire je vais reprendre la course par tronçons comme sur leur site web. Enfin, juste pour avoir un peu de contexte sur la course et pourquoi je la refaisais, j'ai écrit quelques lignes ici: [transvulcania 4° épisode](https://ctroupin.wordpress.com/2022/10/21/transvulcania-4episode/).
 
@@ -33,8 +34,6 @@ La question habituelle c'est: "alors, tu stresses?” Personnellement avant une 
 | ![Escaliers](./images/transvulcania2022_000004.jpg) |
 |:--:|
 | _Quelques escaliers ne font jamais de tort._|
-
-
 
 ## Le départ
 
