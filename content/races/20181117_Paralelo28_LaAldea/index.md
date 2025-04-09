@@ -22,7 +22,7 @@ Personnellement j’ai toujours aimé à la Aldea, un endroit décalé et diffé
 
 Comme à chaque course, je me dis que ce sera une des dernières: ça me saoule d’entre cette musique à fond alors qu’il est 8h du matin dans un petit village, le trail n’est-il pas une sorte de “communion avec la nature”, éternel débat que je n’aborderai pas ou plus dans ce blog. Le DJ fait péter la sono, ça crie qu’on est contents d’être là, et c’est vrai, mais pu*** les gars, calmez-vous un peu.
 
-{{< myiframe "aldea2018.map" >}}
+{{< myiframe "aldea2018.html" >}}
 
 ![](./images/profilAldea.png)
 
