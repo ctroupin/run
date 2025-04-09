@@ -38,6 +38,7 @@ L’annonceur ou le _Master of Ceremony_, appelons-le MC, répète: “attention
 
 Le paysage a l’air beau, sauf qu’on ne voit pas grand chose. Parfois le sentier passe à côté d’une habitation, et on se demande qui habite là, dans un trou aussi perdu. Par moment ça drache bien, et une fois sur la crête, le vent souffle tellement fort qu’il est impossible de courir droit. Déjà le fameux km 14, le soucis mentionné par le MC, c’est des pierres glissantes (_lajas_), rien d’effrayant vu qu’on est presque sur du plat. Après, une descente très raide et technique, j’entends qu’un gars me suit de près mais ne veut pas me dépasser, disant 
 > “vas de puta madre!“ 
+
 qui n’est pas une insulte à ma maman mais un compliment sur ma descente. On dépasse pas mal de monde, ça fait du bien même si c’est chaud dans les tournants.
 
 ![](./images/aldea2018_03.jpg)
