@@ -34,3 +34,6 @@
         padding-left: 0px !important;
     }
 }
+
+.dotted {border: 2px dotted #02b82c; border-style: none none dotted; color: #fff; background-color: #fff; }
+
