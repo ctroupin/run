@@ -10,7 +10,7 @@ comments: false
 summary: "Quiconque a déjà mis les pieds à la Aldea de San Nicolas sait que ce n’est pas un endroit habituel. Déjà pour y arriver, il faut se farcir des dizaines de virages serrés sur des routes en bonne état mais vertigineuses."
 ---
 
-Quiconque a déjà mis les pieds à la Aldea de San Nicolas sait que ce n’est pas un endroit habituel. Déjà pour y arriver, il faut se farcir des dizaines de virages serrés sur des routes en bonne état mais vertigineuses. Je connais peu de gens qui y soient déjà allés, souvent c’était pour la Fiesta del Charco ou alors pour une randonnée à Guigui. Je me souviens aussi d’une visite avec un ami là-bas il y a 10 ans, en quittant le village et en prenant un peu de hauteur avec la voiture, il m’avait demandé qu’on s’arrête pour qu’ils puisse prendre une photo, en disant qu’il n’avait jamais vu ça de sa vie.
+Quiconque a déjà mis les pieds à la Aldea de San Nicolas sait que ce n’est pas un endroit habituel. Déjà pour y arriver, il faut se farcir des dizaines de virages serrés sur des routes en bonne état mais vertigineuses. Je connais peu de gens qui y soient déjà allés, souvent c’était pour la _Fiesta del Charco_ ou alors pour une randonnée à _Güigüi_. Je me souviens aussi d’une visite avec un ami là-bas il y a 10 ans, en quittant le village et en prenant un peu de hauteur avec la voiture, il m’avait demandé qu’on s’arrête pour qu’ils puisse prendre une photo, en disant qu’il n’avait jamais vu ça de sa vie.
 
 ## La Aldea
 
@@ -32,11 +32,13 @@ Le parcours, tradition oblige, je le découvre totalement, j’ai un peu vérifi
 3. une montée moyenne,
 4. descente jusque l’arrivée.
 
-L’annonceur ou le _Master of Ceremony_, appelons-le MC, répète: “attention, à partir du kilomètre 14, soyez prudents”. Le départ est lancé, nous voici à l’assaut del Viso, une montagne d’environ 1000 m d’altitude. Rapidement je me demande si j’ai bien fermé la voiture, un peu trop tard certes, et 2 heures plus tard j’apprendrai que j’ai perdu les clés... Peu importe, on se concentre sur la course. Les premiers km se passent bien, ni trop lent ni trop rapide, le temps décide de se gâter: pluie parfois drache, vent frais, mais comme le dit très bien un autre coureur: “s’il avait fait chaud, on aurait eu des problèmes”.
+L’annonceur ou le _Master of Ceremony_, appelons-le MC, répète: “attention, à partir du kilomètre 14, soyez prudents”. Le départ est lancé, nous voici à l’assaut de _El Viso_, une montagne d’environ 1000 m d’altitude. Rapidement je me demande si j’ai bien fermé la voiture, un peu trop tard certes, et 2 heures plus tard j’apprendrai que j’ai perdu les clés... Peu importe, on se concentre sur la course. Les premiers km se passent bien, ni trop lent ni trop rapide, le temps décide de se gâter: pluie parfois drache, vent frais, mais comme le dit très bien un autre coureur: “s’il avait fait chaud, on aurait eu des problèmes”.
 
 ![](./images/aldea2018_02.jpg)
 
-Le paysage a l’air beau, sauf qu’on ne voit pas grand chose. Parfois le sentier passe à côté d’une habitation, et on se demande qui habite là, dans un trou aussi perdu. Par moment ça drache bien, et une fois sur la crête, le vent souffle tellement fort qu’il est impossible de courir droit. Déjà le fameux km 14, le soucis mentionné par le MC, c’est des pierres glissantes (lajas), rien d’effrayant vu qu’on est presque sur du plat. Après, une descente très raide et technique, j’entends qu’un gars me suit de près mais ne veut pas me dépasser, disant “vas de puta madre!“, qui n’est pas une insulte à ma maman mais un compliment sur ma descente. On dépasse pas mal de monde, ça fait du bien même si c’est chaud dans les tournants.
+Le paysage a l’air beau, sauf qu’on ne voit pas grand chose. Parfois le sentier passe à côté d’une habitation, et on se demande qui habite là, dans un trou aussi perdu. Par moment ça drache bien, et une fois sur la crête, le vent souffle tellement fort qu’il est impossible de courir droit. Déjà le fameux km 14, le soucis mentionné par le MC, c’est des pierres glissantes (_lajas_), rien d’effrayant vu qu’on est presque sur du plat. Après, une descente très raide et technique, j’entends qu’un gars me suit de près mais ne veut pas me dépasser, disant 
+> “vas de puta madre!“ 
+qui n’est pas une insulte à ma maman mais un compliment sur ma descente. On dépasse pas mal de monde, ça fait du bien même si c’est chaud dans les tournants.
 
 ![](./images/aldea2018_03.jpg)
 
@@ -58,7 +60,7 @@ Bon au pire on a piqué: mon porte-feuille, mes papiers, pas mon argent vu que l
 
 ## Conclusions
 
-Un peu moins de 5 heures d’effort pour boucler ces 37 km, pas de regrets car une blessure ou un abandon n’était pas dans les options, et puis il fallait retrouver ces pu*** des clés de voiture. Alors, à conseiller cette course? Je trouve que le 22 km était plus sympa, car il évitait cette montée un peu tirée par les cheveux, et surtout l’aller-retour sur la même piste.
+Un peu moins de 5 heures d’effort pour boucler ces 37 km, pas de regrets car une blessure ou un abandon n’étaient pas dans les options, et puis il fallait retrouver ces pu*** des clés de voiture. Alors, à conseiller cette course? Je trouve que le 22 km était plus sympa, car il évitait cette montée un peu tirée par les cheveux, et surtout l’aller-retour sur la même piste.
 
 Pour n’importe quelle des modalités, il faut aussi aimer conduire sur des routes étroites et vertigineuses, de nuit et sous la pluie, ou bien venir le jour avant et passer la nuit dans le village, option rapidement oubliée justement à cause de cette pluie.
 
