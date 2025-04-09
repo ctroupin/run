@@ -1,11 +1,13 @@
 ---
-title: "Trail entre Montañas – Paralelo 28"
+title: "Trail entre Montañas – Paralelo 28 🇮🇨"
 publishdate: 2018-12-04
 racedate: 2018-11-17T09:00:00
 distance: 37.11
 racetime: 04:51:43
+location: "La Aldea"
 tags: ["Race", "Gran Canaria", "Islas Canarias", "La Aldea"]
 comments: false
+summary: "Quiconque a déjà mis les pieds à la Aldea de San Nicolas sait que ce n’est pas un endroit habituel. Déjà pour y arriver, il faut se farcir des dizaines de virages serrés sur des routes en bonne état mais vertigineuses."
 ---
 
 Quiconque a déjà mis les pieds à la Aldea de San Nicolas sait que ce n’est pas un endroit habituel. Déjà pour y arriver, il faut se farcir des dizaines de virages serrés sur des routes en bonne état mais vertigineuses. Je connais peu de gens qui y soient déjà allés, souvent c’était pour la Fiesta del Charco ou alors pour une randonnée à Guigui. Je me souviens aussi d’une visite avec un ami là-bas il y a 10 ans, en quittant le village et en prenant un peu de hauteur avec la voiture, il m’avait demandé qu’on s’arrête pour qu’ils puisse prendre une photo, en disant qu’il n’avait jamais vu ça de sa vie.
@@ -18,7 +20,9 @@ Personnellement j’ai toujours aimé à la Aldea, un endroit décalé et diffé
 
 ## Le parcours
 
-Comme à chaque course, je me dis que ce sera une des dernières, ça me saoule d’entre cette musique à fond alors qu’il est 8h du matin dans un petit village, le trail n’est-il pas une sorte de “communion avec la nature”, éternel débat que je n’aborderai pas ou plus dans ce blog. Le DJ fait péter la sono, ça crie qu’on est contents d’être là, et c’est vrai, mais pu*** les gars, calmez-vous un peu.
+Comme à chaque course, je me dis que ce sera une des dernières: ça me saoule d’entre cette musique à fond alors qu’il est 8h du matin dans un petit village, le trail n’est-il pas une sorte de “communion avec la nature”, éternel débat que je n’aborderai pas ou plus dans ce blog. Le DJ fait péter la sono, ça crie qu’on est contents d’être là, et c’est vrai, mais pu*** les gars, calmez-vous un peu.
+
+{{< myiframe "aldea2018.map" >}}
 
 ![](./images/profilAldea.png)
 

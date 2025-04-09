@@ -5,6 +5,7 @@ publishdate: 2019-03-27
 distance: 41.49
 elevation: 2376
 racetime: "5:27:58"
+location: "Moya"
 tags: ["Race", "Moya", "Gran Canaria", "Canary Islands"]
 comments: false
 strava: https://www.strava.com/activities/2238456864

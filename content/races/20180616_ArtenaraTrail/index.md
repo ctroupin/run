@@ -1,11 +1,12 @@
 ---
-title: "Artenara Trail"
+title: "Artenara Trail 🇮🇨"
 publishdate: 2018-06-17
 racedate: 2018-06-16T09:00:00
 distance: 30.84
 racetime: 05:25:24
 tags: ["Race", "Gran Canaria", "Islas Canarias", "Artenara"]
 comments: false
+summary: "Après une course, on peut toujours interpréter les résultats de différentes façons, c'est encore le cas ici. Si on suit le classement et mes sensations, pas de doute, une contre-performance, aussi appelée 'course de merde' en langage courant."
 ---
 
 Après une course, on peut toujours interpréter les résultats de différentes façons, c'est encore le cas ici. Si on suit le classement et mes sensations, pas de doute, une contre-performance, aussi appelée "course de merde" en langage courant. Si je considère les difficultés en course et la proximité de l'abandon, je considère cette course comme une belle (mais petite) victoire.
@@ -20,9 +21,7 @@ Le Trail d'Artenera en est à sa 9° édition environ, cette année encore elle 
 
 ## Le parcours
 
-| ![](./images/artenaratrail.png) |
-|:--:|
-| _Le parcours._|
+{{< myiframe "artenara2018.html" >}}
 
 Ces dernières semaines les sensations étaient vraiment bonnes donc je misais sur un temps de 4h, assez réaliste et accessible. Au final, 5h25, donc il y a eu de la casse 😉 On commence par une longue descente d'environ 8 km, pas trop cassante mais où il ne vaut mieux pas trébucher sous peine de chute dans un ravin, puis une montée qui compte comme championnat de course verticale: environ 3.5 km de chemins en zig-zag qui nous emmènent de 650 m d'altitude à près de 1300 m. Là je dois avouer que j'ai bien souffert musculairement, car c'était vraiment un type d'effort et de pente pour lequel je ne m'étais plus entraîné depuis 6 mois.
 
