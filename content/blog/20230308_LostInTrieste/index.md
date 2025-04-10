@@ -1,14 +1,14 @@
 ---
-title: "Lost in Trieste"
+title: "Lost in Trieste 🇮🇹"
 publishdate: 2023-03-08T20:00:00+00:00
 tags: ["Trieste", "Italy", "Lost"]
 comments: false
 summary: "Trieste, March 2023: after a long trip and a drink with a friend, I wanted to have a short, easy run. What should have lasted less than one hour ended up in one of the longest run of the year."
 ---
 
-In March this year (2023) I had a meeting in Trieste, in the northeastern part of Italy. I am happy because I have already been there several times and have some friends living in the city. So after a long trip from Venezia, I dropped my backpack in the hotel room and went for a drink with a friend (who is also a runner). The plan was to have an easy, short jogging after the drink, then a quick dinner. He suggested me an easy route, mainly along the coast, which I thought was a good idea.
+In March this year (2023) I had a meeting in [Trieste](https://www.italia.it/en/friuli-venezia-giulia/trieste), in the northeastern part of Italy. I am happy because I have already been there several times and have some friends living in the city. So after a long trip from Venezia, I dropped my backpack in the hotel room and went for a drink with a friend (who is also a runner). The plan was to have an easy, short jogging after the drink, then a quick dinner. He suggested me an easy route, mainly along the coast, which I thought was a good idea.
 
-Back to the hotel, I took my running shoes and a headlamp (good idea) and... here we go! I went in the direction he told me, but suddenly, don't ask me why, I changed my mind and went uphill. The streets were quiet, the temperature perfect, no problem. After a while I found a wide avenue with good street lighting so I followed it with a good rhythm. It looked like it followed the side of a valley, so I thought I could go back downhill by the other side of the valley, the crossing point was an hospital (I later learned that it was the _Ospedale di Cattinara_). 
+Back to the hotel, I took my running shoes and a headlamp (good idea) and... here we go! I went in the direction he told me, but suddenly, don't ask me why, I changed my mind and went uphill. The streets were quiet, the temperature perfect, no problem. After a while I found a wide avenue with good street lighting so I followed it with a good rhythm. It looked like it followed the side of a valley, I thought I could go back downhill by the other side of the valley, the crossing point was an hospital (I later learned that it was the _Ospedale di Cattinara_). 
 
 I started going downhill and this is really where things began to go wrong: after a while the wide avenue with the good lighting turned into a kind of highway. No way to continue there safely (even with the headlamp). I went back to find another, safer road. It looked fine at the beginning, until I reached again a highway. This would repeat several (or too many) times. 
 
