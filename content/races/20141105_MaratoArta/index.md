@@ -1,9 +1,11 @@
 ---
-title: "Marató de Muntanya d'Artà"
+title: "Marató de les Muntanyes d'Artà 2014"
 publishdate: 2014-11-05
-racedate: 2018-06-16T09:00:00
-distance: 30.84
+racedate: 2014-10-26T09:30:00
+elevation: 1463
+distance: 40.89
 racetime: 05:25:24
+location: Artà
 tags: ["Race", "Mallorca", Illes Balears"]
 comments: false
 ---
@@ -47,6 +49,8 @@ Très varié avec tout ce qu’un coureur de trail peut souhaiter: des monotrace
 | ![](./images/trackArta.jpg) |
 |:--:|
 |_Capture d’écran de l’application S-Health, qui plante assez souvent. Dans ce cas-ci elle a d’ailleurs planté après 34 km (point vers dans la droit de l’image)._|
+
+{{< myiframe "./leaflet/arta2014.html" >}}
 
 ## Meilleurs passages
 
