@@ -4,6 +4,7 @@ racedate: 2014-04-19T23:00:00+00:00
 publishdate: 2014-04-25
 distance: 113
 elevation: 4370
+place: Mallorca
 racetime: "19:12:35"
 tags: ["Race", "Mallorca", "Balearic Islands"]
 comments: false
@@ -30,8 +31,6 @@ __Résumé de la course:__ les 70 premiers km, super, le reste, ça a chié! Pou
 
 | ![](./images/DSCN0153.JPG) | ![](./images/DSCN0150.JPG)  	|
 |	---|---	|
-
-
 
 - les bénévoles et les supporters: pas vraiment la grande foule sur les chemins (interdiction de comparer avec d’autres courses), mais quand même bien rigolé par moment. Par exemple ici, ces gars qui contrôlaient nos “chips”, déguisés en pirates (même si je n’ai pas compris à quoi ça rimait). Quand ils ont vu que je sortais l’appareil photo, ils ont prix la pose et commencer à crier “wahhhhhhhhh“.
 | ![](./images/DSCN0156.JPG) |
