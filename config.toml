@@ -1,8 +1,10 @@
 baseURL = "https://ctroupin.github.io/run"
-languageCode = "en-us"
+languageCode = "fr-FR"
 title = "Every kilometer counts!"
 theme = "mediumish-gohugo-theme"
 summaryLength = 12
+defaultContentLanguage = "fr"
+defaultContentLang = "fr"
 copyright = "Charles Troupin - All rights reserved"
 enableEmoji = true
 publishDir = "docs"
