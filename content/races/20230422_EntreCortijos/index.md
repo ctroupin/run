@@ -4,6 +4,7 @@ racedate: 2023-04-22T16:30:00
 publishdate: 2023-04-22
 distance: 26.6
 elevation: 1670
+location: Montaña Alta (Guía)
 racetime: "3:19:09"
 tags: ["Trail", "Canary Islands", "Gran Canaria", "Guía", "Montaña Alta"]
 comments: false

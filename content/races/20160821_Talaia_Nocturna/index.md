@@ -4,6 +4,7 @@ racedate: 2016-06-04T21:30:00
 publishdate: 2016-06-05
 distance: 10
 tags: ["Race", "Alcúdia", "Mallorca", "Balearic Islands"]
+location: Alcúdia
 comments: false
 summary: "Il y a des jours où on se dit, en faisant quelque chose, que ce sera sans doute la dernière fois: dernière cigarette, dernière fois qu’on regarde cette débile série de télé-réalité..."
 ---

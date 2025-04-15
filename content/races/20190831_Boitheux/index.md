@@ -4,6 +4,9 @@ publishdate: 2019-09-01
 racedate: 2019-08-31T08:00:00
 distance: 67.9
 racetime: 8:17:23
+elevation: 2005
+location: Theux
+strava: https://www.strava.com/activities/2672394003
 tags: ["Race", "Trail", "Theux", "Belgique"]
 comments: false
 ---

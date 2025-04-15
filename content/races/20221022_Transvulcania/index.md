@@ -4,6 +4,7 @@ racedate: 2022-10-22T06:00:00+00:00
 publishdate: 2022-10-23
 distance: 74
 elevation: 4350
+location: La Palma
 racetime: "13:06:59"
 tags: ["Trail", "Race", "La Palma", "Canary Islands"]
 comments: false

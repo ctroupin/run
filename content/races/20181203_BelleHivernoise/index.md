@@ -4,6 +4,7 @@ racedate: 2019-12-15T10:30:00+00:00
 publishdate: 2020-01-05
 distance: 22
 elevation: 530
+location: Angleur
 racetime: "01:39:02"
 tags: ["Trail", "Belgium", "Liège", "Sart Tilman", "Semi-marathon"]
 comments: false

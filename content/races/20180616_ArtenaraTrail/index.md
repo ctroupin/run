@@ -1,12 +1,15 @@
 ---
-title: "Artenara Trail 🇮🇨"
+title: "Artenara Trail 2018 🇮🇨"
 publishdate: 2018-06-17
 racedate: 2018-06-16T09:00:00
 distance: 30.84
 racetime: 05:25:24
+elevation: 2191
 tags: ["Race", "Gran Canaria", "Islas Canarias", "Artenara"]
 comments: false
+location: Artenara
 summary: "Après une course, on peut toujours interpréter les résultats de différentes façons, c'est encore le cas ici. Si on suit le classement et mes sensations, pas de doute, une contre-performance, aussi appelée 'course de merde' en langage courant."
+strava: https://www.strava.com/activities/1978259460
 ---
 
 Après une course, on peut toujours interpréter les résultats de différentes façons, c'est encore le cas ici. Si on suit le classement et mes sensations, pas de doute, une contre-performance, aussi appelée "course de merde" en langage courant. Si je considère les difficultés en course et la proximité de l'abandon, je considère cette course comme une belle (mais petite) victoire.

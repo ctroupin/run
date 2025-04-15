@@ -1,10 +1,10 @@
 ---
-title: "Bunyola"
-publishdate: 2015-03-29
-racedate: 2015-03-29T10:30:00
+title: "Cursa per Muntanya de Bunyola 2014"
+publishdate: 2014-09-14
+racedate: 2014-09-14T10:00:00
 elevation: 2045
-distance: 39.22
-racetime: 6:05:40
+distance: 14.
+racetime: 1:32:42
 location: Bunyola
 tags: ["Race", "Bunyola", "Mallorca", "Illes Balears"]
 comments: false

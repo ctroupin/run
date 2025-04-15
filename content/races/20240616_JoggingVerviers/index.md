@@ -4,6 +4,7 @@ racedate: 2024-06-16T15:00:00
 publishdate: 2024-06-17
 distance: 13.8
 elevation: 200
+location: Verviers
 racetime: "52:59"
 tags: ["Verviers", "Jogging", "Belgique"]
 comments: false

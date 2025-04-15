@@ -6,6 +6,7 @@ distance: 113
 elevation: 4370
 place: Mallorca
 racetime: "19:12:35"
+location: "Tramuntana"
 tags: ["Race", "Mallorca", "Balearic Islands"]
 comments: false
 ---

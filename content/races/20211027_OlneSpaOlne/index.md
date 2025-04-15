@@ -4,6 +4,8 @@ publishdate: 2021-12-25
 racedate: 2021-11-28T08:00:00
 distance: 71
 racetime: 8:23:38
+elevation: 2322
+location: "Olne, Theux, Spa, ..."
 tags: ["Race", "Trail", "Olne", "Spa"]
 comments: false
 ---

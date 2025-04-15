@@ -4,7 +4,8 @@ publishdate: 2018-12-04
 racedate: 2018-11-17T09:00:00
 distance: 37.11
 racetime: 04:51:43
-location: "La Aldea"
+elevation: 1883
+location: "La Aldea de San Nícolas"
 tags: ["Race", "Gran Canaria", "Islas Canarias", "La Aldea"]
 comments: false
 summary: "Quiconque a déjà mis les pieds à la Aldea de San Nicolas sait que ce n’est pas un endroit habituel. Déjà pour y arriver, il faut se farcir des dizaines de virages serrés sur des routes en bonne état mais vertigineuses."

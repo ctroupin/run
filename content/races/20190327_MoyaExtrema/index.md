@@ -35,7 +35,7 @@ Je trace un peu sur la route pour arriver avant le départ, et puis voilà: rout
 
 ## Parcours
 
-{{< myiframe "./leaflet/moya2019.html" >}}
+{{< myiframe "moya2019.html" >}}
 
 En simplifiant beaucoup: 2000 m de montée, depuis Moya à _Los Moriscos_ (le plus haut sommet de l’ouest de l’île, voir photo ci-dessous), puis redescendre par un autre chemin.
 Mais il ne fallait pas trop simplifier car la montée était parsemée de petites descentes techniques qui finalement ne faisaient pas de tort, mais qu’il fallait gérer en relançant bien.
