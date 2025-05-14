@@ -53,6 +53,11 @@ assetDirs = "static"
     identifier = "races"
     url = "/races"
 [[menu.main]]
+    name = "Shoes"
+    weight = 300
+    identifier = "shoes"
+    url = "/shoes"
+[[menu.main]]
     name = "City running"
     identifier = "city"
     weight = 400
