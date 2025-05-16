@@ -1,8 +1,8 @@
 ---
-title: "Nike"
-publishdate: 2014-11-05
+title: "Nike Air Zoom Pegasus 38 Jordan Moss"
+publishdate: 2025-04-15
 tags: ["Nike"]
 comments: false
-draft: true
+draft: false
 ---
 
