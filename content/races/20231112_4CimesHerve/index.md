@@ -4,6 +4,7 @@ publishdate: 2023-11-12
 racedate: 2023-11-12T11:10:00
 distance: 32.99
 racetime: 2:27:12
+location: Herve
 tags: ["Race", "Herve", "Belgique"]
 comments: false
 ---

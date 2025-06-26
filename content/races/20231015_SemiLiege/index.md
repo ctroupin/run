@@ -4,6 +4,7 @@ publishdate: 2023-10-16
 racedate: 2023-06-18T10:15:00
 distance: 21.00
 racetime: 1:21:03
+location: Liège
 tags: ["Race", "Liège", "Semi-marathon", "Belgique"]
 comments: false
 ---

@@ -5,6 +5,7 @@ publishdate: 2024-11-01
 distance: 21.529
 elevation: 316
 racetime: "01:29:29"
+location: Herve
 tags: ["Semi-marathon", "Jogging", "Herve"]
 comments: false
 ---

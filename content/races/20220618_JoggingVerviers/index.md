@@ -4,6 +4,7 @@ publishdate: 2022-06-18
 racedate: 2022-06-18T15:00:00
 distance: 13.06
 racetime: 49'30''
+location: Verviers
 tags: ["Race", "Verviers", "Belgique"]
 comments: false
 ---

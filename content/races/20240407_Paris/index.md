@@ -5,6 +5,7 @@ publishdate: 2024-04-08
 distance: 42.195 
 elevation: 200
 racetime: "3:37:17"
+location: Paris
 tags: ["Marathon", "Paris", "France"]
 comments: false
 ---

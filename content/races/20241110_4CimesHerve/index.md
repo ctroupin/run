@@ -4,6 +4,7 @@ publishdate: 2024-11-11
 racedate: 2024-11-10T11:10:00
 distance: 32.99
 racetime: 2:27:00
+location: "Herve, Battice, Dalhem, Charneux, ..."
 tags: ["Race", "Herve", "Belgique"]
 comments: false
 ---

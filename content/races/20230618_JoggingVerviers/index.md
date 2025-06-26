@@ -4,6 +4,7 @@ publishdate: 2023-06-22
 racedate: 2023-06-18T15:00:00
 distance: 14.00
 racetime: 54'07''
+location: Verviers
 tags: ["Race", "Verviers", "Belgique"]
 comments: false
 summary: "La course la plus célèbre de la ville et ces 13 (ou 14) kilomères, ça mérite bien un nouvel article dans le blog."
