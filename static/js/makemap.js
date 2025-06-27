@@ -1,4 +1,4 @@
-const makemap = function (gpxfile, linecolor = 'red', mainmap='OpenStreetMap.Mapnik') {
+const makemap = function (gpxfile,linecolor = 'red', mainmap='OpenStreetMap.Mapnik') {
   var map = L.map('map', {fullscreenControl: true});
 
   var baseMaps = {
