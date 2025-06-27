@@ -3,7 +3,7 @@ title: "Jogging de Verviers 2025"
 racedate: 2025-06-22T15:05:00
 publishdate: 2025-06-23
 distance: 13.9
-elevation: 200
+elevation: 275
 location: Verviers
 racetime: "59:01"
 tags: ["Verviers", "Jogging", "Belgique"]

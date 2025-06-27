@@ -3,7 +3,8 @@ title: "Jogging de Verviers 2023"
 publishdate: 2023-06-22
 racedate: 2023-06-18T15:00:00
 distance: 14.00
-racetime: 54'07''
+racetime: "54:07"
+elevation: 218
 location: Verviers
 tags: ["Race", "Verviers", "Belgique"]
 comments: false
