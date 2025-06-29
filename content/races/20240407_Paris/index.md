@@ -51,9 +51,9 @@ Je passe les 10K un peu au dessus des 40 minutes, pas trop mal. Comme prévu je 
 
 {{< myiframe "./leaflet/ParisMarathon2024.html" >}}
 
-Je ne me vois pas terminer les 42 bornes, et vers la mi-course on passe près d'où la voiture est garée: pendant une fraction de seconde, je pense: "et si je m'arrêtais là et attendait Arnaud?" Non, mauvaise idée: aucun moyen de la contacter, et puis même, ce serait pas cool qu'il doive se ramener en métro avec nos 2 sacs. Bref, une grosse idée bien pourrie.
+Je ne me vois pas terminer les 42 bornes, et vers la mi-course on passe près d'où la voiture est garée: pendant une fraction de seconde, je pense: "et si je m'arrêtais là et attendais Arnaud?" Non, mauvaise idée: aucun moyen de la contacter, et puis même, ce serait pas cool qu'il doive se ramener en métro avec nos 2 sacs. Bref, une grosse idée bien pourrie.
 
-À partie des 21K je crois que je ralentis, ça va casser c'est sûr, mais quand? Ce sera aux 25K, boum, d'un coup, je ne cours plus, je marche, je ne suis plus un coureur. Le fameux mur du marathon? Je ne pense pas, c'est plutôt l'évolution logique de ce qu'a été la course les 24 km précédents. Je dis souvent que quand on commence à faire des calculs, c'est que ça va mal. Ici ça calcule justement: il reste 17K, en marchant ça fait au moins 3 heures, ça ne sent pas bon. Abandon? OK mais après comment je rentre à la ligne de départ?? Sans doute le mieux est de terminer.
+À partie des 21K je crois que je ralentis, ça va casser c'est sûr, mais quand? Ce sera aux 25K, boum, d'un coup, je ne cours plus, je marche, je ne suis plus un coureur. Le fameux mur du marathon? Je ne pense pas, c'est plutôt l'évolution logique de ce qu'a été la course les 24 km précédents. Je dis souvent que quand on commence à faire des calculs, c'est que ça va mal. Ici ça calcule justement: il reste 17K, en marchant ça fait au moins 3 heures, ça ne sent pas bon. Abandon? Pourquoi pas mais après comment je rentre à la ligne de départ?? Sans doute le mieux est de terminer.
 
 | ![](./images/strava_allure.png) |
 |:--:|
