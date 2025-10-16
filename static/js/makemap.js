@@ -6,6 +6,7 @@ const makemap = function (gpxfile,linecolor = 'red', mainmap='OpenStreetMap.Mapn
 	"CyclOSM": L.tileLayer.provider('CyclOSM'),
   	"OpenStreetMap": L.tileLayer.provider('OpenStreetMap.Mapnik'),
 	"ESRI World Imagery": L.tileLayer.provider('Esri.WorldImagery'),
+	"StamenWatercolor": L.tileLayer.provider('Stadia.StamenWatercolor'),
   };
 
   L.tileLayer.provider(mainmap).addTo(map);
