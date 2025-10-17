@@ -3,7 +3,6 @@ title: "Semi-marathon de la Province de Liège"
 publishdate: 2025-10-16
 racedate: 2025-10-19T10:15:00
 distance: 21.00
-racetime: ??:??:??
 location: Liège
 tags: ["Race", "Liège", "Semi-marathon", "Belgique"]
 comments: false
@@ -35,6 +34,7 @@ Quelques principes (de base) que j'essaie de suivre quand je prépare un plan, e
 | ![](./images/km_histogram.jpg)|
 |:--:|
 | _Histograme montrant le nombre de sortie en fonction de la distance totale. On voit qu'il y a plein de sorties à moins de 5 km, beaucoup proviennent des trajets entre la gare et le travail._|
+|---| 
 
 #### Les cycles {{< fa class="fa-solid fa-arrows-spin" >}}
 
