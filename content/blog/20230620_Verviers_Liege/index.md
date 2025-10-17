@@ -12,7 +12,7 @@ Depuis pas mal de temps j'avais envie d'aller travailler à pied. C'est maintena
 
 Souvent quand on pense Verviers - Liège, on pense à la Vallée de la Vesdre. Normal, c'est le trajet des trains, et aussi souvent des cyclistes. Dans ma tête je pensais que le meilleur trajet suivait des sentiers de type `GR` (Grandes Randonnées) de part et d'autre de la Vesdre.
 
-Il existe de nombreuses applications qui permettent d'aller d'un endroit à une autre par le trajet le plus court, en indiquant quel mode transport on va utiliser (vélo, transports en commun, ...). Personnemlement j'utilise souvent [GraphHopper](https://graphhopper.com/maps/?profile=car&layer=Omniscale), lequel me permet d'exporter un fichier GPX que j'introduits ensuite dans ma montre.
+Il existe de nombreuses applications qui permettent d'aller d'un endroit à une autre par le trajet le plus court, en indiquant quel mode transport on va utiliser (vélo, transports en commun, ...). Personnellement j'utilise souvent [GraphHopper](https://graphhopper.com/maps/?profile=car&layer=Omniscale), lequel me permet d'exporter un fichier GPX que j'introduis ensuite dans ma montre.
 
 Comme le montre la carte, on a pas mal de possibilités, dans tous les cas on reste du côté droit de la Vesdre. Il y a vraiment des itinéraires sympas, notamment si on passe par Grand-Rechain, Soiron, Olne, ...
 

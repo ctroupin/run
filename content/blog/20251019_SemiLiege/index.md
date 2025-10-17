@@ -32,12 +32,20 @@ Quelques principes (de base) que j'essaie de suivre quand je prépare un plan, e
 3. __progressivité:__ au cours des semaines on essaie d'augmenter le volume (i.e. le nombre de kilomètres) passé à courir aux allures spécifiques. C'est sûr qu'en fin de prépa, se manger des 5000 + 4000 + 3000 m, cela peut sembler rébarbatif, mais il faut pouvoir passer par là.
 4. __volume:__ dernier principe: faire du volume, en particulier à endurance fondamentale (`EF`): chaque fois que c'est possible, faire un jogg de 50 minutes, sans difficulté. L'avantage c'est qu'on apprend à courir en étant déjà fatigué (musculairement surtout).
 
+| ![](./images/km_histogram.jpg)|
+|:--:|
+| _Histograme montrant le nombre de sortie en fonction de la distance totale. On voit qu'il y a plein de sorties à moins de 5 km, beaucoup proviennent des trajets entre la gare et le travail._|
+
 #### Les cycles {{< fa class="fa-solid fa-arrows-spin" >}}
 
 Aussi le programme était organisé autour de 2 cycles de (4 + 1) semaines: 4 semaines dédiées au travail d'une qualité, puis une semaine où on diminue l'effort et le volume afin de bien assimiler. 
 
 - Le premier cycle était dédié à la vitesse (et donc l'aisance de course) avec aussi des intervales où on travaille l'`AS21`. 
 - Le deuxième cycle comprenait beaucoup de volume à `AS21` et `AS10`. Et quel que soit le cycle, j'ai aussi placé une sortie longue le dimanche. Même si ce n'était peut-être pas nécessaire, j'ai quand même été au delà des 2 heures pour ces sorties.
+- 
+| ![](./images/weekly_volume.jpg)|
+|:--:|
+| _Volume hebdomadaire pour les semaines avant celle de la course. Le maximum est à environ 150 km et provient plus d'un coucours de circonstances que d'une volonté de faire autant de bornes._|
 
 ### Alimentation {{< fa class="fa-solid fa-utensils" >}}
 
