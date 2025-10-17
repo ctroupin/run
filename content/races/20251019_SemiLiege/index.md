@@ -9,3 +9,8 @@ tags: ["Race", "Liège", "Semi-marathon", "Belgique"]
 comments: false
 draft: true
 ---
+
+## La course
+
+{{< myiframe "./leaflet/semiliege2025.html" >}}
+
