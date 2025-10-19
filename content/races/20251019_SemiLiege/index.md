@@ -9,7 +9,7 @@ tags: ["Race", "Liège", "Semi-marathon", "Belgique"]
 comments: false
 ---
 
-2° participation au semi de la Province de Liège. L'objectif était simple (à formuler, pas à accomplir): terminer en moins d'une heure et vingt minutes. On est passé près du but. Voilà quelques explications.
+2° participation au semi de la Province de Liège. L'objectif était simple (à formuler, pas à accomplir): terminer en moins d'une heure et vingt minutes. On est passé près du but. Tout ce qui concerne la prépa se trouve dans [cet article](https://ctroupin.github.io/run/blog/20251019_semiliege/).
 
 ## Le plan 
 
@@ -39,11 +39,16 @@ Plus besoin de présenter le parcours, même s'il était un peu différent ce qu
 
 Départ dans le sas _rapide_ (merci l'organisation!), ce n'est plus une surprise de dire qu'on est parti fort vite, plus vite que l'allure cible, mais ce n'est pas grave. Rapidement les groupes se forment, on discute un peu entre coureurs pour voir qui pense faire 1:20. On aligne les kilomètres à du 3'45/km, pas spécialement difficile mais pas non plus la sortie typique du dimanche. 
 
+![](./images/garmin01.png)
+
+
 On passe les 8 km en moins d'une demi-heure, tout va bien, sauf le fait de se dire qu'on est pas encore à la moitié. Au loin je vois le fameux pont qui marque psychologiquement pour moi la mi-course, même si ce n'est pas le cas point de vue distance. Sur le pont j'arrive à recoller à certains qui m'avaient dépassés dans la première partie. Par contre quand je regarde la montre je vois parfois des 4'15''/km, 3'55''/km... rarement du 3'45''/km. Le deuxième gel pris à 35 minutes fait son effet, j'ai l'impression d'être facile, plus facile que pendant la première partie.
 
 ![](./images/semi_liege02.JPG)
 
 Certains kilomètres passent super vite, je ne calcule pas trop mais selon la distance de la montre ça passera. Par contre selon les kilomètres affichés sur la parcours, ça va être fort juste. Il ne reste plus grand chose et voilà qu'on se retrouve sur la course en même temps que ceux qui faisaient le 10K. Pas vraiment un soucis, moi ça me motive, mais clairement on doit slalomer pour pouvoir dépasser, parfois se frayer un passage entre 2 groupes. 
+
+![](./images/garmin02.png)
 
 Voilà qu'il ne reste plus que 2 kilomètres, j'essaie de remettre un coup d'accélérateur. Petite côte avant de redescendre vers l'Île Monsin, mais où est cette pu*** de ligne d'arrivée? Réponse: juste un peu trop loin.
 
