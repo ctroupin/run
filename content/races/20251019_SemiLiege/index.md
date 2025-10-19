@@ -2,12 +2,11 @@
 title: "Semi-marathon de la Province de Liège"
 publishdate: 2025-10-19
 racedate: 2025-10-19T10:00:00
-distance: 21.00
-racetime: ??:??:??
+distance: 21.13
+racetime: 1:20:08
 location: Liège
 tags: ["Race", "Liège", "Semi-marathon", "Belgique"]
 comments: false
-draft: true
 ---
 
 2° participation au semi de la Province de Liège. L'objectif était simple (à formuler, pas à accomplir): terminer en moins d'une heure et vingt minutes. On est passé près du but. Voilà quelques explications.
