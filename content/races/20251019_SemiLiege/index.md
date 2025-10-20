@@ -60,7 +60,9 @@ Voilà qu'il ne reste plus que 2 kilomètres, j'essaie de remettre un coup d'acc
 - En slalomant entre des coureurs en fin de course.
 - En ralentissant trop à cause de virages trop serrés.
 
-![](./images/cardio_semi.jpg)
+| ![](./images/cardio_semi.jpg) |
+|:--:|
+| _Comparaison du cardio lors du semi de 2023 et celui-ci._ | 
 
 ## Conclusions
 
