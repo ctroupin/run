@@ -60,6 +60,8 @@ Voilà qu'il ne reste plus que 2 kilomètres, j'essaie de remettre un coup d'acc
 - En slalomant entre des coureurs en fin de course.
 - En ralentissant trop à cause de virages trop serrés.
 
+![](./images/cardio_semi.jpg)
+
 ## Conclusions
 
 Une course dont je garderais un bon souvenir, même si je ne la referai probablement plus. Il y avait 2600 participants pour le semi, et à côté de ça:
