@@ -32,7 +32,7 @@ J'avais envie de commencer l'article comme celui de l'année dernière. Car ces 
 
 ## Avant la course
 
-Pour être honnête la course n'était pas vraiment un objectif de cette saison, bien que je m'étais inscrit quelques semaines (mois?) à l'avance, chose qui n'arrive pas très souvent. Deux semaines auparavant j'avais pris le départ du [Semi Marathon de Herve](../20241026_semimarathonherve/), ce qui pouvait constituer une bonne préparation aussi bien mentale que physique.
+Pour être honnête la course n'était pas vraiment un objectif de cette saison, bien que je m'étais inscrit quelques semaines (mois?) à l'avance, chose qui n'arrive pas très souvent. Deux semaines auparavant j'avais pris le départ du [Semi Marathon de Herve](https://ctroupin.github.io/run/races/20241026_semimarathonherve/), ce qui pouvait constituer une bonne préparation aussi bien mentale que physique.
 
 J'avais quand même en tête un plan:
 1. Faire beaucoup de volume l'avant-dernière semaine avant la course,
