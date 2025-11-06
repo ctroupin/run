@@ -20,7 +20,7 @@ J'avais envie de commencer l'article comme celui de l'année dernière. Car ces 
 
 - __33__ km de distance
 - __650__ m de dénivelé positif
-- __805__ finishers sur la course principales
+- __805__ finishers sur la course principale
 - __1436__ finishers sur les 2 Cimes
 - __4__ cimes: Croix de Charneux, Fort d'Aubin, Mauhin et Transpineux
 - __102__: le nombre de kilomètres que j'avais dans la jambe cette semaine, avant d'entamer la course.
@@ -32,13 +32,13 @@ J'avais envie de commencer l'article comme celui de l'année dernière. Car ces 
 
 ## Avant la course
 
-Pour être honnête la course n'était pas vraiment un objectif de cette saison, bien que je m'étais inscrit quelques semaines (mois?) à l'avance, chose qui n'arrive pas très souvent. Deux semaines auparavant j'avais pris le départ du Semi Marathon de Herve, ce qui pouvait constituer une bonne préparation aussi bien mentale que physique.
+Pour être honnête la course n'était pas vraiment un objectif de cette saison, bien que je m'étais inscrit quelques semaines (mois?) à l'avance, chose qui n'arrive pas très souvent. Deux semaines auparavant j'avais pris le départ du [Semi Marathon de Herve](../20241026_SemiMarathonHerve/), ce qui pouvait constituer une bonne préparation aussi bien mentale que physique.
 
 J'avais quand même en tête un plan:
-1. Faire beaucoup de volume l'avant dernière avant la course
-2. Relacher la semaine de la course.
+1. Faire beaucoup de volume l'avant-dernière semaine avant la course,
+2. Relâcher la semaine de la course.
 
-Comme toujours les plans sont faits pour être adaptés, la vie n'est pas un long fleuve tranquil où tout ce qui est prévu se produit (ou alors j'ai dû foiré quelque chose ces 25 dernières années). Pour revenir au plan, j'ai donc enchainé, une semaine à 100K (alors que j'aurais pu/voulu atteindre les 120 voire 130K), puis la semaine de la course, les trajets depuis/vers le boulot se sont enchainés, qui fait qu'au départ j'avais déjà passé la barre des 100K. Ce n'était a priori pas un problème vu que vendredi et samedi avaient été des journées de repos, et surtout j'avais été prudent à la muscu.
+Comme toujours les plans sont faits pour être adaptés, la vie n'est pas un long fleuve tranquille où tout ce qui est prévu se produit (ou alors j'ai dû foiré quelque chose ces 25 dernières années). Pour revenir au plan, j'ai donc enchainé une semaine à 100K (alors que j'aurais pu/voulu atteindre les 120 voire 130K), puis la semaine de la course, les trajets depuis/vers le boulot se sont enchainés, ce qui fait qu'au départ j'avais déjà passé la barre des 100K. Ce n'était a priori pas un problème vu que vendredi et samedi avaient été des journées de repos, et surtout j'avais été prudent à la muscu.
 
 | ![](./images/cimesgarmin00.png) |
 |:--:|
@@ -48,14 +48,14 @@ Comme toujours les plans sont faits pour être adaptés, la vie n'est pas un lon
 
 Question que je ne me pose jamais: quelle paire vais-je porter? Depuis peu j'ai un peu changé et expérimenté avec les Nike Zoom Streakfly, une paire très légère, que la marque recommande pour des distances inférieures à 10 km. Ça me fait un peu rigoler lire ce genre de truc, dans le sens où, si ça va pour 10 km, pourquoi pas 15 km? Que va-t-il se passer à 10 km qui va être un problème? J'ai un peu cherché la réponse et n'ai rien trouvé. Enfin si, sur un blog de coureur, il y avait une explication un peu débile, que j'ai d'ailleurs oubliée. Il fait reconnaitre que les coureurs, en tant que communauté, avalent pas mal de trucs point de vue marketing et aussi pseudo-sciences, donc les marques ont bien raison de s'engouffrer là-dedans.
 
-Donc ces bonnes Zoom Streakfly: option 1, ou bien les habituelles Zoom Streak 7, avec lesquelles je cours depuis plus de 4 ans? Comme il me restait une dernière paire de Zoom Streak 7 inutilisée dans la cave, j'ai opté pour ces dernières, car je pensais que je n'avais pas assez couru avec les autres, en dehors du semi de Herve et de quelques sorties longues en préparation du marathon. 
+Donc ces bonnes Zoom Streakfly: option 1, ou bien les habituelles Zoom Streak 7, avec lesquelles je cours depuis plus de 4 ans? Comme il me restait une dernière paire de Zoom Streak 7 inutilisée dans la cave, j'ai opté pour ces dernières, car je pensais que je n'avais pas assez couru avec les autres, en dehors du Semi de Herve et de quelques sorties longues en préparation du marathon. 
 
 | ![](./images/cimes04.JPG) |
 |:--:|
 | _Nike Zoom Streak 7 💣💣._|
 
 
-Les Zoom Streak sont vraiment les chaussures que j'ai le plus aimé depuis que je cours. Il suffit de les mettre pour sentir que ça va aller vite. Il y a de l'amorti juste assez, de belles couleurs, et ce que j'aime particulièrement, c'est que j'ai l'impression que le pied est proche de la route.
+Les Zoom Streak sont vraiment les chaussures que j'ai le plus aimés depuis que je cours. Il suffit de les mettre pour sentir que ça va aller vite. Il y a de l'amorti juste assez, de belles couleurs, et ce que j'aime particulièrement, c'est que j'ai l'impression que le pied est proche de la route.
 
 Si on s'en réfère au site de la [Clinique du coureur](https://lacliniqueducoureur.com/chaussures/) et se son calcul de l'_indice minimaliste_, on trouve ceci:
 
@@ -69,7 +69,7 @@ Il y a pas mal de personnes qui me disent qu'elles ne pourraient pas courir avec
 
 ## La course
 
-Le plan pour l'échauffement: aller voir le départ des 2 Cimes (10h30), retourner à la voiture pour changer de chaussures, puis revenir au départ des 4 Cimes. Timing parfait, j'arrive moins de 5 minutes avant le départ, juste à temps pour me placer décement parmi la foule de coureurs. Comme je vois que ce n'est pas trop serré, j'en profite pour me aller un peu plus loin que d'habitude, histoire de ne pas devoir slalomer sur les premiers kilomètres.
+Le plan pour l'échauffement: aller voir le départ des 2 Cimes (10h30), retourner à la voiture pour changer de chaussures, puis revenir au départ des 4 Cimes. Timing parfait, j'arrive moins de 5 minutes avant le départ, juste à temps pour me placer décemment parmi la foule de coureurs. Comme je vois que ce n'est pas trop serré, j'en profite pour aller un peu plus loin que d'habitude, histoire de ne pas devoir slalomer sur les premiers kilomètres.
 
 Avant le départ j'étais tombé sur un pote, on discute 2 minutes et je lui dis qu'on se verra à l'arrivée. Il me répond que le temps qu'il arrive, j'aurai eu le temps de boire 10 bières. Mais ce qu'il ne sait pas, c'est que pour que je descende 10 bières, il me faudrait probablement une semaine!
 
@@ -102,7 +102,7 @@ Une fois arrivé sur la grand route vers le KM-18 dans ma tête je sais que ça 
 Les kilomètres continuent de défiler à un bon rythme, toujours aucune douleur, mais j'essaie vraiment de relacher les épaules et le dos pour ne pas me ramasser d'horribles douleurs comme au marathon de Paris et dans une moindre mesure au semi de Herve. Les gels aussi passent bien, les fameux 226ERS, dont mes préférés sont ceux au goût de miel + noisette. 
 
 La fin approche petit à petit, je commence à calculer pour voir si un 2h25 est faisable, mais ça semble ambitieux à ce moment là de la course. Peu importe, on verra à l'arrivée. Dernier ravito, je tombe sur un pote et on discute un peu. J'hésite à lui proposer de terminer ensemble, mais visiblement je vais plus vite. Lucide, je lui dis quand même:
-> Si je pars maintenant tu me reprendras à l'arrivée.
+> Si je pars maintenant, tu me reprendras à l'arrivée.
 
 Et j'avais raison. La fin elle est bien dure, avec une longue descente avant la montée finale. Elle est longue celle-là. Je relance modérément et entends derrière moi quelqu'un qui lance quasi un sprint. Et oui, l'ami Louis a les jambes en feu, il termine 15 secondes avant moi.
 
@@ -110,7 +110,7 @@ Et j'avais raison. La fin elle est bien dure, avec une longue descente avant la 
 
 Je dirais qu'il y a 3 choses importantes:
 1. Non, ce n'est pas un type de course pour moi. J'aime les montées mais c'est vraiment limite pour moi ce genre de distance. 
-2. Pas facile de savoir à quelle vitesse aller pour faire un temps déterminé. Il fallait avoir une moyenne de 4'25/km, allure tout à fait raisonnable sur du plat, par contre calculer ça en content prenant en compte le dénivelé, pas évident pour moi. J'étais légèrement au dessus des 14 km parcourus sur la première heure, le problème est que la 2° partie était plus compliquée. Il faudra que je calcule un peu mieux la prochaine fois.
+2. Pas facile de savoir à quelle vitesse aller pour faire un temps déterminé. Il fallait avoir une moyenne de 4'25/km, allure tout à fait raisonnable sur du plat, par contre calculer ça en prenant en compte le dénivelé, pas évident pour moi. J'étais légèrement au dessus des 14 km parcourus sur la première heure, le problème est que la 2° partie était plus compliquée. Il faudra que je calcule un peu mieux la prochaine fois.
 3. Manque de puissance: cela fait vraiment longtemps que je ne fais plus de travail de côte, alors que j'adore ça. Combiné à la muscu je pense que ça pourrait vraiment m'aider. On ne peut malheureusement pas tout faire.
 
 | ![](./images/cimesgarmin01.png) |
