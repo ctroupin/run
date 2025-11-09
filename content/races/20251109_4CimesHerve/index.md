@@ -69,6 +69,11 @@ Les 2 me regardent, pas trop contents, visiblement c'est moi qui devrait partir.
 
 Bref, une fois cet épisode terminé, je passe encore quelques kilomètres plutôt agréables, jusqu'à la 2° cime, celle du _Fort d’Aubin_ (KM 17): ça monte mais ce n'est pas vraiment la gloire. Je commence à me faire dépasser, on est à peine à mi-course, ça va faire mal.
 
+| ![](./images/cardio.jpg) |
+|:--:|
+|_Cardio durant la course, rien à signaler._|
+
+
 De là ça descend longtemps, jusqu'à la 3° cime (_Mauhin_), j'en profite pour m'arrêter pour pisser, truc qui ne m'arrive quasi jamais en course, raison pour lequel je le mets ici. Les gens descendent comme des missiles, et ils ont bien raison! Au début de cette cime je ne fais évidemment plus le malin, ça n'avance plus et j'ai mal à plein d'endroits où je n'ai jamais mal en course. Peut-être il faudra que j'explique pourquoi...
 > Et si j'abandonnais?
 
