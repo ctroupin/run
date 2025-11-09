@@ -17,6 +17,11 @@ Déjà la 3° participation consécutive, le temps passe vite. J'avais aussi dû
 
 Un peu comme dans toutes les autres courses, le but est d'améliorer le temps de la fois précédente. Dans ce cas ça veut dire passer sous 2:27:00. En pratique avec n'importe quel temps entre 2:20:00 et 2:30:00 je serais déjà bien content. Un de ces jours passer sous 2:20 semble possible, mais il faut bien avouer que c'est une course qui fait mal.
 
+| ![](./images/cimes02.JPG) |
+|:--:|
+|_Courir 2 heures en Tshirt, OK, par contre une fois que c'est fini, c'est la cata._|
+
+
 ## La prépa
 
 Pas vraiment de plan particulier, la prépa visait surtout un [semi-marathon]( {{< relref "/races/20251109_4CimesHerve" >}}) il y a 3 semaines, lequel s'était plutôt bien passé. Mon idée était d'essayer de récupérer vite du semi, repartir sur une grosse semaine (volume + fréquence + intensité), puis de me calmer 3-4 jours avant la course.
@@ -37,7 +42,7 @@ Attention, sur la chaussure il est indiqué "5K-10K", ce qui laisse à supposer 
 
 ## La course
 
-{{< myiframe "./leaflet/QuatreCimesHerve2024.html" >}}
+{{< myiframe "./leaflet/QuatreCimesHerve2025.html" >}}
 
 ### Le parcours
  
@@ -77,6 +82,10 @@ Aucune idée du chrono, rien à faire de toute façon, ce sera moins bien qu'en 
 ## La fin
 
 Après quelques discussions j'arrive enfin à recevoir le Tshirt, je discute un peu avec un ami et regarde l'heure: 13h30. Mon cerveau calcule un peu: départ à 11h environ, il est 13h30, ça fait déjà quelques minutes que j'ai fini: peut-être que tout n'est pas perdu. Rapide coup d'oeil à la montre:
+
+| ![](./images/garmin01.png) |
+|:--:|
+|_Capture d'écran de la montre, au cas où ce n'était pas clair._|
 
 1:18:30, et il manque 1.5 km. Peut-être que ça passera. Une fois à la maison, je vois (enfin) le temps. Pas si mal, beaucoup mieux que l'année dernière, même si les sensations étaient pas terribles sur le dernier tiers de l'épreuve.
 
