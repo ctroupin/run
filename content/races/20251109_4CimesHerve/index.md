@@ -9,6 +9,8 @@ tags: ["Race", "Herve", "Belgique"]
 comments: false
 ---
 
+---------------
+
 Déjà la 3° participation consécutive, le temps passe vite. J'avais aussi dû la faire dans une autre vie, c'est-à-dire avant d'avoir passé quelques années à Majorque, à l'époque je courais pas trop bien, sans vouloir insinuer que je cours bien maintenant. Les récits des éditions antérieures se trouvent ici: [2023]( {{< relref "/races/20231112_4CimesHerve/index.md" >}} ) et [2024]( {{< relref "/races/20241110_4cimesherve/index.md" >}} ).
 
 ## L'objectif
