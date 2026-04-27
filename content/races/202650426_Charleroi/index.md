@@ -96,11 +96,21 @@ Au **KM 7.7** on est déjà le long du Canal. Plus de 7 km vers le nord, ensuite
 
 Par contre, mauvaise nouvelle, vers le 15° km je commence à sentir une gène aux épaules. J'essaie de les étirer, de rester souple et détendu. Ça ne fonctionne pas. Et ça me fait un peu peur. Je passe la mi-course en `1:28` environ. Il y a de l'avance mais pas énorme, je visais plutôt `1:25` - `1:26`. En fait cette première partie qui, dans ma version de la course, était facile, était déjà un peu traitre. Le sub-3 est encore possible.
 
+| ![](./cardio_map_CharleroiMarathon.jpg) |
+|:--:|
+| Rien de tel que le cardio pour voir comment une course se déroule. |
+|------------------------------   | 
+
 KM 22, ça monte déjà bien, dans ma tête c'était au 25° mais pas grave. **KM 26**, la pente est sérieuse, je n'avance plus, et voilà: premier dépassement depuis le début. Logique. Peu après, j'entends plusieurs voix derrière moi: Christophe est là, avec 2-3 autres coureurs. Il essaie de les motiver, aussi ceux qui ont décroché. J'essaie de me coller, ça va sur le plat mais en montée pas. Et de la montée il en reste. 
 
 Je sens que ça va craquer mais j'essaie de repousser ça. Et au **KM 30**, ça craque vraiment, je marche comme une me***, en essayant d'étirer ces épaules. Rien à y faire. Je repars vite, en sachant que le reste de la course ne sera pas une partie de plaisir. En effet: je marche plusieurs fois, et à partir de la 2° ou 3° fois, j'ai compris que le sub-3 n'est plus possible. En soi ça ne me tracasse pas. Je finirai quand je devrai finir, et si je marche c'est clair que je ne mérite pas un sub-3.
 
 Les derniers km sont aussi pénibles que ce que j'imaginais, en plus on est en même temps que les coureurs du 21 km, ça n'aide pas trop. On se prend encore quelques côtes, dont la toute dernière qui mène vers le Palais des Expos. Comme dit au début: la foulée est encore souple, bien que je sois (un peu) détruit. 
+
+| ![](./cardio_relief_CharleroiMarathon.jpg) |
+|:--:|
+| Le vrai profile de la course. |
+|------------------------------ |    
 
 ## After party
 
