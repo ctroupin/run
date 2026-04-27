@@ -14,9 +14,9 @@ comments: false
 
 ---------------
 
-> Comme vous le voyez, certains coureurs ont encore une belle foulée même après 42 km.
+> Comme vous le voyez, certains coureurs ont encore une belle foulée, même après 42 km.
 
-Ce sont les mots de la speakerine quand je suis arrivé. 3 heures 10 minutes et quelques secondes d'efforts. Mais je suis très mal placé pour faire le malin: j'ai couru comme une me***, une fois de plus. Ça devenait moins fréquents ces temps, mais de temps en temps il faut bien que ça se passe.
+Tels sont les mots de la speakerine quand je suis arrivé. 3 heures 10 minutes et quelques secondes d'efforts. Cependant je suis très mal placé pour faire le malin: j'ai couru comme une me***. Ça devenait moins fréquents ces temps, mais de temps en temps il faut bien que ça se passe.
 
 ## Avant la course: la prépa etc
 
@@ -35,12 +35,16 @@ Pour le reste, j'ai vraiment essayé de faire du volume, il y a eu des semaines 
 | ![](weekly_volume.jpg) |
 |:--:|
 | _Volume couru lors des 12 semaines avant le marathon._|
+|------------------------------   | 
+
 
 Le manque de sorties longues est évident, j'ai malgré tout l'impression qu'il est possible de s'en passer. Concrêtement, ma sortie la plus longue a été 23 km, je ne sais plus trop à quoi elle correspond. Il y a toujours une énorme quantité de petites sorties (> 5km), qui correspondent à mes trajets vers le bureau, principalement. 
 
 | ![](km_histogram.jpg) |
 |:--:|
 | _Nombre de séances par intervales de 5 km._|
+|------------------------------   | 
+
 
 ### ⏱️ Quel temps viser?
 
@@ -58,7 +62,7 @@ Quand on m'a demandé ce que je pensais faire comme temps, j'ai dit que `2:50:00
 
 Pas de révolution non plus de ce côté-là: je mange déjà énormément en temps normmal, donc le plan était de continuer comme ça, en faisant juste attention aux aliments qui pourraient générer des soucis de digestion. 
 
-Le matin de la course pareil, j'ai opté pour la simplicité avec eau chaude + miel comme boisson, et quelques tranches de pain blanc avec confiture.
+Le matin de la course pareil, j'ai opté pour la simplicité avec eau chaude + miel comme boisson, et quelques tranches de pain blanc avec confiture. Aussi, initialement j'avais pensé que perdre un peu de poids serait une bonnne chose, puis finalement j'ai laissé tomber.
 
 ## La course
 
@@ -68,17 +72,17 @@ Un truc positif : avant, certaines courses, surtout les longues, me faisaient un
 
 Il y a toujours 2 version d'un parcours:
 1. L'officielle, la réelle, avec tous les détails, les montées, etc.
-2. Ma version: une simplification de la réalité, où j'oublie 3/4 des infos.
+2. _Ma_ version: une simplification (foireuse) de la réalité, où j'oublie 3/4 des infos.
 Dans ce cas ma version était comme suit:
-- une partie plus ou moins plate jusqu'au 25° km, dont une longue portion de long du Canal Charleroi - Bruxelles.
-- une longue montée jusqu'au 30° km, voire plus.
+- une partie plus ou moins plate jusqu'au **KM 25**, dont une longue portion de long du Canal Charleroi - Bruxelles.
+- une longue montée jusqu'au **KM 30**, voire plus.
 - une descente jusque l'arrivée. 
 
-{{< myiframe "./leaflet/MarathonCharleroi2026.html" >}}
+{{< myiframe "MarathonCharleroi2026.html" >}}
 
 En fonction de ça j'avais élaboré un plan, aussi en 2 parties:
-1. Partir un peu vite, vers les 4'05/km, jusqu'au 25°km, pour prendre de l'avance.
-2. Limiter la casse en montée à partir du 25° km, puis laisser dérouler en descente.
+1. Partir un peu vite, vers les 4'05/km, jusqu'au **KM 25**, pour prendre de l'avance.
+2. Limiter la casse en montée à partir du **KM 25**, puis laisser dérouler en descente.
 
 ### 📖 Le déroulement 
 
@@ -88,13 +92,13 @@ Sur le site du départ il y a beaucoup de monde, vu que les coureurs du 21 et du
 
 Sur le plat je suis souvent à du 4'05/km, je me sens bien, pas de stress, aucune douleur, _just cruisin'_. Une fois en ville, on nous fait passer par des trottoires, des couloirs de bus, je ne sais pas ce que je fais mais je me tors la cheville sur un bord. La chaussure a fait un de ces bruits, comme si elle avait peté. Je me dis: fin prématurée? Ça fait mal mais pas assez pour avoir un impact. Le début de parcours n'est ni plat, ni sexy: on se tape déjà de petites bosses, pas mal de tournants serrés.
 
-Au KM 7.7 on est déjà le long du Canal. Plus de 7 km vers le nord, ensuite un pont, et on revient par l'autre rive. Les écarts sont déjà faits, le gars devant moi est super loin, inaccessible, celui derrière n'a pas l'air de me rejoindre. J'essaie de gérer les gels et de les prendre juste avant les ravitaillements, afin d'avoir de l'eau. Ça marche plutôt bien. Une fois passé le pont et la changement de direction, je vois le meneur d'allure `3h` (appelons-le Christophe puisque c'est son nom) de l'autre côté est me dit que c'est cool, je suis bien en avance.
+Au **KM 7.7** on est déjà le long du Canal. Plus de 7 km vers le nord, ensuite un pont, et on revient par l'autre rive. Les écarts sont déjà faits, le gars devant moi est super loin, inaccessible, celui derrière n'a pas l'air de me rejoindre. J'essaie de gérer les gels et de les prendre juste avant les ravitaillements, afin d'avoir de l'eau. Ça marche plutôt bien. Une fois passé le pont et la changement de direction, je vois le meneur d'allure `3h` (appelons-le Christophe puisque c'est son nom) de l'autre côté est me dit que c'est cool, je suis bien en avance.
 
 Par contre, mauvaise nouvelle, vers le 15° km je commence à sentir une gène aux épaules. J'essaie de les étirer, de rester souple et détendu. Ça ne fonctionne pas. Et ça me fait un peu peur. Je passe la mi-course en `1:28` environ. Il y a de l'avance mais pas énorme, je visais plutôt `1:25` - `1:26`. En fait cette première partie qui, dans ma version de la course, était facile, était déjà un peu traitre. Le sub-3 est encore possible.
 
-KM 22, ça monte déjà bien, dans ma tête c'était au 25° mais pas grave. KM 26, la pente est sérieuse, je n'avance plus, et voilà: premier dépassement depuis le début. Logique. Peu après, j'entends plusieurs voix derrière moi: Christophe est là, avec 2-3 autres coureurs. Il essaie de les motiver, aussi ceux qui ont décroché. J'essaie de me coller, ça va sur le plat mais en montée pas. Et de la montée il en reste. 
+KM 22, ça monte déjà bien, dans ma tête c'était au 25° mais pas grave. **KM 26**, la pente est sérieuse, je n'avance plus, et voilà: premier dépassement depuis le début. Logique. Peu après, j'entends plusieurs voix derrière moi: Christophe est là, avec 2-3 autres coureurs. Il essaie de les motiver, aussi ceux qui ont décroché. J'essaie de me coller, ça va sur le plat mais en montée pas. Et de la montée il en reste. 
 
-Je sens que ça va craquer mais j'essaie de repousser ça. Et au KM 30, ça craque vraiment, je marche comme une me***, en essayant d'étirer ces épaules. Rien à y faire. Je repars vite, en sachant que le reste de la course ne sera pas une partie de plaisir. En effet: je marche plusieurs fois, et à partir de la 2° ou 3° fois, j'ai compris que le sub-3 n'est plus possible. En soi ça ne me tracasse pas. Je finirai quand je devrai finir, et si je marche c'est clair que je ne mérite pas un sub-3.
+Je sens que ça va craquer mais j'essaie de repousser ça. Et au **KM 30**, ça craque vraiment, je marche comme une me***, en essayant d'étirer ces épaules. Rien à y faire. Je repars vite, en sachant que le reste de la course ne sera pas une partie de plaisir. En effet: je marche plusieurs fois, et à partir de la 2° ou 3° fois, j'ai compris que le sub-3 n'est plus possible. En soi ça ne me tracasse pas. Je finirai quand je devrai finir, et si je marche c'est clair que je ne mérite pas un sub-3.
 
 Les derniers km sont aussi pénibles que ce que j'imaginais, en plus on est en même temps que les coureurs du 21 km, ça n'aide pas trop. On se prend encore quelques côtes, dont la toute dernière qui mène vers le Palais des Expos. Comme dit au début: la foulée est encore souple, bien que je sois (un peu) détruit. 
 
