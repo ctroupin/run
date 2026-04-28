@@ -1,12 +1,14 @@
 ---
 title: "Les 4 Cimes du Pays du Herve 2025"
 publishdate: 2025-11-09
-racedate: 2024-11-09T11:10:00
+racedate: 2025-11-09T11:10:00
 distance: 33.
 racetime: 2:23:29
+elevation: 664
 location: "Herve, Battice, Motroux, Charneux, ..."
 tags: ["Race", "Herve", "Belgique"]
 comments: false
+strava: 16408537561
 ---
 
 ---------------
