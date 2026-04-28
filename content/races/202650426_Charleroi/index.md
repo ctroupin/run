@@ -14,9 +14,11 @@ comments: false
 
 ---------------
 
+Me voilà dans la dernière montée du marathon, juste avant l'arrivée dans le Palais des Expos. J'entends la speakerine dire:
+
 > Comme vous le voyez, certains coureurs ont encore une belle foulée, même après 42 km.
 
-Tels sont les mots de la speakerine quand je suis arrivé. 3 heures 10 minutes et quelques secondes d'efforts. Cependant je suis très mal placé pour faire le malin: j'ai couru comme une me***. Ça devenait moins fréquents ces temps, mais de temps en temps il faut bien que ça se passe.
+Je suppose qu'elle parle de moi, vu qu'il n'y pas d'autres coureurs du marathon à proximité, cependant je suis très mal placé pour me la jouer. 3 heures 10 minutes et quelques secondes d'efforts. J'ai couru comme une me***. Ça devenait moins fréquents ces temps, mais de temps en temps il faut bien que ça se passe.
 
 ## Avant la course: la prépa etc
 
