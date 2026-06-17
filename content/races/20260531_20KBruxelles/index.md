@@ -10,7 +10,7 @@ strava: 18270245880
 raceurl: https://www.charleroimarathon.be/
 tags: ["Race", "Bruxelles", "Belgique"]
 comments: false
-draft: true
+draft: false
 ---
 
 ---------------
@@ -58,4 +58,4 @@ Cette impression s'est vite confirmée: du monde partout et avec des vitesses bi
 
 Point de vue allure j'ai testé la technique de ne pas regarder la montrer, technique qui a malheureusement ses inconvénients: quand je pensais avoir une bonne allure, j'étais en fait trop lent (4'15/km) et quand je pensais être lent, j'étais à du 3'45/km.
 
-En tout cas les kilomètres défilaient, ce qui est toujours bon signe. Les 10 premiers KM passent en moins de 40 minutes, plus ou moins ce que je pensais. Pour le reste de la course pas grand chose à dire, je n'étais pas à l'aise mais pas non plus dans le rouge: ça manquait cruelement d'un rithme constant  
+En tout cas les kilomètres défilaient, ce qui est toujours bon signe. Les 10 premiers KM passent en moins de 40 minutes, plus ou moins ce que je pensais. Pour le reste de la course pas grand chose à dire, je n'étais pas à l'aise mais pas non plus dans le rouge: ça manquait cruelement d'un rythme constant.   
