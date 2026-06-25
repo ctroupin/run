@@ -49,6 +49,10 @@ Fin de Piedvache, j'entends "allez Charles!", aucune idée de qui c'était, nous
 
 Dernier ravito, près de la plaine de Rouheid, et là, miracle, je parviens à boire presque normalement. Je sens que le rythme est meilleur, ça tourne bien, il ne peut plus rien arriver. Dans le tournant je vois comme chaque année mon ancien entraineur de basket qui me fait un gros _high-five_. Après, je sais plus trop, je sais juste que ça trace bien. 
 
+| ![](./images/verviers2026_01.png) |
+|:--:|
+| _Sur la fin._|
+
 Dans la dernière descente avant de tourner vers la piste, je vois un gars qui fait un petit malaise, chance pour lui il y a plein de pompiers à côté, il est entre de bonnes mains. Sur la piste pas trop de monde, je laisse tourner sans forcer.
 
 ## L'avant-course
@@ -68,7 +72,7 @@ Vous avez toujours voulu connaitre le nombre de participants au jogging, ainsi q
 Les voici, depuis 2012. J'essaierai de mettre à jour quand j'ai du temps.
 
 
-| Année |  Distance | Finishers | Meilleur temps |  |
+| Année &nbsp;|  Distance &nbsp;| Finishers &nbsp;| Meilleur temps | Coureur |
 |------|-----------|-----------|-----------|--------|
 | 2026 | 14 km | 2230 (2320 started) | 44:24 | Arnaud Collard |
 | 2025 | 14 km | 1851 (2022 started) | 44:30 | Amaury Paquet |
@@ -84,4 +88,4 @@ Les voici, depuis 2012. J'essaierai de mettre à jour quand j'ai du temps.
 | 2015 | 13 km | 2678 (2702 started) | 42:26 | Florent Caelen |
 | 2014 | 13 km | 2768 (2785 started) | 40:02 | James Barmasai |
 | 2013 | 13 km | 2977 (3014 started) | 42:27 | Olivier Pierron |
-| 2012 | 13 km | 2845 (2897 started) | 40:39 | Jamal Baligha |
+| 2012 | 13 km | 2845 (2897 started) &nbsp;&nbsp;| 40:39 | Jamal Baligha |
