@@ -18,7 +18,7 @@ Ce sont des questions que je me pose encore, et auxquelles j'espère pouvoir tro
 
 Réponse simple: parce que je n'ai pas fait de prépa marathon. Une vraie prépa, c'est-à-dire 10-12 semaines avec un plan, des séances spécifiques, etc etc. Mais qu'est-ce que j'ai foutu alors?
 
-Depuis le milieu de l'été, avec le groupe `JCPMF` au Sart Tilman, on avait pour objectif que chacun puisse battre son record
+eepuis le milieu de l'été, avec le groupe `JCPMF` au Sart Tilman, on avait pour objectif que chacun puisse battre son record
 sur un 10K. La préparation avec donc été axée là-dessus: beaucoup d'allure spécifique 10K, un peu de VMA, et pour les sorties longues, libre à chacun d'en faire. Perso j'en ai fait quelques unes, ça tournait vraiment bien, mais ce n'était pas non plus des sorties qui faisaient mal.
 
 Dans la prépa il y a un composante physique, tout ce qui est amélioration de la capacité à réaliser un tel effort, et puis aussi uen composante mentale: on a fait la prépa, on se sent légitime pour la course, il y a comme quelque chose qui justifie le fait qu'on soit en confiance. Cette composante je ne l'ai pas: sans me prendre pour un imposteur, je suis convaincu que je n'ai pas fait mes devoirs. 
@@ -52,7 +52,7 @@ __Limitations:__ le 15K ça fait déjà longtemps (avril), donc peut-être pas l
 
 ### Seuils lactiques LT1 et LT2
 
-Début septembre j'avais fait un [test "lactate"] ( {{< relref "/blog/20260903_Lactates" >}}), qui a permis d'estimer mes seuils lactiques
+Début septembre j'avais fait un [test "lactate"]({{< relref "/blog/20260907_TestLactate" >}}), qui a permis d'estimer mes seuils lactiques (sans entrer dans les détails ici).
 
 | ![](./images/lactate.png) |
 |:--:|
@@ -79,4 +79,4 @@ On trouve un intervale de vitesses entre 14.26 km/h et 14.9 km/h, ce qui, conver
 
 Ce sera sympa de ne pas faire mentir ces chiffres, mais restons réalistes. Il faudra courir à une allure que je n'ai quasiment pas eue en entrainement. Soit c'était beaucoup plus vite, soit beaucoup plus lentement.
 
-Verdict dans 11 jours.
+Verdict le 18 octobre 2026.
