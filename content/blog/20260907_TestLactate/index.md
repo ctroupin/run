@@ -1,7 +1,9 @@
 ---
 title: "Test de Lactate avec Twin Peak Lab"
 publishdate: 2026-09-07
+racedate: 2026-09-03T11:15:00
 tags: ["Lactates"]
+location: Sart Tilman
 comments: false
 summary: "Une première pour moi: un test physiologique. Raison de plus pour en parler!"
 ---
