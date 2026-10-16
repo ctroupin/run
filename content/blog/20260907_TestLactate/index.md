@@ -54,7 +54,7 @@ En pratique il faut pouvoir être assez proche des temps-cibles, ce qui est comp
 
 | ![](./images/lactate01.png) |
 |:--:|
-| _ Caractéristique du protocole pour ce test lactate. © [TwinPeakLab](https://www.twinpeaklab.be/)._ |
+| _Caractéristique du protocole pour ce test lactate. © [TwinPeakLab](https://www.twinpeaklab.be/)._ |
 
 ## Que tirer du test?
 
@@ -72,8 +72,6 @@ Point de vue sensations: comme prévu, les paliers 10 et 11 sont très pénibles
 
 Ça commence a réellement devenir compliqué à 17 km/h, vitesse supérieure à celle que j'ai l'habitude de courir sur un 10 km. Bizarrement la transition de 17 à 18 km/h s'est plutôt bien passée, avec une palier couru un rien trop vite je pense. 
 
-
-
 À l'issue de celui-ci, je demande à Arnaud si ça vaut la peine de tenter le palier 19 km/h: faisable en théorie, mais ça n'aurait pas vraiment apporté quelque chose point de vue des mesures (en dehors du fait qu'on verrait que le lactate est encore plus haut). Par contre j'en aurais gardé des traces musculairement. Pour ces 2 raisons on décide d'en finir à 18 km/h, on a 9 points de données, suffisament pour faire quelque chose de correct.
 
 ## Les résultats
@@ -82,7 +80,7 @@ Le but est donc de déterminer les 2 seuiles lactiques, qu'on appelera `LT1`(pou
 
 | ![](./images/lactate04.png) |
 |:--:|
-| _ Courbe de lactate en fonction de l'intensité. © [TwinPeakLab](https://www.twinpeaklab.be/)._ |
+| _Courbe de lactate en fonction de l'intensité. © [TwinPeakLab](https://www.twinpeaklab.be/)._ |
 
 Pour `LT1`, on peut par exemple dire que c'est la vitesse à laquelle le lactate atteint une valeur fixée, par exemple 2 mmol/l. Une autre méthode, c'est de voir quand le lactate a augmenté de 0.5 mmol/l par rapport à une valeur de référence, prise au repos par exemple. 
 
@@ -96,7 +94,7 @@ LT2 = 16.2 km/h
 
 | ![](./images/lactate02.png) |
 |:--:|
-| _ Résumé des principaux résultats. © [TwinPeakLab](https://www.twinpeaklab.be/)._ |
+| _Résumé des principaux résultats. © [TwinPeakLab](https://www.twinpeaklab.be/)._ |
 
 ## Que faire avec tout ça?
 
@@ -113,9 +111,9 @@ Ici on illustre avec le modèle en 5 zones avec des intervalles de vitesse et de
 
 | ![](./images/lactate03.png) |
 |:--:|
-| _ Caractéristique du protocole pour ce test lactate. © [TwinPeakLab](https://www.twinpeaklab.be/)._ |
+| _Définition des 5 zones d'intensité en fonction des 2 seuils. © [TwinPeakLab](https://www.twinpeaklab.be/)._ |
 
-Illustration avec les données de mon test: la Zone 3 correspond à un intervalle entre 14.1 et 16.2 km/h.
+Illustration avec les données de mon test: la `Zone 3` correspond à un intervalle entre 14.1 et 16.2 km/h.
 
 ### Avoir une estimation du temps sur une course
 
