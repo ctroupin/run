@@ -1,13 +1,14 @@
 ---
 title: "Une semaine de running à Majorque"
 publishdate: 2026-02-14
-racedate: 2025-10-19T10:15:00
+racedate: 2026-02-14T10:15:00
 location: Mallorca
 tags: ["Mallorca", "Islas Baleares", "Tramuntana"]
 comments: false
 ---
 
-Le titre est légèrement trompeur: non, on n'est pas allé à Majorque juste pour courir. Par contre j'ai fait de mon mieux pour courir le plus possible, et j'en profite pour essayer de parler de où faire des sorties running, des sorties trails, et éventuellement des courses de montagne.
+Le titre est légèrement trompeur: non, on n'est pas allé à Majorque juste pour courir. Par contre j'ai fait de mon mieux pour courir le plus possible, et j'en profite pour essayer de parler au sujet de:
+> où faire des sorties running, des sorties trails, et éventuellement des courses de montagne.
 
 ## La clé: bien choisir son point de chute
 
@@ -17,11 +18,21 @@ Par exemple, tout ce qui se trouve à l'ouest de Palma (la ville principale), j'
 
 Personnelement j'éviterais aussi la zone côtière entre Cala Rajada et Porto Cristo, les plages ne sont pas mal mais sont loin des meilleures. 
 
-En dehors de ça, quasi tout est bon à prendre. On a déjà fait l'expérience plusieurs endroits (Sóller, Pollença, Port de Pollença, Artà, Porto Petro, Colònia de Sant Jordi, ...) et à chaque fois on a pu se déplacer aisément.
+En dehors de ça, quasi tout est bon à prendre. On a déjà fait l'expérience plusieurs endroits:
+- Sóller, 
+- Pollença, 
+- Port de Pollença, 
+- Artà, 
+- Porto Petro, 
+- Colònia de Sant Jordi, ... 
+
+et à chaque fois on a pu se déplacer aisément.
 
 ## Où courir sur plat?
 
-L'île a une topographie assez particulière: au nord-ouest se trouve le principal massif montagneux de l'île, la _Serra de Tramuntana_, dont on reparlera un peu plus tard. Au sud-ouest se trouve la _Serra de Llevant_. Entre les deux, une zone appelée _El Pla_, relativement plane, même si on trouve tout de même plusieurs collines. On pourrait donc penser que _El Pla_ est l'endroit idéal pour des entrainements sans trop de D⁺. Malheureusement ce n'est pas si simple: les routes sont souvent dépourvues d'espace pour les piétons; parfois il y a des pistes cyclables, séparées de la chaussée, ou bien des _vías de servicio_, souvent empruntée par les cyclistes. 
+L'île a une topographie assez particulière: au nord-ouest se trouve le principal massif montagneux de l'île, la _Serra de Tramuntana_, dont on reparlera un peu plus tard. Au sud-ouest se trouve la _Serra de Llevant_, qui est un peu moins connue et aussi moins hautes. 
+
+Entre les deux, une zone appelée par les locaux _El Pla_, relativement plane, même si on trouve tout de même plusieurs collines. On pourrait donc penser que _El Pla_ est l'endroit idéal pour des entrainements sans trop de D⁺. Malheureusement ce n'est pas si simple: les routes sont souvent dépourvues d'espace pour les piétons; parfois il y a des pistes cyclables, séparées de la chaussée, ou bien des _vías de servicio_, souvent empruntée par les cyclistes. Essayer de courir sur la route là-bas est donc assez risqué, surtout que la conduite lente n'est pas la spécialité sur l'île. 
 
 Je vais quand même essayer de proposer de vrais endroits pour faire du plat.
 
@@ -29,7 +40,7 @@ Je vais quand même essayer de proposer de vrais endroits pour faire du plat.
 
 La Baie de Palma offre un terrain de jeux intéressant: on peut partir de la vieille ville, rejoindre la côte et la suivre pendant assez longtemps, en passant par es Portixol, es Molina, es Carnatje, ... le tout avec vue sur mer. 
 
-C'était mon endroit préféré pour faire les séances de seuil quand j'habitais là, le temps passait vite et ce sont de bons souvenirs.
+C'était mon endroit préféré pour faire les séances de seuil quand j'habitais là, le temps passait vite et ce sont de bons souvenirs. Dans tous les cas il est possible de rentrer vers Palma en bus.
 
 ### La Baie d'Alcudia
 
@@ -39,8 +50,7 @@ Une zone que j'ai moins souvent testé mais qui semble être idéale pour faire 
 
 ### Et en dehors des zones côtières? 
 
-On peut penser que courir sur *le pla*, entre les petits villages, peut être une bonne idée. Cependant les routes entre ses villages n'ont pas toujours d'espace prévu pour les piétons et coureurs, avec des voitures qui n'ont pas spécialement envie de limiter leur vitesse. Bref, possible mais souvent à éviter.
-
+J'ai eu la chance de pouvoir courir près de la Colonia de San Jordi et c'était vraiment sympa. D'abord le long de la côté, soit vers le nord en direction de Sa Rapita, ou bien vers le sud, le long de superbes plages. Ensuite il y avait une piste cyclable, séparée de la chaussée, qui permettait de rejoindre Ses Salines. Même si c'était en montée, le parcours permettait de faire de bons intervalles. 
 
 ## Où courir en mode trail?
 

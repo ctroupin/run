@@ -49,9 +49,9 @@ Fin de Piedvache, j'entends "allez Charles!", aucune idée de qui c'était, nous
 
 Dernier ravito, près de la plaine de Rouheid, et là, miracle, je parviens à boire presque normalement. Je sens que le rythme est meilleur, ça tourne bien, il ne peut plus rien arriver. Dans le tournant je vois comme chaque année mon ancien entraineur de basket qui me fait un gros _high-five_. Après, je sais plus trop, je sais juste que ça trace bien. 
 
-| ![](./images/verviers2026_01.png) |
+| ![](./images/verviers2026_01.jpeg) |
 |:--:|
-| _Sur la fin._|
+| _Sur la fin (rue Joseph Wauters)._|
 
 Dans la dernière descente avant de tourner vers la piste, je vois un gars qui fait un petit malaise, chance pour lui il y a plein de pompiers à côté, il est entre de bonnes mains. Sur la piste pas trop de monde, je laisse tourner sans forcer.
 
