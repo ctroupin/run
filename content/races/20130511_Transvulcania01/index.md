@@ -9,6 +9,7 @@ location: "Los Llanos de Aridane"
 tags: ["Race", "La Palma", "Islas Canarias"]
 comments: false
 draft: false
+summary: "Ma deuxième participation à la fameuse Transvulcania, une course de montagne qui traverse l'île de La Palma"
 ---
 
 Poursuivant sur ma lancée de publication d’articles sur le blog, je vais essayer de boucler un petit compte-rendu de la Transvulcania 2013. Let’s go!
