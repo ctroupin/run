@@ -54,14 +54,16 @@ J'ai eu la chance de pouvoir courir près de la Colonia de San Jordi et c'était
 
 ## Où courir en mode trail?
 
-Pour cette question on a vraiment l'embarras du choix, d'où l'idée d'écrire un article. Un mot-clé: la Tramuntana, qui a été pour moi le terrain d'entrainement parfait pour mes weekends entre 2013 et 2017!
+Pour cette question on a vraiment l'embarras du choix, d'où l'idée d'écrire un article. Un mot-clé: la Tramuntana, qui a été pour moi le terrain d'entrainement parfait pour le plupart de mes weekends entre 2013 et 2017!
 
 On y trouve le sentier de grande randonnée `GR-221`, qui relie Andratx à Pollença, ce qui offre déjà un bel éventail de possibilités.
 
-### Mon préféré: Sóller - Pollença
+### Mon préféré: Sóller - Pollença (> 45 km)
 
-Sóller est un petit village typique de Mallorca, mais qui est malheureusement victime de son succès (saturation, traffic etc). Dans mon cas c'était simple: un bus et en 30 minutes j'étais déjà sur place assez tôt le matin. Depuis Sóller on arrive rapidemen à Biniaraix, d'où part le superbe chemin du _Barranc de Biniaraix_, un chemin pavés de grosse pierre, le long d'un torrent, et qui nous emmène au _Coll de l'Ofre_. L'Ofre est un montagne d'un peu moins de 1000 m d'altitude, on peut y faire un détour ou pas, selon le temps disponible qu'on a.
+Sóller est un petit village typique de Mallorca, mais qui est malheureusement victime de son succès (saturation, traffic etc). Dans mon cas c'était simple: un bus et en 30 minutes j'étais déjà sur place assez tôt le matin. Depuis Sóller on arrive rapidement à Biniaraix, d'où part le superbe chemin du _Barranc de Biniaraix_, un chemin pavés de grosse pierre, le long d'un torrent, et qui nous emmène au _Coll de l'Ofre_. L'Ofre est un montagne d'un peu moins de 1000 m d'altitude, on peut y faire un détour ou pas, selon le temps disponible qu'on a.
 
-Ensuite on descend vers l'_Embalse de Cuber_, un des deux principaux barranges de l'île, et on passe d'un côté ou de l'autre avant de rejoindre la route pour quelques mètre, puis on bifurque sur la droite afin de continuer sur le `GR-221`. De là il y a à nouveaux pas mal de possibilité, soit continuer le GR, soit passer par _Tossals Verds_, un très beau sommet aussi, et redescendre vers l'un des villages proche de la Tramuntana. 
+Ensuite on descend vers l'_Embalse de Cuber_, un des deux principaux barrages de l'île, et on passe d'un côté ou de l'autre avant de rejoindre la route pour quelques mètre, puis on bifurque sur la droite afin de continuer sur le `GR-221`. De là il y a à nouveaux pas mal de possibilité, soit continuer le GR, soit passer par _Tossals Verds_, un très beau sommet aussi, et redescendre vers l'un des villages proche de la Tramuntana. 
 
 Si on continue sur le GR, après une zone ombragée en descente (si je me souviens bien), on doit entamer la longue montée vers le _Coll des Prat_, le genre d'endroit qu'on doit éviter en été ou en milieu de journée. Ce col est le point culminant du parcours, à environ 1200 m d'altitudes. De là on peut aussi faire l'ascension du _Puig de Massanella_, le plus haut sommet de l'île si on oublie le _Puig Major_ et les sommets secondaires l'entourant. 
+
+Une fois passé le 

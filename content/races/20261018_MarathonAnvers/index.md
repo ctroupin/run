@@ -12,85 +12,112 @@ strava: 20646205471
 summary: "Ça y est, c'est fait, le marathon sous les 3 heures, c'est derrière moi, je dois être content. Et pourtant, il y a tellement à dire..."
 ---
 
+## Le contexte: la 3° c'est la bonne
+
+Ça ne fait pas vraiment longtemps que j'ai tenté des marathons:
+- le premier c'était à [Paris]( {{< relref "races/20240407_Paris" >}}) en 2024 et ça ne s'était pas super bien passé: `3:37:17`, qu'on mettra sur le dos d'une saleté de mononucléose qui avait empêché toute préparation sérieuse.
+- ensuite quelques mois plus tard à Eindhoven 🇳🇱 (inscription uniquement), où c'est encore pire: en pleine période d'affûtage, je me ramasse un sale virus (seule fois où je suis malade cette année-là) qui m'empêche de prendre le départ.
+- [Charleroi]( {{< relref "races/20260426_Charleroi" >}} ) en avril 2026, bouclé en `3:10:22`, une course dont je me souviendrai comme étant _trop dure_ (pour un marathon) à cause du parcours.
+
+Ces dernières semaines, me sentant vraiment dans la forme de ma vie, je me dis que ce serait bête de ne pas concrétiser ça sur une course. Je pense d'abord à Cologne 🇩🇪, puis loupe la deadline des inscriptions. Ce sera donc Anvers, sur un coup de tête, moins de deux semaines avant la course. L'avantage? Pas le temps de stresser, pas le temps de penser à une vraie prépa.
+
 ## La préparation
 
 Toujours intéressant de revenir sur une prépa, qu'elle ait fonctionné ou pas. Pour la résumer en un mot, je dirais: 
-> simplicité.
+> Simplicité.
 
-L'idée était d'éviter tout ce qui pourrait poser problème (jambes lourdes, digestion etc). Pas d'optimiser et de jouer avec les limites.
+Le but était d'éviter tout ce qui pourrait poser problème (jambes lourdes, digestion etc), plutôt que d'essayer d'optimiser et de jouer avec les limites. 
 
-- Entrainements: beaucoup de volume, quasi pas de VMA, du seuil pour les séances de qualité, et quelques sorties longues, mais rien de vraiment régulier.
-- Affutage: juste réduit le gros volume, sans que ce soit brutal.
-- Alimentation avant course: les jours où je n'allais pas courir, j'essayais de manger moins; à partir du jeudi, reprise des glucides lents, mais pareil: sans exagérer, surtout pas la veille de la course. 
-- Repos: la dernière semaine j'ai essayé (et réussi) à avoir des nuits de sommeil tout à fait correct, en pensant que la dernière nuit je n'arriverais pas à dormir (finalement si j'ai pu dormir très très bien).
-- Alimentation en course: 4 gels 226ers High Energy, prévus au KM 8, 16, 24 et 32; de l'eau comme unique source d'hydratation.
+- Les entrainements: beaucoup de volume, très peu de VMA, du `SV2` pour les séances de qualité, et quelques sorties longues.
+- L'affûtage: après une semaine à 146 km, je réduis progressivement le volume, tout en gardant quand même de l'intensité, du classique quoi.
+- L'alimentation avant course: les jours où je n'allais pas courir, j'essayais de manger un peu moins, avec l'espoir secret de perdre un ou deux kilos. Ça a marché? Aucune idée, je ne me suis pas pesé. À partir du jeudi avant la course, reprise des glucides lents, mais pareil, sans exagérer, surtout pas la veille de la course. 
+- Le repos: la dernière semaine j'ai essayé (et réussi) à avoir des nuits de sommeil correctes, en anticipant sur le fait que la dernière nuit, je n'arriverais sûrement pas à dormir (finalement ça a été très bien).
+- La prépa mentale: essayer de rester à l'écart des sources de stress, tout en me focalisant sur le plaisir de courir. Et aussi être préparé à se faire mal.
+
+Tout ça fait qu'au moment de prendre le départ, je suis super à l'aise, comme une course normale, voire comme pour une sortie longue.
 
 ![Anvers](./images/Anvers2026-03.JPG)
 
 Un autre point de vue sur la prépa, pour reprendre une expression d'un de mes profs d'unif:
-> Tuer une mouche avec un bazooka
+> Tuer une mouche avec un bazooka.
 
-Courir 130 km par semaine pendant plusieurs semaines, était-ce bien nécessaire? Pour moi oui, je l'expliquerai plus tard.
+Qu'est-ce que je veux dire par là? Que courir 130 km par semaine pendant plusieurs semaines, c'était peut-être exagéré. Il y a plein de coureurs qui font un sub-3 avec un volume beaucoup moins conséquent. Donc était-ce bien nécessaire? Pour moi oui, je l'expliquerai plus tard. 
+
+Ainsi j'ai fait en sorte de mettre tous les atouts de mon côté 
 
 ## Le parcours
 
-Ce qu'il faut retenir du parcours: deux fois la même boucle, plutôt qu'un parcours simple. Est-ce bien ou pas? Personnelement ça m'a plu, d'une certaine façon on sait à quoi s'attendre au 2° tour, en revanche, s'il y a un obstacle tel qu'une grosse montée, ça peut faire mal au moral.
-
-Aussi j'ai trouvé qu'il y avait pas mal de pavés: ça n'a pas posé problème, mais par endroit c'était marrant de voir les coureurs se mettre de part et d'autre de la chaussée, en laissant le milieu (pavé) totalement vide. 
+Ce qu'il faut retenir du parcours: 
+1. Deux fois la même boucle, plutôt qu'un parcours simple. Personnellement ça m'a plu, d'une certaine façon on sait à quoi s'attendre dans la 2° moitié de la course. 
+2. Les pavés: j'ai trouvé qu'il y en avait pas mal. Ça ne m'a pas posé problème, mais par endroit c'était marrant de voir les coureurs se mettre de part et d'autre de la chaussée, en laissant le milieu (pavé) totalement vide. 
 
 {{< myiframe "./leaflet/marathonanvers2026.html" >}}
 
-## Déroulement de la course
+## Stratégie de course
 
-![Anvers](./images/Anvers2026-04.JPG)
+Pas grand chose à dire là dessus.
+
+1. Allure: essayer de tourner en `4'10/km`, en m'aidant du rythme imprimé par les meneurs d'allure, au moins au début. 
+2. Alimentation: 4 gels [226ers High Energy](https://www.226ers.com/en/products/high-energy-gel-76g-62291), prévus au KM 8, 16, 24 et 32.
+3. Hydratation: uniquement de l'eau, d'abord avec une bouteille tenir en main (merci à Arnaud pour ce conseil), puis avec les gobelets aux ravitaillements.
+
+
+## Déroulement de la course
 
 ### Les premiers km
 
-Je m'étais mis dans le sas `02:59 - 03:14`, car le sas plus rapide me semblait un tantinet trop ambitieux. D'ailleurs après l'échauffement j'avais même reculé afin de ne pas être dans les premiers du sas. Dès le départ j'essaie de trouver l'allure cicle: du `4'10/km`, même si ça n'a pas été facile: je regardais souvent la montre, parfois elle indiquait du `4'25/km`, d'autres fois du `3'35/km`, pas facile de savoir à quoi s'en tenir. La solution: suivre les deux meneurs d'allure qui devaient nous emmener vers le `2:59`.
+Je m'étais mis directement dans le sas `02:59 - 03:14`, car le sas plus rapide me semblait un tantinet trop ambitieux. D'ailleurs après l'échauffement j'avais même reculé afin de ne pas être dans les premiers du sas. Dès le départ j'essaie de trouver l'allure cible. Je regarde souvent la montre, parfois elle indique du `4'25/km`, d'autres fois du `3'35/km`, pas facile de savoir à quoi s'en tenir. La solution: suivre les deux meneurs d'allure qui devaient nous emmener vers le `2:59` tant convoité.
 
-Dès le début je dis que cette allure, elle est facile, et que la tenir 3 heures ça ira.
+![Anvers](./images/Anvers2026-04.JPG)
+
+Dans cette première partie, je me dis que cette allure, elle est facile, et que la tenir 3 heures se fera sans soucis.
 
 ### 10°km: premier (et dernier) soucis
 
-Les kilomètres défilent, je reste dans le groupe des marqueurs d'allure et profite de la course. Dans l'arrière de mon short, les 3 gels commencent à balancer fort et ça m'ennuie. OK c'est débile, mais le noeud du cordon du short s'est défait, et le short commence à descendre. J'arrive finalement à règler ça et ressens un tout grande soulagement, comme si je me sentais plus léger. Petit à petit je m'approche de la tête de notre groupe, mais hésite à partir. J'ai envie de faire ma course, sur mon rythme, il faut juste choisir le bon moment.
+Les kilomètres défilent, je reste dans le groupe des meneurs d'allure et profite de la course. Dans l'arrière de mon short, les 3 gels commencent à balancer fort et ça m'ennuie. OK c'est débile, mais le nœud du cordon du short s'est défait, et le short commence à descendre. J'arrive finalement à régler ça (sans m'arrêter) et ressens un tout grande soulagement, comme si je me sentais plus léger. 
+
+Petit à petit je m'approche de la tête de notre groupe, mais hésite à partir. J'ai envie de faire ma course, sur mon rythme, pas le leur, il faut juste choisir le bon moment.
 
 ![Anvers](./images/Anvers2026-01.JPG)
 
 ### 15°km: je m'en vais
 
-Je ne sais pas ce qui a provoqué ça, en tout cas j'ai senti que c'était le bon moment de me séparer du groupe. Dans ma tête: 15 km on est proche de la moitié de course, et une fois à la moitié, ça ira encore mieux. Aucune idée pourquoi je pensais ça! Comme si le fait de recommencer la même boucle allait faciliter la course.
+Je ne sais pas ce qui a provoqué ça, en tout cas j'ai senti que c'était le bon moment de me séparer du groupe. Dans ma tête: 15 km, on est proche de la moitié de course, et une fois à la moitié, ça ira encore mieux. Aucune idée pourquoi je pensais ça, c'était comme si le fait de recommencer la même boucle allait faciliter la course.
 
 ### 20°km: la début de la fin
 
-Vers le 20° on fait une sale boucle dans le port, un tronçon qu'on dirait qu'ils ont mis juste pour ajouter 1 ou 2 kilomètres, mais qui n'a pas vraiment de sens. À ce moment on croise les coureurs qui sont devant, puis après le demi-tour, ceux qui sont derrière. C'est là que je me rends compte de la taille du groupe des meneurs d'allures: rien qu'au bruit des foulées, on sent qu'ils sont un bon paquet. Raison de plus pour ne pas y retourner. Une fois cette boucle terminée on va retourner vers la civilisation, c'est-à-dire dans une zone avec des spectateurs. Mentalement ça fait du bien.
+Vers le 20° on fait une sale boucle dans le port, un tronçon qui semble avoir été placé juste pour ajouter 1 ou 2 kilomètres, mais qui n'a pas vraiment de sens. À ce moment on croise les coureurs qui sont devant, puis après le demi-tour, ceux qui sont derrière. C'est là que je me rends compte de la taille du groupe des meneurs d'allures: rien qu'au bruit des foulées, on sent qu'ils sont un bon paquet! Raison de plus pour ne pas y retourner. Une fois cette boucle terminée on va retourner vers la civilisation, c'est-à-dire dans une zone avec des spectateurs. Mentalement ça fait du bien.
 
 ![Anvers](./images/Anvers2026-02.JPG)
 
 ### 25°km: rien ne peut arriver
 
-Les jambes tournent toujours bien, juste une douleur (niveau 2/10) à un mollet, seul truc qui me fait un peu peur. Les gels passent bien, et j'arrive même à boire proprement les goblets d'eau. Je ne sais pas si c'est juste une sensation, mais j'ai l'impression d'accélérer un petit coup. J'ai tellement lu et entendu parler du mur du 30° km que j'ai hâte d'y arriver, parce que je ne pense vraiment pas que ça va m'arriver.
+Les jambes tournent toujours bien, juste une douleur (niveau 2/10) à un mollet, seul truc qui me fait un peu peur, vu que ça ne va sûrement pas aller en s'améliorant. Les gels passent bien, et j'arrive même à boire proprement les goblets d'eau. Je ne sais pas si c'est juste une sensation, mais j'ai l'impression d'accélérer un petit coup. J'ai tellement lu et entendu parler du mur du 30° km que j'ai hâte d'y arriver, parce que je ne pense vraiment pas que ça va m'arriver.
+
+![Cardio](./images/cardio_lap.jpg)
 
 ### 30°km: il ne se passe rien
 
-Vers le 30° je commence à calculer, sans pour autant regarder mon chrono: j'ai juste regarder l'allure, mais aucune idée du temps écoulé. S'il reste 12 km, ça veut dire normalement moins d'une heure. Facile. Je suis parfois tout seul, parfois dans des petits groupes. 31, 32, 33... les kilomètres passent rapidement, 34, je me dis qu'il ne reste que 8 km, rien du tout, une petite sortie normale. 
+Vers le 30° je commence à calculer, sans pour autant regarder mon chrono: jusque là j'avais juste regardé l'allure, sans connaitre le temps écoulé. S'il reste 12 km, ça veut dire normalement moins d'une heure. Facile. Je suis parfois tout seul, parfois dans des petits groupes. 31, 32, 33... les kilomètres passent rapidement, 34, je me dis qu'il ne reste que 8 km, rien du tout, une petite sortie normale. 
 
-### 35°km: un peu dans le dur
-
-À ce moment-là je commence à comprendre que le corps accuse un peu le coup, en particulier les muscles autour du cou. Quelques mouvements de la tête et ça soulage. En théorie ça devrait tenir. L'ambiance est top et je dépasse pas mal. On commence à voir des blessures et des abandons. Des gars qui étaient bien quelques km auparavant.
-
-J'essaie d'accélérer encore un coup, mais sans exagérer, je veux la jouer _safe_: sub-3 est l'objectif, je ne veux pas prendre le risque d'exploser sur la fin.
-
-### 40°km
-
-Plus le temps passe et plus je calcule. J'ai toujours été conscient que c'est un signe de fatigue en course. 2 kilomètres, ça fait moins de 10 minutes, ça ira, surtout que les derniers km sont vraiment plein de gens. 41°km: il reste 1200 mètres, c'est facile un 1200. On voit la ligne au loins, reste plus qu'à profiter. Je n'ai toujours pas regardé le temps sur la montre mais comme je suis assez devant les meneurs d'allure, pas de soucis à me faire.
-
-Je passe la ligne, soulagement, une bonne chose de faite comme on dit souvent. 
+Le dernier gel, pas envie de le prendre, mais je fais quand même l'effort, ce serait bête de foirer ça.
 
 ![Anvers](./images/Anvers2026-05.JPG)
 
+### 35°km: un peu dans le dur
+
+À ce moment-là je commence à comprendre que le corps accuse un peu le coup, en particulier les muscles autour du cou. Quelques mouvements de la tête et ça soulage. En théorie ça devrait tenir. L'ambiance est top et je dépasse pas mal de coureurs qui ont un peu explosé. On commence à voir des blessures et des abandons. Des gars qui étaient bien quelques km auparavant.
+
+### 40°km
+
+Plus le temps passe et plus je calcule. Quand on fait des calculs en course (genre: il reste X km, donc ça fait autant de temps) ça veut dire qu'on commence à fatiguer. Deux kilomètres, ça fait moins de 10 minutes, ça ira, surtout qu'il y a vraiment beaucoup de monde. 41°km: il reste 1200 mètres, c'est facile un 1200 m, non? On voit la ligne au loins, reste plus qu'à profiter. Je n'ai toujours pas regardé le temps sur la montre mais comme je suis assez bien devant les meneurs d'allure, pas de soucis à me faire.
+
+![Final](./images/garmin03.png)
+
+
 ## Réflexions post-course
 
-Une chose assez drôle quand on se met en tête certains défis, c'est qu'on pense que les choses seront différentes une fois que ce sera fait. Par exemple après la TransGranCanaria, j'étais sûr que je serais différent, que je verrais les choses différement etc. Mais non, en fait ça ne change absolument rien, et c'est pareil pour le marathon sous les 3 heures. Je me disais que ça me ferait quelque chose d'y arriver, et puis une fois que c'est fait, on se rend compte que la vie continue, qu'on reste au coureur ordinaire, et surtout qu'il y encore moyen de faire mieux.
+Une chose assez drôle quand on se met en tête certains défis, c'est qu'on pense que les choses seront différentes une fois que ce sera fait. Par exemple après la TransGranCanaria, j'étais sûr que je serais différent, que je verrais les choses différemment etc. Mais non, en fait ça ne change absolument rien, et c'est pareil pour le marathon sous les 3 heures. Je me disais que ça me ferait quelque chose d'y arriver, et puis une fois que c'est fait, on se rend compte que la vie continue, qu'on reste au coureur ordinaire parmi des centaines d'autres.
 
 ### Clin d'oeil à ma montre
 
@@ -106,7 +133,9 @@ D'où les semaines à 130 km. C'est sûr, avec 80 km il doit être possible de f
 
 ### Prochaine étape?
 
-Aucune, c'est justement ça la conclusion. La course est faite, il faut retourner au bureau, s'occuper de la famille, terminer de peindre le plafond de la salle de bain, mettre les pneus hiver.
+Aucune, c'est justement ça la conclusion. La course est faite, il faut retourner au bureau, s'occuper de la famille, terminer de peindre le plafond de la salle de bain, mettre les pneus hiver... 
+
+C'est sûr que dans un coin de ma tête je considère quand même l'idée de me réinscrire à un 42K et de faire mieux, quitte à partir trop vite et exploser en route.
 
 
 
