@@ -48,11 +48,30 @@ var baseMaps = {
 map.addLayer(OpenStreetMap_Mapnik)
 
 function makeTrackLayer(color, weight, opacity) {
-    return L.geoJson(null, {
+    // White solid "casing" underneath, wider than the colored line
+    var casing = L.geoJson(null, {
+        filter: function (feature) {
+            return feature.geometry.type !== "Point"; // skip waypoints
+        },
         style: function () {
-            return { color: color, weight: weight, opacity: opacity };
+            return { color: "#ffffff", weight: weight + 3, opacity: 1 };
         }
     });
+
+    // Dashed colored line on top
+    var colored = L.geoJson(null, {
+        style: function () {
+            return {
+                color: color,
+                weight: weight,
+                opacity: opacity,
+                dashArray: "8 8",
+                lineCap: "butt"
+            };
+        }
+    });
+
+    return { casing: casing, colored: colored, group: L.featureGroup([casing, colored]) };
 }
 
 function randomColor() {
@@ -69,15 +88,21 @@ var lastIndex = moves.length - 1;
 
 moves.forEach(function (file, i) {
     var isLast = (i === lastIndex);
-    var layer = isLast
+    var t = isLast
         ? makeTrackLayer("red", 4, 1)
         : makeTrackLayer(randomColor(), 3, 0.9);
 
-    omnivore.gpx('/run/data/' + file, null, layer).addTo(map);
+    omnivore.gpx('/run/data/' + file, null, t.colored)
+        .on("ready", function () {
+            // Copy the loaded track into the casing layer, then push it underneath
+            t.casing.addData(this.toGeoJSON());
+            t.casing.bringToBack();
+        });
 
-    // Label: file name without extension, e.g. "OSO2014"
+    t.group.addTo(map);
+
     var label = file.match(/\d{4}/)[0];
-    overlayers[label] = layer;
+    overlayers[label] = t.group;
 });
 
 var start = L.marker([50.59011, 5.75211]).addTo(map);
