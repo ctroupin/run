@@ -32,6 +32,8 @@ et à chaque fois on a pu se déplacer aisément.
 
 L'île a une topographie assez particulière: au nord-ouest se trouve le principal massif montagneux de l'île, la _Serra de Tramuntana_, dont on reparlera un peu plus tard. Au sud-ouest se trouve la _Serra de Llevant_, qui est un peu moins connue et aussi moins hautes. 
 
+{{< figure src="./images/mallorcaDTM_europe_2.png" alt="Le relief de Majorque." caption="Le relief de Majorque." class="blog-figure" >}}
+
 Entre les deux, une zone appelée par les locaux _El Pla_, relativement plane, même si on trouve tout de même plusieurs collines. On pourrait donc penser que _El Pla_ est l'endroit idéal pour des entrainements sans trop de D⁺. Malheureusement ce n'est pas si simple: les routes sont souvent dépourvues d'espace pour les piétons; parfois il y a des pistes cyclables, séparées de la chaussée, ou bien des _vías de servicio_, souvent empruntée par les cyclistes. Essayer de courir sur la route là-bas est donc assez risqué, surtout que la conduite lente n'est pas la spécialité sur l'île. 
 
 Je vais quand même essayer de proposer de vrais endroits pour faire du plat.
@@ -42,15 +44,19 @@ La Baie de Palma offre un terrain de jeux intéressant: on peut partir de la vie
 
 C'était mon endroit préféré pour faire les séances de seuil quand j'habitais là, le temps passait vite et ce sont de bons souvenirs. Dans tous les cas il est possible de rentrer vers Palma en bus.
 
+{{< figure src="./images/Mallorca2026_7459.JPG" alt="La Baie de Palma depuis es Portixol." caption="La Baie de Palma depuis es Portixol." class="blog-figure" >}}
+
 ### La Baie d'Alcudia
 
 Une zone que j'ai moins souvent testé mais qui semble être idéale pour faire des sorties relativement longues sans s'exploser les mollets dans des côtes. Le tout avec vue sur mer d'un côté, et sur les montagnes de l'autre. La zone est plutôt touristique en haute saison, tandis qu'elle est assez vide hiver. 
 
-![Bahia de Alcudia](./images/Mallorca2026_7418_01.jpg)
+{{< figure src="./images/Mallorca2026_7418_01.jpg" alt="La Baie d'Alcudia." caption="La Baie d'Alcudia." class="blog-figure" >}}
 
 ### Et en dehors des zones côtières? 
 
 J'ai eu la chance de pouvoir courir près de la Colonia de San Jordi et c'était vraiment sympa. D'abord le long de la côté, soit vers le nord en direction de Sa Rapita, ou bien vers le sud, le long de superbes plages. Ensuite il y avait une piste cyclable, séparée de la chaussée, qui permettait de rejoindre Ses Salines. Même si c'était en montée, le parcours permettait de faire de bons intervalles. 
+
+{{< figure src="./images/Mallorca2026_7499.JPG" alt="Salines de s'Avall, Colònia de San Jordi." caption="Salines de s'Avall, Colònia de San Jordi." class="blog-figure" >}}
 
 ## Où courir en mode trail?
 
@@ -62,8 +68,15 @@ On y trouve le sentier de grande randonnée `GR-221`, qui relie Andratx à Polle
 
 Sóller est un petit village typique de Mallorca, mais qui est malheureusement victime de son succès (saturation, traffic etc). Dans mon cas c'était simple: un bus et en 30 minutes j'étais déjà sur place assez tôt le matin. Depuis Sóller on arrive rapidement à Biniaraix, d'où part le superbe chemin du _Barranc de Biniaraix_, un chemin pavés de grosse pierre, le long d'un torrent, et qui nous emmène au _Coll de l'Ofre_. L'Ofre est un montagne d'un peu moins de 1000 m d'altitude, on peut y faire un détour ou pas, selon le temps disponible qu'on a.
 
+{{< figure src="./images/Mallorca2026_7630.JPG" alt="La place principale de Sóller." caption="La place principale de Sóller." class="blog-figure" >}}
+
+
 Ensuite on descend vers l'_Embalse de Cuber_, un des deux principaux barrages de l'île, et on passe d'un côté ou de l'autre avant de rejoindre la route pour quelques mètre, puis on bifurque sur la droite afin de continuer sur le `GR-221`. De là il y a à nouveaux pas mal de possibilité, soit continuer le GR, soit passer par _Tossals Verds_, un très beau sommet aussi, et redescendre vers l'un des villages proche de la Tramuntana. 
+
+{{< myiframe "SollerPollenca.html" >}}
 
 Si on continue sur le GR, après une zone ombragée en descente (si je me souviens bien), on doit entamer la longue montée vers le _Coll des Prat_, le genre d'endroit qu'on doit éviter en été ou en milieu de journée. Ce col est le point culminant du parcours, à environ 1200 m d'altitudes. De là on peut aussi faire l'ascension du _Puig de Massanella_, le plus haut sommet de l'île si on oublie le _Puig Major_ et les sommets secondaires l'entourant. 
 
-Une fois passé le 
+Une fois passé 2 ou 3 cols, on descend vers Lluc, connu pour son monastère, puis direction Pollença où on peut terminer en beauté avec une rue en escaliers, comme Montagne de Bueren: _Carrer des Calvari_.
+
+### Mon plus fréquent: la montée à l'Ermita depuis Esporles
