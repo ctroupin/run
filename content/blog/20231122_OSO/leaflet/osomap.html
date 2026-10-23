@@ -47,46 +47,42 @@ var baseMaps = {
 
 map.addLayer(OpenStreetMap_Mapnik)
 
-var customLayer = L.geoJson(null, {
-    style: function(feature) {
-        return {
-            color: "#" + Math.floor(Math.random()*16777215).toString(16),
-            weight: 3,
-            opacity: .9
-            };
-    }
-});
-
-var customLayerLast = L.geoJson(null, {
-    style: function(feature) {
-        return {
-            color: "red",
-            weight: 4,
-            opacity: 1
-            };
-    }
-});
-
-var moves = ["OSO2011.gpx", "OSO2014.gpx", "OSO2017.gpx","OSO2018.gpx", "OSO2021.gpx", "OSO2022.gpx", "OSO2023.gpx"]
-
-var nMoves = moves.length;
-var OldTracks = [];
-for (var i = 0; i < nMoves ; i++) {
-    var moveGps = omnivore.gpx('/run/data/' + moves[i], null, customLayer).addTo(map);
-    OldTracks.push(moveGps);
-    console.log(OldTracks);
+function makeTrackLayer(color, weight, opacity) {
+    return L.geoJson(null, {
+        style: function () {
+            return { color: color, weight: weight, opacity: opacity };
+        }
+    });
 }
 
-var lastTrack = omnivore.gpx('/run/data/OSO2023.gpx', null, customLayerLast).addTo(map);
+function randomColor() {
+    return "#" + Math.floor(Math.random() * 0xFFFFFF).toString(16).padStart(6, "0");
+}
 
-var start = L.marker([50.59011,5.75211]).addTo(map);
+var moves = [
+    "OSO2011.gpx", "OSO2014.gpx", "OSO2017.gpx", "OSO2018.gpx",
+    "OSO2021.gpx", "OSO2022.gpx", "OSO2023.gpx"
+];
 
-var overlayers = {
-    "Past editions": L.layerGroup(OldTracks),
-    "2023": lastTrack
-};
+var overlayers = {};
+var lastIndex = moves.length - 1;
 
-L.control.layers(baseMaps, overlayers, {autoZIndex:false, collapsed:false}).addTo(map);
+moves.forEach(function (file, i) {
+    var isLast = (i === lastIndex);
+    var layer = isLast
+        ? makeTrackLayer("red", 4, 1)
+        : makeTrackLayer(randomColor(), 3, 0.9);
+
+    omnivore.gpx('/run/data/' + file, null, layer).addTo(map);
+
+    // Label: file name without extension, e.g. "OSO2014"
+    var label = file.replace(/\.gpx$/i, "");
+    overlayers[label] = layer;
+});
+
+var start = L.marker([50.59011, 5.75211]).addTo(map);
+
+L.control.layers(baseMaps, overlayers, { autoZIndex: false, collapsed: false }).addTo(map);
 
 </script>
 
