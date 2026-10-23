@@ -73,7 +73,7 @@ Sóller est un petit village typique de Mallorca, mais qui est malheureusement v
 
 Ensuite on descend vers l'_Embalse de Cuber_, un des deux principaux barrages de l'île, et on passe d'un côté ou de l'autre avant de rejoindre la route pour quelques mètre, puis on bifurque sur la droite afin de continuer sur le `GR-221`. De là il y a à nouveaux pas mal de possibilité, soit continuer le GR, soit passer par _Tossals Verds_, un très beau sommet aussi, et redescendre vers l'un des villages proche de la Tramuntana. 
 
-{{< myiframe "SollerPollenca.html" >}}
+{{< myiframe "./leaflet/SollerPollenca.html" >}}
 
 Si on continue sur le GR, après une zone ombragée en descente (si je me souviens bien), on doit entamer la longue montée vers le _Coll des Prat_, le genre d'endroit qu'on doit éviter en été ou en milieu de journée. Ce col est le point culminant du parcours, à environ 1200 m d'altitudes. De là on peut aussi faire l'ascension du _Puig de Massanella_, le plus haut sommet de l'île si on oublie le _Puig Major_ et les sommets secondaires l'entourant. 
 
