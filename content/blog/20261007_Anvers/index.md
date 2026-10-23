@@ -1,6 +1,6 @@
 ---
 title: "Marathon d'Anvers 2026"
-publishdate: 2026-02-14
+publishdate: 2026-10-07
 racedate: 2026-10-07T10:15:00
 distance: 42 
 location: Anvers
