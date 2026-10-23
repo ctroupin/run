@@ -34,18 +34,11 @@ C'est à ce moment-là que je me suis dit qu'il fallait profiter du pic de forme
 
 Pour le reste, j'ai vraiment essayé de faire du volume, il y a eu des semaines à 140 km qui sont passées comme une lettre à la poste. Il n'y a pas eu vraiment d'affutage, j'avais quand même bien diminué l'intensité, surtout après les 15 km de Liège.
 
-| ![](weekly_volume.jpg) |
-|:--:|
-| _Volume couru lors des 12 semaines avant le marathon._|
-|------------------------------   | 
-
+{{< figure src="weekly_volume.jpg" alt="Volume couru lors des 12 semaines avant le marathon" caption="Volume couru lors des 12 semaines avant le marathon." class="blog-figure" >}}
 
 Le manque de sorties longues est évident, j'ai malgré tout l'impression qu'il est possible de s'en passer. Concrêtement, ma sortie la plus longue a été 23 km, je ne sais plus trop à quoi elle correspond. Il y a toujours une énorme quantité de petites sorties (> 5km), qui correspondent à mes trajets vers le bureau, principalement. 
 
-| ![](km_histogram.jpg) |
-|:--:|
-| _Nombre de séances par intervales de 5 km._|
-|------------------------------   | 
+{{< figure src="km_histogram.jpg" alt="Nombre de séances par intervales de 5 km." caption="Nombre de séances par intervales de 5 km." class="blog-figure" >}}
 
 
 ### ⏱️ Quel temps viser?
@@ -98,10 +91,9 @@ Au **KM 7.7** on est déjà le long du Canal. Plus de 7 km vers le nord, ensuite
 
 Par contre, mauvaise nouvelle, vers le 15° km je commence à sentir une gène aux épaules. J'essaie de les étirer, de rester souple et détendu. Ça ne fonctionne pas. Et ça me fait un peu peur. Je passe la mi-course en `1:28` environ. Il y a de l'avance mais pas énorme, je visais plutôt `1:25` - `1:26`. En fait cette première partie qui, dans ma version de la course, était facile, était déjà un peu traitre. Le sub-3 est encore possible.
 
-| ![](./cardio_map_CharleroiMarathon.jpg) |
-|:--:|
-| Rien de tel que le cardio pour voir comment une course se déroule. |
-|------------------------------   | 
+
+{{< figure src="cardio_map_CharleroiMarathon.jpg" alt="Rien de tel que le cardio pour voir comment une course se déroule." caption="Rien de tel que le cardio pour voir comment une course se déroule." class="blog-figure" >}}
+
 
 KM 22, ça monte déjà bien, dans ma tête c'était au 25° mais pas grave. **KM 26**, la pente est sérieuse, je n'avance plus, et voilà: premier dépassement depuis le début. Logique. Peu après, j'entends plusieurs voix derrière moi: Christophe est là, avec 2-3 autres coureurs. Il essaie de les motiver, aussi ceux qui ont décroché. J'essaie de me coller, ça va sur le plat mais en montée pas. Et de la montée il en reste. 
 
@@ -109,10 +101,7 @@ Je sens que ça va craquer mais j'essaie de repousser ça. Et au **KM 30**, ça 
 
 Les derniers km sont aussi pénibles que ce que j'imaginais, en plus on est en même temps que les coureurs du 21 km, ça n'aide pas trop. On se prend encore quelques côtes, dont la toute dernière qui mène vers le Palais des Expos. Comme dit au début: la foulée est encore souple, bien que je sois (un peu) détruit. 
 
-| ![](./cardio_relief_CharleroiMarathon.jpg) |
-|:--:|
-| Le vrai profile de la course. |
-|------------------------------ |    
+{{< figure src="cardio_relief_CharleroiMarathon.jpg" alt="Le vrai profile de la course." caption="Le vrai profile de la course." class="blog-figure" >}}
 
 ## After party
 

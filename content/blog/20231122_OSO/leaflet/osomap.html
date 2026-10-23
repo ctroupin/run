@@ -54,7 +54,7 @@ function makeTrackLayer(color, weight, opacity) {
             return feature.geometry.type !== "Point"; // skip waypoints
         },
         style: function () {
-            return { color: "#ffffff", weight: weight + 3, opacity: 1 };
+            return { color: "#ffffff", weight: weight + 3, opacity: 0.5 };
         }
     });
 
@@ -90,7 +90,7 @@ moves.forEach(function (file, i) {
     var isLast = (i === lastIndex);
     var t = isLast
         ? makeTrackLayer("red", 4, 1)
-        : makeTrackLayer(randomColor(), 3, 0.9);
+        : makeTrackLayer(randomColor(), 3, 0.75);
 
     omnivore.gpx('/run/data/' + file, null, t.colored)
         .on("ready", function () {
