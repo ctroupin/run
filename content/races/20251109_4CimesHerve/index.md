@@ -69,7 +69,7 @@ KM 12 environ, coup de gueule: un gars qui est dans le groupe fait toute sa cour
 
 Les 2 me regardent, pas trop contents, visiblement c'est moi qui devrait partir. Je ralentis un coup pour qu'ils s'éloignent, mais ça ne marche pas trop, en tout cas au début. Puis finalement ils prennent le large. Si jamais vous le lisez les gars (probabilité: 0%): désolé d'être un peu brusque, mais c'est une course à pied, il y a 5 ou 6 ravitaillements, plein de gens courent avec une ceinture, un sac, ... alors ne me faites pas croire que courir avec une assitance vélo permanente n'est pas lamentable.
 
-Bref, une fois cet épisode terminé, je passe encore quelques kilomètres plutôt agréables, jusqu'à la 2° cime, celle du _Fort d’Aubin_ (KM 17): ça monte mais ce n'est pas vraiment la gloire. Je commence à me faire dépasser, on est à peine à mi-course, ça va faire mal.
+Bref, une fois cet épisode terminé, je passe encore quelques kilomètres plutôt agréables, jusqu'à la 2° cime, celle du _Fort d'Aubin_ (KM 17): ça monte mais ce n'est pas vraiment la gloire. Je commence à me faire dépasser, on est à peine à mi-course, ça va faire mal.
 
 | ![](./images/cardio.jpg) |
 |:--:|

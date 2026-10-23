@@ -5,7 +5,7 @@ tags: ["Hamburg", "Germany"]
 comments: true
 ---
 
-I’ve had the opportunity to visit Hamburg two times, without any prior idea of where to go.
+I've had the opportunity to visit Hamburg two times, without any prior idea of where to go.
 
 ![Map of Hamburg](./images/HamburgMap.jpg)
 
@@ -18,7 +18,7 @@ Looking at the map, it is clear that we have easy options: following the Elbe ri
 &nbsp; 
 
 ### <i class="fas fa-map-signs"></i> _Hors des sentiers battus_
-I could not really find something worth mentioning during these two visits, so it’s added on the task list. I’ve explored the *Hafencity* district a little bit, that was not so fun to run.
+I could not really find something worth mentioning during these two visits, so it's added on the task list. I've explored the *Hafencity* district a little bit, that was not so fun to run.
 
 | | |
 |:-------------------------:|:-------------------------:|

@@ -24,7 +24,7 @@ ml O²/kg/min
 
 Comme valeur moyenne on donne souvent 5 litres.
 
-Lorsque vous obtenez votre VO2 max par le biais d’une montre connectée ou d’un bracelet d’activité, le nombre qui s’affiche correspond à ce que les scientifiques de la pratique sportive appellent votre « VO2 max relative ».
+Lorsque vous obtenez votre VO2 max par le biais d'une montre connectée ou d'un bracelet d'activité, le nombre qui s'affiche correspond à ce que les scientifiques de la pratique sportive appellent votre « VO2 max relative ».
 
 débit d'oxygène maximal que l'organisme est capable d'absorber pour subvenir à ses besoins lors d'un effort physique
 
