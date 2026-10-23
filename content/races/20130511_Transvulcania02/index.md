@@ -9,16 +9,18 @@ location: "Los Llanos de Aridane"
 tags: ["Race", "La Palma", "Islas Canarias"]
 comments: false
 draft: false
-summary: "Deuxième partie de ce compte-rendu sur ma participation à Transvulcania (La Palma)"
+summary: "Deuxième partie de ce compte-rendu sur ma participation à Transvulcania (La Palma)."
 ---
 
 ## 7. Punta de los Roques (2040 m)
 
-Pas officiellement un ravitaillement, mais on nous y attendait quand même avec de l'eau. Un des bénévoles au téléphone: “qu'est-ce qui boivent ces gars-là. Tu leur mets des tonneaux de vin et sûr qu'ils te les vident”. A partir de ce point-là, il nous reste environ 400 de D+ jusqu'au sommet. A priori facile, seulement c'est une alternance de montées et de descentes qui nous attend. Pour info, il est possible de passer la nuit dans ce refuge.
+Pas officiellement un ravitaillement, mais on nous y attendait quand même avec de l'eau. Un des bénévoles au téléphone: 
 
-| ![](./images/tvc01.jpg) |
-|:--:|
-|_Punta de los Roques._|
+> Qu'est-ce qui boivent ces gars-là. Tu leur mets des tonneaux de vin et sûr qu'ils te les vident. 
+
+À partir de ce point-là, il nous reste environ 400 de D+ jusqu'au sommet. A priori facile, seulement c'est une alternance de montées et de descentes qui nous attend. Pour info, il est possible de passer la nuit dans ce refuge.
+
+{{< figure src="./images/tvc01.jpg" alt="Punta de los Roques." caption="Punta de los Roques." class="blog-figure" >}}
 
 ## 8. Pico de la Nieve (43 km, 2332 m) et Pico de la Cruz (47.5 km, 2351 m)
 
@@ -28,9 +30,7 @@ On est dans la partie “montagne” de la course, et ça fait mal. On voit que 
 
 À nouveau une super ambiance là-bas. Les derniers km avant d'y arriver, on pouvait y entendre des cris, de la musique et des applaudissements. Sur place, c'est l'abondance de nourriture et de boissons. Certains en profitent pour s'assoir et manger avec les amis et la famille venus les encourager. Je cherche un médecin puis me dis: “merde, ça passera, continue.” Dans ma tête je sais que je finirai la course: il reste ~20 km de descente, puis 6 km de montée.
 
-| ![](./images/tvc02.jpg) |
-|:--:|
-|_View of the main peaks of the Caldera._|
+{{< figure src="./images/tvc02.jpg" alt="View of the main peaks of the Caldera.." caption="View of the main peaks of the Caldera.." class="blog-figure" >}}
 
 ## 10. Descente vers la Torre del Time (71 km, 1160 m)
 
@@ -46,13 +46,10 @@ Cette dernière montée, je crois que beaucoup la haïssent. Les jambes sont en 
 
 Juste avant la dernière ligne droite, un groupe du public balance des seaux d'eau sur les coureurs qui le souhaitent. Ça fait du bien. Derniers km, enfin du plat, je recommence à courir, un peu trop vite, mais pas grave, je remarcherai un coup et ça ira, du moins, c'est ce que je croyais. Il y a encore un monde de dingue, et comme toujours, ça leur fait plaisir qu'on court, donc je continue, de peur de me faire lyncher 😉 La ligne d'arrivée est au fond, je la vois ..., et non, il faut encore tourner vers le centre et faire 200 m. Pour l'honneur, à fond! Je passe la ligne d'arrivée, à la limite de gerber, mais finalement en bien meilleur état que beaucoup. 1-2 minutes de récup' et ça va, reste plus qu'à profiter.
 
-| ![](./images/tvc03.jpg) |
-|:--:|
-|_Finish line in los Llanos de Aridane._|
+{{< figure src="./images/tvc03.jpg" alt="Finish line in los Llanos de Aridane." caption="Finish line in los Llanos de Aridane." class="blog-figure" >}}
 
 12h50 de course: objectif atteint (faire mieux qu'il y a 3 ans), mais malgré tout un peu déçu ne pas avoir pu faire mieux à cause de ces douleurs. Pour une fois que je pensais avoir bien géré la nourriture et les boissons... sans doute trop de minéraux dans leurs boissons, rien de tel que l'eau dans ces cas-là. Je me sens obligé de revenir l'année prochaine pour faire mieux (moins de 12 heures), mais ça on verra.
 
 Pour terminer je me permets de joindre le splendide diplôme fourni par l'organisation. Je n'ai pas manqué d'en coller une copie dans mon bureau, non pas pour me vanter de cette course, mais juste pour me rappeler tout ce qu'ils m'ont fait ch*** (et le font encore) avec leurs histoires d'homologation de diplômes. Ça mérite clairement un article, et ce sera pour les prochains jours.
 
-| ![](./images/tvc04.jpg) |
-|:--:|
+{{< figure src="./images/tvc04.jpg" alt="Le diplôme." caption="Le diplôme!" class="blog-figure" >}}

@@ -12,7 +12,7 @@ draft: false
 summary: "Ma deuxième participation à la fameuse Transvulcania, une course de montagne qui traverse l'île de La Palma"
 ---
 
-Poursuivant sur ma lancée de publication d'articles sur le blog, je vais essayer de boucler un petit compte-rendu de la Transvulcania 2013. Let's go!
+Poursuivant sur ma lancée de publication d'articles sur le blog, je vais essayer de boucler un petit compte-rendu de la Transvulcania 2013. _Let's go!_
 
 D'abord, quelques questions:
 
@@ -28,33 +28,25 @@ Il faut remarquer que le but n°2 requiert autant de préparation que le 1: pas 
 
 Comme je savais que j'allais tarder avant d'écrire ce post (la course était début mai) et que ma mémoire est un peu limitée, j'avais pris quelques notes de ce qu'il fallait raconter.
 
-| ![](./images/tvc01.jpg) |
-|:--:|
-|_Presentation of runner before starting the race._|
+{{< figure src="./images/tvc01.jpg" alt="Presentation of runner before starting the race." caption="Presentation of runner before starting the race." class="blog-figure" >}}
 
 ## 1. Le départ - 4h du mat', phare de Fuencaliente (sud de l'île)
 
 Une ambiance incroyable, de la musique à fond, et des centaines de coureurs venus principalement des Canaries, prêts à en découdre avec le relief de La Palma. À 6h, le départ est lancée par la “présidente” de l'île, et c'est alors un énorme cordon de lumières rouges et blanches qui s'élance. Pour moi sans doute la plus belle image de cette course. Quelques photos d'un autre blog.
 
-| ![](./images/tvc02.jpg) |
-|:--:|
-|_The “light snake”, a few hundred meters of runners._|
+{{< figure src="./images/tvc02.jpg" alt="The “light snake”, a few hundred meters of runners." caption="The “light snake”, a few hundred meters of runners." class="blog-figure" >}}
 
 ## 2. Premier ravito (7.4 km, los Canarios, 710 m)
 
-Malgré l'heure de passage, le petit village est plein, sur plusieurs centaines de mètres des deux côtés de la route, le public est déchainé. Quand on lit les commentaires du jogg de Verviers, on parle d'une ambiance d'arrivée de tour de France... ici c'est encore différent: on sait qu'il nous reste 75 km (NDLR-2026: à l'époque on disait que la course faisait 83 km, au lieu de 73 km), ça fait chaud au cœur de voir tout ce monde.
+Malgré l'heure de passage, le petit village est plein, sur plusieurs centaines de mètres des deux côtés de la route, le public est déchainé. Quand on lit les commentaires du jogg de Verviers, on parle d'une ambiance d'arrivée de tour de France... ici c'est encore différent: on sait qu'il nous reste 75 km (`NDLR-2026`: à l'époque on disait que la course faisait 83 km, au lieu de 73 km), ça fait chaud au cœur de voir tout ce monde.
 
-| ![](./images/tvc03.jpg) |
-|:--:|
-|_Sunset with Tenerife and mount Teide in the background._|
+{{< figure src="./images/tvc03.jpg" alt="Sunset with Tenerife and mount Teide in the background." caption="Sunset with Tenerife and mount Teide in the background." class="blog-figure" >}}
 
 ## 3. Montée à las Deseadas (18 km, 1931 m)
 
 Une montée interminable dans les graviers volcaniques (excellent pour l'amortie, mais hard pour les mollets), et un levé de soleil de toute beauté, avec les silhouettes de Tenerife et la Gomera à l'est, et de El Hierro au sud. Je regrettais de ne pas avoir mon appareil reflex sur moi, car les résultats avec le compact sont un peu pourris. Heureusement on peut compter sur des photographes tels que Saul Santos pour immortaliser ces moments. On s'est déjà tapé 2000 m de dénivelé positif (D⁺ pour les habitués), et on est loin du compte.
 
-| ![](./images/tvc04.jpg) |
-|:--:|
-|_From the top of Las Deseadas, after 18 km of race._|
+{{< figure src="./images/tvc04.jpg" alt="From the top of Las Deseadas, after 18 km of race." caption="From the top of Las Deseadas, after 18 km of race." class="blog-figure" >}}
 
 ## 4. Ravito de El Pilar (26.8 km, 1456 m)
 
@@ -62,20 +54,18 @@ Après une superbe descente depuis las Deseadas, nous voici au 3° ravito, égal
 
 ## 5. La Hilera
 
-Pour moi une des parties les plus difficiles à gérer: 7-8 km de plat-faux plat sur une piste forestière, avec vue sur la ligne d'arrivée (pour déprimer ou pour se donner du courage, en fonction des sensations), avant une monstrueuse montée. Cette fois-ci ça a été beaucoup mieux qu'il y a 3 ans, j'ai pu continuer à courir. A ce moment-là je me dis: “l'entrainement a peut-être payé ;)”.
+Pour moi une des parties les plus difficiles à gérer: 7-8 km de plat-faux plat sur une piste forestière, avec vue sur la ligne d'arrivée (pour déprimer ou pour se donner du courage, en fonction des sensations), avant une monstrueuse montée. Cette fois-ci ça a été beaucoup mieux qu'il y a 3 ans, j'ai pu continuer à courir. A ce moment-là je me dis: 
 
-| ![](./images/tvc05.jpg) |
-|:--:|
-|_During the climbing of el Reventón, with view on la Hilera._|
+> L'entrainement a peut-être payé ;)
+
+
+{{< figure src="./images/tvc05.jpg" alt="During the climbing of el Reventón, with view on la Hilera." caption="During the climbing of el Reventón, with view on la Hilera." class="blog-figure" >}}
 
 
 ## 6. El Reventón (34 km, 1415 m)
 
 Autre ravito, en préparation de cette fameuse montée du Reventón. Pour info, Reventón peut se traduire par “éclatement“. La personne qui nous refile de l'eau annonce gentiment: “ça va? parce que c'est maintenant la partie la plus dure.” Oui ça va. Après quelques minutes de montée, les premières ambulances attendent sur le bord du chemin. Et ensuite, espacés de manière régulière, des bénévoles ou secouristes qui surveillent les coureurs. Je crois vraiment qu'à cet endroit, ils avaient peur qu'il y ait des malaises et des abandons.
-LPLM9830
 
-| ![](./images/tvc06.jpg) |
-|:--:|
-|_First part of the race. Picture taken from el Bejenado._|
+{{< figure src="./images/tvc06.jpg" alt="First part of the race. Picture taken from el Bejenado." caption="First part of the race. Picture taken from el Bejenado." class="blog-figure" >}}
 
 La suite bientôt 😉
