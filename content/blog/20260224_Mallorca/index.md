@@ -80,3 +80,11 @@ Si on continue sur le GR, après une zone ombragée en descente (si je me souvie
 Une fois passé 2 ou 3 cols, on descend vers Lluc, connu pour son monastère, puis direction Pollença où on peut terminer en beauté avec une rue en escaliers, comme Montagne de Bueren: _Carrer des Calvari_.
 
 ### Mon plus fréquent: la montée à l'Ermita depuis Esporles
+
+Comme j'ai eu l'opportunité de travaillé à Esporles durant 1 an, j'ai pu explorer assez bien tous les chemins de randonnée et de trail autour de ce petit village.
+
+S'il y a un parcours que je recommande, c'est la montée vers l'Ermita de Maristela. Un parcours pas vraiment compliqué, si on suit des chemins existants, pour un total de 8 km et environ 400 m de D⁺.
+
+### Et sur le reste de l'île?
+
+Les possibilités sont vraiment très nombreuses, que ce soit dans la Tramuntana ou dans le reste de l'île. 
