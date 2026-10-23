@@ -76,7 +76,7 @@ moves.forEach(function (file, i) {
     omnivore.gpx('/run/data/' + file, null, layer).addTo(map);
 
     // Label: file name without extension, e.g. "OSO2014"
-    var label = file.replace(/\.gpx$/i, "");
+    var label = file.match(/\d{4}/)[0];
     overlayers[label] = layer;
 });
 
