@@ -68,7 +68,7 @@ Pas grand chose à dire là dessus.
 
 Je m'étais mis directement dans le sas `02:59 - 03:14`, car le sas plus rapide me semblait un tantinet trop ambitieux. D'ailleurs après l'échauffement j'avais même reculé afin de ne pas être dans les premiers du sas. Dès le départ j'essaie de trouver l'allure cible. Je regarde souvent la montre, parfois elle indique du `4'25/km`, d'autres fois du `3'35/km`, pas facile de savoir à quoi s'en tenir. La solution: suivre les deux meneurs d'allure qui devaient nous emmener vers le `2:59` tant convoité.
 
-{{< figure src="./images/810554484.JPG" alt="." caption="." class="blog-figure" >}}
+{{< figure src="./images/810554484.JPG" alt="C'est parti pour 42 km de folie." caption="C'est parti pour 42 km de folie." class="blog-figure" >}}
 
 Dans cette première partie, je me dis que cette allure, elle est facile, et que la tenir 3 heures se fera sans soucis.
 
@@ -78,20 +78,20 @@ Les kilomètres défilent, je reste dans le groupe des meneurs d'allure et profi
 
 Petit à petit je m'approche de la tête de notre groupe, mais hésite à partir. J'ai envie de faire ma course, sur mon rythme, pas le leur, il faut juste choisir le bon moment.
 
-{{< figure src="./images/Anvers2026-01.JPG" alt="." caption="." class="blog-figure" >}}
+{{< figure src="./images/Anvers2026-01.JPG" alt="Le Loodswezen." caption="Le Loodswezen, construit entre 1892 et 1895." class="blog-figure" >}}
 
 ### 15°km: je m'en vais
 
 Je ne sais pas ce qui a provoqué ça, en tout cas j'ai senti que c'était le bon moment de me séparer du groupe. Dans ma tête: 15 km, on est proche de la moitié de course, et une fois à la moitié, ça ira encore mieux. Aucune idée pourquoi je pensais ça, c'était comme si le fait de recommencer la même boucle allait faciliter la course.
 
-{{< figure src="./images/Anvers2026-01.JPG" alt="." caption="." class="blog-figure" >}}
+{{< figure src="./images/810591160.JPG" alt="De moins en moins de coureurs au fur et à mesure de la course." caption="De moins en moins de coureurs au fur et à mesure de la course." class="blog-figure" >}}
 
 
 ### 20°km: la début de la fin
 
 Vers le 20° on fait une sale boucle dans le port, un tronçon qui semble avoir été placé juste pour ajouter 1 ou 2 kilomètres, mais qui n'a pas vraiment de sens. À ce moment on croise les coureurs qui sont devant, puis après le demi-tour, ceux qui sont derrière. C'est là que je me rends compte de la taille du groupe des meneurs d'allures: rien qu'au bruit des foulées, on sent qu'ils sont un bon paquet! Raison de plus pour ne pas y retourner. Une fois cette boucle terminée on va retourner vers la civilisation, c'est-à-dire dans une zone avec des spectateurs. Mentalement ça fait du bien.
 
-{{< figure src="./images/Anvers2026-02.JPG" alt="." caption="." class="blog-figure" >}}
+{{< figure src="./images/Anvers2026-02.JPG" alt="Près de la zone de départ." caption="Près de la zone de départ." class="blog-figure" >}}
 
 ### 25°km: rien ne peut arriver
 
@@ -115,13 +115,12 @@ Le dernier gel, pas envie de le prendre, mais je fais quand même l'effort, ce s
 
 Plus le temps passe et plus je calcule. Quand on fait des calculs en course (genre: il reste X km, donc ça fait autant de temps) ça veut dire qu'on commence à fatiguer. Deux kilomètres, ça fait moins de 10 minutes, ça ira, surtout qu'il y a vraiment beaucoup de monde. 41°km: il reste 1200 mètres, c'est facile un 1200 m, non? On voit la ligne au loins, reste plus qu'à profiter. Je n'ai toujours pas regardé le temps sur la montre mais comme je suis assez bien devant les meneurs d'allure, pas de soucis à me faire.
 
-{{< figure src="./images/810850420.JPG" alt="Final." caption="L." class="blog-figure" >}}
-
-
-{{< figure src="./images/garmin03.png" alt="Final." caption="Capture d'écran de la Garmin." class="blog-figure" >}}
+{{< figure src="./images/810850420.JPG" alt="L'arrivée dans une super ambiance." caption="L'arrivée dans une super ambiance." class="blog-figure" >}}
 
 
 ## Réflexions post-course
+
+{{< figure src="./images/garmin03.png" alt="Final." caption="Capture d'écran de la Garmin." class="blog-figure" >}}
 
 Une chose assez drôle quand on se met en tête certains défis, c'est qu'on pense que les choses seront différentes une fois que ce sera fait. Par exemple après la TransGranCanaria, j'étais sûr que je serais différent, que je verrais les choses différemment etc. Mais non, en fait ça ne change absolument rien, et c'est pareil pour le marathon sous les 3 heures. Je me disais que ça me ferait quelque chose d'y arriver, et puis une fois que c'est fait, on se rend compte que la vie continue, qu'on reste au coureur ordinaire parmi des centaines d'autres.
 
