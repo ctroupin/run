@@ -17,6 +17,27 @@
         // 1. Initialize the map
         const map = L.map('map').setView([39.64, 3], 10);
 
+        var places = [
+                { lat: 39.77002, lng: 2.70933, name: "Sóller" },
+                { lat: 50.59011,          lng: 5.75211,           name: "Start" }
+                // add more here
+            ];
+
+        var placeMarkers = L.featureGroup();
+
+        places.forEach(function (p) {
+            L.marker([p.lat, p.lng])
+                .bindTooltip(p.name, {
+                    permanent: true,
+                    direction: "right",
+                    offset: [10, 0],
+                    className: "place-label"
+                })
+                .addTo(placeMarkers);
+        });
+
+        placeMarkers.addTo(map);
+
         L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
             attribution: '© OpenStreetMap contributors'
         }).addTo(map);
@@ -41,13 +62,6 @@
             };
         }
 
-        // 5. Add GeoJSON to map with the style
-        L.geoJSON(myData, {
-            style: zoneStyle,
-            onEachFeature: function (feature, layer) {
-                layer.bindPopup("Zone: " + feature.properties.zone);
-            }
-        }).addTo(map);
 
     </script>
 </body>

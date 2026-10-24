@@ -36,7 +36,7 @@ Le but était d'éviter tout ce qui pourrait poser problème (jambes lourdes, di
 
 Tout ça fait qu'au moment de prendre le départ, je suis super à l'aise, comme une course normale, voire comme pour une sortie longue.
 
-![Anvers](./images/Anvers2026-03.JPG)
+{{< figure src="./images/Anvers2026-03.JPG" alt="À la recherche du dossard." caption="À la recherche du dossard.." class="blog-figure" >}}
 
 Un autre point de vue sur la prépa, pour reprendre une expression d'un de mes profs d'unif:
 > Tuer une mouche avec un bazooka.
@@ -68,7 +68,7 @@ Pas grand chose à dire là dessus.
 
 Je m'étais mis directement dans le sas `02:59 - 03:14`, car le sas plus rapide me semblait un tantinet trop ambitieux. D'ailleurs après l'échauffement j'avais même reculé afin de ne pas être dans les premiers du sas. Dès le départ j'essaie de trouver l'allure cible. Je regarde souvent la montre, parfois elle indique du `4'25/km`, d'autres fois du `3'35/km`, pas facile de savoir à quoi s'en tenir. La solution: suivre les deux meneurs d'allure qui devaient nous emmener vers le `2:59` tant convoité.
 
-![Anvers](./images/Anvers2026-04.JPG)
+{{< figure src="./images/810554484.JPG" alt="." caption="." class="blog-figure" >}}
 
 Dans cette première partie, je me dis que cette allure, elle est facile, et que la tenir 3 heures se fera sans soucis.
 
@@ -78,23 +78,26 @@ Les kilomètres défilent, je reste dans le groupe des meneurs d'allure et profi
 
 Petit à petit je m'approche de la tête de notre groupe, mais hésite à partir. J'ai envie de faire ma course, sur mon rythme, pas le leur, il faut juste choisir le bon moment.
 
-![Anvers](./images/Anvers2026-01.JPG)
+{{< figure src="./images/Anvers2026-01.JPG" alt="." caption="." class="blog-figure" >}}
 
 ### 15°km: je m'en vais
 
 Je ne sais pas ce qui a provoqué ça, en tout cas j'ai senti que c'était le bon moment de me séparer du groupe. Dans ma tête: 15 km, on est proche de la moitié de course, et une fois à la moitié, ça ira encore mieux. Aucune idée pourquoi je pensais ça, c'était comme si le fait de recommencer la même boucle allait faciliter la course.
 
+{{< figure src="./images/Anvers2026-01.JPG" alt="." caption="." class="blog-figure" >}}
+
+
 ### 20°km: la début de la fin
 
 Vers le 20° on fait une sale boucle dans le port, un tronçon qui semble avoir été placé juste pour ajouter 1 ou 2 kilomètres, mais qui n'a pas vraiment de sens. À ce moment on croise les coureurs qui sont devant, puis après le demi-tour, ceux qui sont derrière. C'est là que je me rends compte de la taille du groupe des meneurs d'allures: rien qu'au bruit des foulées, on sent qu'ils sont un bon paquet! Raison de plus pour ne pas y retourner. Une fois cette boucle terminée on va retourner vers la civilisation, c'est-à-dire dans une zone avec des spectateurs. Mentalement ça fait du bien.
 
-![Anvers](./images/Anvers2026-02.JPG)
+{{< figure src="./images/Anvers2026-02.JPG" alt="." caption="." class="blog-figure" >}}
 
 ### 25°km: rien ne peut arriver
 
 Les jambes tournent toujours bien, juste une douleur (niveau 2/10) à un mollet, seul truc qui me fait un peu peur, vu que ça ne va sûrement pas aller en s'améliorant. Les gels passent bien, et j'arrive même à boire proprement les goblets d'eau. Je ne sais pas si c'est juste une sensation, mais j'ai l'impression d'accélérer un petit coup. J'ai tellement lu et entendu parler du mur du 30° km que j'ai hâte d'y arriver, parce que je ne pense vraiment pas que ça va m'arriver.
 
-![Cardio](./images/cardio_lap.jpg)
+{{< figure src="./images/cardio_lap.jpg" alt="Cardio." caption="Le cardio sur les 2 boucles de la course." class="blog-figure" >}}
 
 ### 30°km: il ne se passe rien
 
@@ -102,7 +105,7 @@ Vers le 30° je commence à calculer, sans pour autant regarder mon chrono: jusq
 
 Le dernier gel, pas envie de le prendre, mais je fais quand même l'effort, ce serait bête de foirer ça.
 
-![Anvers](./images/Anvers2026-05.JPG)
+{{< figure src="./images/Anvers2026-05.JPG" alt="Museum aan de Stroom." caption="Le Museum aan de Stroom (MAS)." class="blog-figure" >}}
 
 ### 35°km: un peu dans le dur
 
@@ -112,7 +115,10 @@ Le dernier gel, pas envie de le prendre, mais je fais quand même l'effort, ce s
 
 Plus le temps passe et plus je calcule. Quand on fait des calculs en course (genre: il reste X km, donc ça fait autant de temps) ça veut dire qu'on commence à fatiguer. Deux kilomètres, ça fait moins de 10 minutes, ça ira, surtout qu'il y a vraiment beaucoup de monde. 41°km: il reste 1200 mètres, c'est facile un 1200 m, non? On voit la ligne au loins, reste plus qu'à profiter. Je n'ai toujours pas regardé le temps sur la montre mais comme je suis assez bien devant les meneurs d'allure, pas de soucis à me faire.
 
-![Final](./images/garmin03.png)
+{{< figure src="./images/810850420.JPG" alt="Final." caption="L." class="blog-figure" >}}
+
+
+{{< figure src="./images/garmin03.png" alt="Final." caption="Capture d'écran de la Garmin." class="blog-figure" >}}
 
 
 ## Réflexions post-course

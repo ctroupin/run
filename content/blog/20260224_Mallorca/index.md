@@ -70,7 +70,6 @@ Sóller est un petit village typique de Mallorca, mais qui est malheureusement v
 
 {{< figure src="./images/Mallorca2026_7630.JPG" alt="La place principale de Sóller." caption="La place principale de Sóller." class="blog-figure" >}}
 
-
 Ensuite on descend vers l'_Embalse de Cuber_, un des deux principaux barrages de l'île, et on passe d'un côté ou de l'autre avant de rejoindre la route pour quelques mètre, puis on bifurque sur la droite afin de continuer sur le `GR-221`. De là il y a à nouveaux pas mal de possibilité, soit continuer le GR, soit passer par _Tossals Verds_, un très beau sommet aussi, et redescendre vers l'un des villages proche de la Tramuntana. 
 
 {{< myiframe "./leaflet/SollerPollenca.html" >}}

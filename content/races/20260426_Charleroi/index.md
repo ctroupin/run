@@ -95,7 +95,7 @@ Par contre, mauvaise nouvelle, vers le 15° km je commence à sentir une gène a
 {{< figure src="cardio_map_CharleroiMarathon.jpg" alt="Rien de tel que le cardio pour voir comment une course se déroule." caption="Rien de tel que le cardio pour voir comment une course se déroule." class="blog-figure" >}}
 
 
-KM 22, ça monte déjà bien, dans ma tête c'était au 25° mais pas grave. **KM 26**, la pente est sérieuse, je n'avance plus, et voilà: premier dépassement depuis le début. Logique. Peu après, j'entends plusieurs voix derrière moi: Christophe est là, avec 2-3 autres coureurs. Il essaie de les motiver, aussi ceux qui ont décroché. J'essaie de me coller, ça va sur le plat mais en montée pas. Et de la montée il en reste. 
+**KM 22**, ça monte déjà bien, dans ma tête c'était au 25° mais pas grave. **KM 26**, la pente est sérieuse, je n'avance plus, et voilà: premier dépassement depuis le début. Logique. Peu après, j'entends plusieurs voix derrière moi: Christophe est là, avec 2-3 autres coureurs. Il essaie de les motiver, aussi ceux qui ont décroché. J'essaie de me coller, ça va sur le plat mais en montée pas. Et de la montée il en reste. 
 
 Je sens que ça va craquer mais j'essaie de repousser ça. Et au **KM 30**, ça craque vraiment, je marche comme une me***, en essayant d'étirer ces épaules. Rien à y faire. Je repars vite, en sachant que le reste de la course ne sera pas une partie de plaisir. En effet: je marche plusieurs fois, et à partir de la 2° ou 3° fois, j'ai compris que le sub-3 n'est plus possible. En soi ça ne me tracasse pas. Je finirai quand je devrai finir, et si je marche c'est clair que je ne mérite pas un sub-3.
 
