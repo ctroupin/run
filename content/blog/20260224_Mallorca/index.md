@@ -78,12 +78,20 @@ Si on continue sur le GR, après une zone ombragée en descente (si je me souvie
 
 Une fois passé 2 ou 3 cols, on descend vers Lluc, connu pour son monastère, puis direction Pollença où on peut terminer en beauté avec une rue en escaliers, comme Montagne de Bueren: _Carrer des Calvari_.
 
-### Mon plus fréquent: la montée à l'Ermita depuis Esporles
+### Celui que j'ai fait le plus souvent: la montée à l'Ermita depuis Esporles
 
 Comme j'ai eu l'opportunité de travaillé à Esporles durant 1 an, j'ai pu explorer assez bien tous les chemins de randonnée et de trail autour de ce petit village.
 
-S'il y a un parcours que je recommande, c'est la montée vers l'Ermita de Maristela. Un parcours pas vraiment compliqué, si on suit des chemins existants, pour un total de 8 km et environ 400 m de D⁺.
+S'il y a un parcours que je recommande, c'est la montée vers l'Ermita de Maristela. Un parcours pas vraiment compliqué, si on suit des chemins existants, pour un total de 8 km et environ 400 m de D⁺. 
 
 ### Et sur le reste de l'île?
 
-Les possibilités sont vraiment très nombreuses, que ce soit dans la Tramuntana ou dans le reste de l'île. 
+Les possibilités sont vraiment très nombreuses, que ce soit dans la Tramuntana ou dans le reste de l'île. Il suffit de consulter le calendrier des courses de montagne qui sont organisées sur l'île. La plupart des villages de la Tramuntana ont leur épreuve, avec des distances allant de 7-8 km jusqu'à des 40K. 
+
+On a parlé du `GR-221`, il faut savoir qu'il existe aussi un `GR-222` dans l'est de l'île, et qui relie Artà à Lluc, avec un beau segment le long de la côte. Malheureusement le tracé du sentier n'est pas finalisé à l'heure de ces lignes.
+
+## Conclusions 
+
+Aller à Majorque pour profiter des plages est vraiment une bonne idée, et y aller pour courir et faire du trail (puis se reposer à la plage) en est encore une meilleure. Certaines zones de l'île sont plus propices que d'autres, et c'est sûrement ça le plus important à savoir. 
+
+Il y a des sentiers balisés un peu partout, et des outils tels que Wikiloc aident vraiment à trouver de quoi passer des belles heures en faisait du sport.
