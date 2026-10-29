@@ -12,7 +12,6 @@ comments: false
 summary: "Pas les meilleurs jambes de l'année mais ce sera de toute façon mieux que l'année dernière!"
 ---
 
-
 Chaque fois que j'y pense, je me dis qu'écrire un article sur une course n'est vraiment pas aisé.
 En gros, on essaie de se rappeler, quelques heures ou quelques jours après, de trucs qu'on a fait ou qu'on a dit, alors qu'on est dans un état pas vraiment normal (une course où on est normalement dans le rouge).
 Malgré tout ça reste un exercice amusant, raison pour laquelle je tente le coup sur ce 43° Jogging de Verviers.
@@ -27,7 +26,7 @@ Ouf, enfin fini, pas d'ombre au Stade de Bielmont, je vais vite à la maison pre
 
 54 minutes et quelques secondes, je passe la ligne en cherchant du regard s'il n'y a pas un photographe. Je n'en vois pas, Gédéon où es-tu? De l'eau, de la tarte au riz, une canette de je ne sais pas quoi, tout est bon pour récupérer.
 
-Les enfants me rejoignent près des châteaux gonflables, le calme de la course (puis de la douche) prend une fin abrupte mais attendue. 54 minutes de tranquilité, presque de _flow_, où il faut juste mettre un pied devant l'autre. Un bon temps, pas excellent mais de quoi être content:  il faisait vraiment chaud, j'ai hésité à prendre le départ (pour d'autres raisons), et voilà c'est fait.
+Les enfants me rejoignent près des châteaux gonflables, le calme de la course (puis de la douche) prend une fin abrupte mais attendue. 54 minutes de tranquilité, presque de _flow_, où il faut juste mettre un pied devant l'autre. Un bon temps, pas excellent mais de quoi être content: il faisait vraiment chaud, j'ai hésité à prendre le départ (pour d'autres raisons), et voilà c'est fait.
 
 ## La course
 
@@ -35,9 +34,7 @@ Pour une fois me voilà pas trop mal placé au départ. Je dépense directement 
 
 Je ne prépare jamais le déroulement d'une course, je m'en tape des parcours que je ne connais pas, donc ici c'est l'exception: j'ai ouvert la course d'il y a 2 ans sur [Strava](https://www.strava.com/activities/11668888080) pour voir comment j'avais géré le début. `17:30` c'est faisable, ensuite 10 minutes de montée depuis Ensival jusque le haut de Piedvache, et puis c'est fini (dans ma tête), car il ne reste plus que rue de l'Usine, Moraifosse, rue des Prés, ... et des rues tranquiles où les jambes savent dérouler.
 
-| ![](./images/verviers2026.png) |
-|:--:|
-| _Les 5 premiers km passent comme une lettre à la poste._|
+{{< figure src="./images/verviers2026.png" alt="Les 5 premiers km passent comme une lettre à la poste." caption="_Les 5 premiers km passent comme une lettre à la poste." class="blog-figure" >}}
 
 J'arrive donc à Ensival au KM 5 en `17:32`, de la précision suisse pourrait-on dire, le tout sans regarder la montre. On entame la montée, gros ralentissement, comme d'habitude, je m'attends à me faire dépasser par 10 personnes par minute, sauf que la montée c'est pour tout le monde, donc même à du 12 km/h, voire moins, ça limite la casse. Voici le tapis qui chronomètre le début de Piedvache, un peu après il y a cette sale bosse, le début de la montée, un sal moment à passer car après la montée se fait plus douce. Quelqu'un m'a dit que j'étais 71°, aucune idée si c'est vrai, en tout cas il n'y pas des masses de coureurs en vue devant ou derrière. Je ne sais pas trop ce que j'ai fait dans ce tronçon, j'étais sûrement perdu dans mes pensées, souvent je regarde les gens du public, pour voir s'il y a quelqu'un que je connais, s'ils disent "allez, courage", je leur réponds "merci!", s'il y a des enfants qui veulent qu'on leur tape dans la main je vais vers eux (en essuyant ma main avant autant que possible).
 
@@ -49,9 +46,7 @@ Fin de Piedvache, j'entends "allez Charles!", aucune idée de qui c'était, nous
 
 Dernier ravito, près de la plaine de Rouheid, et là, miracle, je parviens à boire presque normalement. Je sens que le rythme est meilleur, ça tourne bien, il ne peut plus rien arriver. Dans le tournant je vois comme chaque année mon ancien entraineur de basket qui me fait un gros _high-five_. Après, je sais plus trop, je sais juste que ça trace bien. 
 
-| ![](./images/verviers2026_01.jpeg) |
-|:--:|
-| _Sur la fin (rue Joseph Wauters)._|
+{{< figure src="./images/verviers2026_01.jpeg" alt="Sur la fin (rue Joseph Wauters)." caption="Sur la fin (rue Joseph Wauters)." class="blog-figure" >}}
 
 Dans la dernière descente avant de tourner vers la piste, je vois un gars qui fait un petit malaise, chance pour lui il y a plein de pompiers à côté, il est entre de bonnes mains. Sur la piste pas trop de monde, je laisse tourner sans forcer.
 
@@ -71,7 +66,6 @@ Quelle prépa? Ici on est dans une phase de reprise de vitesse, suite au [Marath
 Vous avez toujours voulu connaitre le nombre de participants au jogging, ainsi que les meilleurs temps?
 Les voici, depuis 2012. J'essaierai de mettre à jour quand j'ai du temps.
 
-
 | Année &nbsp;|  Distance &nbsp;| Finishers &nbsp;| Meilleur temps | Coureur |
 |------|-----------|-----------|-----------|--------|
 | 2026 | 14 km | 2230 (2320 started) | 44:24 | Arnaud Collard |
@@ -89,3 +83,5 @@ Les voici, depuis 2012. J'essaierai de mettre à jour quand j'ai du temps.
 | 2014 | 13 km | 2768 (2785 started) | 40:02 | James Barmasai |
 | 2013 | 13 km | 2977 (3014 started) | 42:27 | Olivier Pierron |
 | 2012 | 13 km | 2845 (2897 started) &nbsp;&nbsp;| 40:39 | Jamal Baligha |
+
+Ça veut aussi dire que personne n'est jamais passé en dessous des 40 minutes, ce qui correspondrait à une vitesse d'environ 19.5 km/h!

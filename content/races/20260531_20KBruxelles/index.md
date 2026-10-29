@@ -25,6 +25,8 @@ Elle allait dans la continuité du [Marathon de Charleroi]( {{< relref "/races/2
 
 Dire que j'ai essayé de limiter la casse est bon résumé des jours précédant la course.
 
+{{< figure src="Bruxelles01.jpeg" alt="Toujours content juste après une course comme ça!" caption="Toujours content juste après une course comme ça!" class="blog-figure" >}}
+
 ## ⏱️ Quel temps viser?
 
 Mauvais prépa (voire pas de prépa du tout) est équivalent à absence de pression. Concrètement ça se traduit par:
@@ -58,16 +60,17 @@ Cette impression s'est vite confirmée: du monde partout et avec des vitesses bi
 
 Point de vue allure j'ai testé la technique de ne pas regarder la montrer, technique qui a malheureusement ses limites: quand je pensais avoir une bonne allure, j'étais en fait trop lent (4'15/km) et quand je pensais être lent, j'étais à du 3'45/km.
 
-![](Bruxelles2026_cardio.jpg)
+{{< figure src="Bruxelles2026_cardio.jpg" alt="Le cardio le long du parcours." caption="Le cardio le long du parcours." class="blog-figure" >}}
 
-En tout cas les kilomètres défilaient, ce qui est toujours bon signe. Les 10 premiers KM passent en moins de 40 minutes, plus ou moins ce que je pensais. Pour le reste de la course pas grand chose à dire, je n'étais pas à l'aise mais pas non plus dans le rouge: ça manquait cruelement d'un rythme constant, peut-être un meneur d'allure ou un groupe auquel se coller, je ne sais pas.
+En tout cas les kilomètres défilaient, ce qui est toujours bon signe. Les 10 premiers KM passent en moins de 40 minutes, plus ou moins ce que je pensais. Pour le reste de la course pas grand chose à dire, je n'étais pas à l'aise mais pas non plus dans le rouge: ça manquait cruellement d'un rythme constant, peut-être un meneur d'allure ou un groupe auquel se coller, je ne sais pas.
 
-Vers la fin je sens que ça monte, mais il me faut un peu de temps avant de comprendre que oui, c'est bien ça la fameuse côte, l'avenue de _Turvuerenlaan_, alias l'avenue de Tervueren. Il suffit de la monter à un bon rythme, puis ça descend encore quelques hectomètres jusque la fameuse arrivée. Ça finit en `01:19:03`, plutôt pas mal.
+Vers la fin je sens que ça monte, mais il me faut un peu de temps avant de comprendre que oui, c'est bien ça la fameuse côte, _Turvuerenlaan_, alias l'Avenue de Tervueren. Il suffit de la monter à un bon rythme, puis ça descend encore quelques hectomètres jusque la fameuse arrivée. Ça finit en `01:19:03`, plutôt pas mal.
 
-![](Bruxelles2026_cardio_alti.jpg)
+{{< figure src="Bruxelles2026_cardio_alti.jpg" alt="Cardio et altitude." caption="Cardio et altitude." class="blog-figure" >}}
 
 ## Les conclusions
 
 Vu que ça va faire déjà 3 semaines que la course a eu lieu, j'ai tendance à oublier ce que je voulais dire. Avec du recul je crois que j'aurais peut-être dû aller un rien plus loin dans l'effort, mais je n'étais pas super à l'aise. 
 
 Sans doute une des courses où j'ai vu le plus de monde, avec le marathon de Paris, il y a quelques années je n'aurais jamais fait ça, maintenant ça passe sans aucun stress. 
+
