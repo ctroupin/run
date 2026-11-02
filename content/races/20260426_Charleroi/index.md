@@ -89,8 +89,7 @@ Sur le plat je suis souvent à du 4'05/km, je me sens bien, pas de stress, aucun
 
 Au **KM 7.7** on est déjà le long du Canal. Plus de 7 km vers le nord, ensuite un pont, et on revient par l'autre rive. Les écarts sont déjà faits, le gars devant moi est super loin, inaccessible, celui derrière n'a pas l'air de me rejoindre. J'essaie de gérer les gels et de les prendre juste avant les ravitaillements, afin d'avoir de l'eau. Ça marche plutôt bien. Une fois passé le pont et la changement de direction, je vois le meneur d'allure `3h` (appelons-le Christophe puisque c'est son nom) de l'autre côté est me dit que c'est cool, je suis bien en avance.
 
-Par contre, mauvaise nouvelle, vers le 15° km je commence à sentir une gène aux épaules. J'essaie de les étirer, de rester souple et détendu. Ça ne fonctionne pas. Et ça me fait un peu peur. Je passe la mi-course en `1:28` environ. Il y a de l'avance mais pas énorme, je visais plutôt `1:25` - `1:26`. En fait cette première partie qui, dans ma version de la course, était facile, était déjà un peu traitre. Le sub-3 est encore possible.
-
+Par contre, mauvaise nouvelle, vers le **KM 15** je commence à sentir une gène aux épaules. J'essaie de les étirer, de rester souple et détendu. Ça ne fonctionne pas. Et ça me fait un peu peur. Je passe la mi-course en `1:28` environ. Il y a de l'avance mais pas énorme, je visais plutôt `1:25` - `1:26`. En fait cette première partie qui, dans ma version de la course, était facile, était déjà un peu traitre. Le sub-3 est encore possible.
 
 {{< figure src="cardio_map_CharleroiMarathon.jpg" alt="Rien de tel que le cardio pour voir comment une course se déroule." caption="Rien de tel que le cardio pour voir comment une course se déroule." class="blog-figure" >}}
 

@@ -25,14 +25,11 @@ J'avais envie de commencer l'article comme celui de l'année dernière. Car ces 
 - __4__ cimes: Croix de Charneux, Fort d'Aubin, Mauhin et Transpineux
 - __102__: le nombre de kilomètres que j'avais dans la jambe cette semaine, avant d'entamer la course.
 
-| ![](./images/cimes01.JPG) |
-|:--:|
-| _Le rond point des vaches, et une météo maussade._|
-
+{{< figure src="./images/cimes01.JPG" alt="Le rond point des vaches, et une météo maussade." caption="Le rond point des vaches, et une météo maussade." class="blog-figure" >}}
 
 ## Avant la course
 
-Pour être honnête la course n'était pas vraiment un objectif de cette saison, bien que je m'étais inscrit quelques semaines (mois?) à l'avance, chose qui n'arrive pas très souvent. Deux semaines auparavant j'avais pris le départ du [Semi Marathon de Herve](https://ctroupin.github.io/run/races/20241026_semimarathonherve/), ce qui pouvait constituer une bonne préparation aussi bien mentale que physique.
+Pour être honnête la course n'était pas vraiment un objectif de cette saison, bien que je m'étais inscrit quelques semaines (mois?) à l'avance, chose qui n'arrive pas très souvent. Deux semaines auparavant j'avais pris le départ du [Semi Marathon de Herve]( {{< relref "/races/20241026_semimarathonherve" >}}), ce qui pouvait constituer une bonne préparation aussi bien mentale que physique.
 
 J'avais quand même en tête un plan:
 1. Faire beaucoup de volume l'avant-dernière semaine avant la course,
@@ -40,9 +37,7 @@ J'avais quand même en tête un plan:
 
 Comme toujours les plans sont faits pour être adaptés, la vie n'est pas un long fleuve tranquille où tout ce qui est prévu se produit (ou alors j'ai dû foiré quelque chose ces 25 dernières années). Pour revenir au plan, j'ai donc enchainé une semaine à 100K (alors que j'aurais pu/voulu atteindre les 120 voire 130K), puis la semaine de la course, les trajets depuis/vers le boulot se sont enchainés, ce qui fait qu'au départ j'avais déjà passé la barre des 100K. Ce n'était a priori pas un problème vu que vendredi et samedi avaient été des journées de repos, et surtout j'avais été prudent à la muscu.
 
-| ![](./images/cimesgarmin00.png) |
-|:--:|
-| _C'est l'heure du départ..._|
+{{< figure src="./images/cimesgarmin00.png" alt="Une semaine assez bien remplie." caption="Une semaine assez bien remplie." class="blog-figure" >}}
 
 ## Les chaussures?
 
@@ -50,20 +45,17 @@ Question que je ne me pose jamais: quelle paire vais-je porter? Depuis peu j'ai 
 
 Donc ces bonnes Zoom Streakfly: option 1, ou bien les habituelles Zoom Streak 7, avec lesquelles je cours depuis plus de 4 ans? Comme il me restait une dernière paire de Zoom Streak 7 inutilisée dans la cave, j'ai opté pour ces dernières, car je pensais que je n'avais pas assez couru avec les autres, en dehors du Semi de Herve et de quelques sorties longues en préparation du marathon. 
 
-| ![](./images/cimes04.JPG) |
-|:--:|
-| _Nike Zoom Streak 7 💣💣._|
+{{< figure src="./images/cimes04.JPG" alt="Nike Zoom Streak 7 💣💣." caption="Nike Zoom Streak 7 💣💣." class="blog-figure" >}}
 
-
-Les Zoom Streak sont vraiment les chaussures que j'ai le plus aimés depuis que je cours. Il suffit de les mettre pour sentir que ça va aller vite. Il y a de l'amorti juste assez, de belles couleurs, et ce que j'aime particulièrement, c'est que j'ai l'impression que le pied est proche de la route.
+Les Zoom Streak sont vraiment les chaussures que j'ai le plus aimées depuis que je cours. Il suffit de les mettre pour sentir que ça va aller vite. Il y a de l'amorti juste assez, de belles couleurs, et ce que j'aime particulièrement, c'est que j'ai l'impression que le pied est proche de la route.
 
 Si on s'en réfère au site de la [Clinique du coureur](https://lacliniqueducoureur.com/chaussures/) et se son calcul de l'_indice minimaliste_, on trouve ceci:
 
-| Chaussures |     |&nbsp; &nbsp; &nbsp; Zoom Streak 7 |    |&nbsp; &nbsp; &nbsp; Zoom Streakfy |
-| --------:  | --- | --------------: |--- | ---:        | 
-| Poids      |     | 181 g          |    |   171 g      |
-| Drop       |     | 7 mm           |    |   6 mm       |
-| Indice minimaliste |  | 56%       |    |   56%        |
+| Chaussures | Zoom Streak 7 | Zoom Streakfy |
+| --------:  | --------------:| ---:        | 
+| Poids      | 181 g          |   171 g      |
+| Drop       | 7 mm           |   6 mm       |
+| Indice minimaliste | 56%    |   56%        |
 
 Il y a pas mal de personnes qui me disent qu'elles ne pourraient pas courir avec ça aux pieds, mais je pense le contraire: il suffit de les essayer pour sentir que ça va aller vite! 
 
@@ -87,17 +79,13 @@ Avec du recul c'est marrant de voir ce qu'on retient ou non d'une course. Par ex
 
 L'ambiance est vraiment excellente, les gens profitent bien, même s'il fait froid. Moi je profite en depassant des coureurs et en ne me faisant pas dépasser. D'ailleurs quand j'y repense je crois que je ne me suis pas fait dépasser, sauf par Louis dans la montée finale, et ça justement, le fait de ne faire que dépasser, ça peut vouloir dire qu'on est pas parti assez vite...
 
-| ![](./images/cimes05.jpg) |
-|:--:|
-| _Ma fréquence cardiaque le long du parcours._|
+{{< figure src="./images/cimes05.jpg" alt="Ma fréquence cardiaque le long du parcours." caption="Fréquence cardiaque le long du parcours." class="blog-figure" >}}
 
 Les 4 cimes, c'est avec envie que je les aborde. Je baisse le rythme mais en garde assez pour dépasser pas mal et pouvoir bien relancer dès que ça redescend. KM-16 environ, je vois un vélo qui accompagne un coureur. Ça par contre je ne suis pas fan. Se faire accompagner par un autre coureur, pourquoi pas, mais un vélo? Un peu plus loin, le gars demande une boisson à son pote. Des gens du public, qui visiblement les connaissaient, rigolent à leur passage; et moi quelques secondes après je leur sort que c'est un tricheur. Ça les fait rigoler, moi pas trop, mais c'est vrai qu'on a tous une sensibilité différente concernant le respect des règles et du sport en général.
 
 Une fois arrivé sur la grand route vers le KM-18 dans ma tête je sais que ça va aller, il y a quelques kilomètres de descente, puis on doit encore traverser une grand route, et là, ça monte mais ça doit aller. Je profite vraiment des montées, bizarrement d'ailleurs, car même sans aller hyper vite, je dépasse beaucoup de coureurs. Dont le gars accompagné par son vélo. 
 
-| ![](./images/cimes06.jpg) |
-|:--:|
-| _Le profil et où je me suis mis dans le rouge._|
+{{< figure src="./images/cimes06.jpg" alt="Le profil et où je me suis mis dans le rouge." caption="Le profil et où je me suis mis dans le rouge." class="blog-figure" >}}
 
 Les kilomètres continuent de défiler à un bon rythme, toujours aucune douleur, mais j'essaie vraiment de relacher les épaules et le dos pour ne pas me ramasser d'horribles douleurs comme au marathon de Paris et dans une moindre mesure au semi de Herve. Les gels aussi passent bien, les fameux 226ERS, dont mes préférés sont ceux au goût de miel + noisette. 
 
@@ -113,9 +101,7 @@ Je dirais qu'il y a 3 choses importantes:
 2. Pas facile de savoir à quelle vitesse aller pour faire un temps déterminé. Il fallait avoir une moyenne de 4'25/km, allure tout à fait raisonnable sur du plat, par contre calculer ça en prenant en compte le dénivelé, pas évident pour moi. J'étais légèrement au dessus des 14 km parcourus sur la première heure, le problème est que la 2° partie était plus compliquée. Il faudra que je calcule un peu mieux la prochaine fois.
 3. Manque de puissance: cela fait vraiment longtemps que je ne fais plus de travail de côte, alors que j'adore ça. Combiné à la muscu je pense que ça pourrait vraiment m'aider. On ne peut malheureusement pas tout faire.
 
-| ![](./images/cimesgarmin01.png) |
-|:--:|
-| _Fallait pas se garer aussi loin du départ._|
+{{< figure src="./images/cimesgarmin01.png" alt="Fallait pas se garer aussi loin du départ." caption="Fallait pas se garer aussi loin du départ." class="blog-figure" >}}
 
 Le mot de la fin c'est un remerciement que les organisateurs de la course ne liront jamais: une organisation impecable, une ambiance exceptionnelle, un parcours qui fait mal, on a vraiment de la chance d'avoir dans la région ce genre de course!
 
