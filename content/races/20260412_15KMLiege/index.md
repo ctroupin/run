@@ -17,7 +17,7 @@ __[21h15]__ À l'heure où l'`IA` est utilisée par tout le monde et pour tout, 
 
 ## L'avant course
 
-Deux semaines après les Crêtes de Spa, voilà déjà un autre objectif relativement important de la saison. Pour cette distance, 15 km, j'ai toujours tendance à penser que _rien ne peut nous arriver_. Idem pour les semi. Autrement dit: si on part trop vite, ce n'est pas trop grave, au pire ça prendra 1h30 pour arriver.
+Deux semaines après les [Crêtes de Spa]( {{< relref "races/20260328_cretesspa" >}}), voilà déjà un autre objectif relativement important de la saison. Pour cette distance, 15 km, j'ai toujours tendance à penser que _rien ne peut nous arriver_. Idem pour les semi. Autrement dit: si on part trop vite, ce n'est pas trop grave, au pire ça prendra 1h30 pour arriver.
 
 Ici mon objectif était une fois de plus trè simple: améliorer mon meilleur temps, lequel datait tout de même de 2015 (ma dernière participation à cette course). Pour donner un peu de contexte: à l'époque j'habitais à Palma, et j'étais venu en Belgique quelques jours, avant de mettre le cap sur l'île de La Palma (dans les Canaries) pour courir la _Transvulcania_. J'étais super affuté (pour l'ultra), et donc pour les 15 K j'avais vraiment fait ça tranquile, sans montre ni rien. 
 

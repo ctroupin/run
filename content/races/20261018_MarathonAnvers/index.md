@@ -36,7 +36,7 @@ Le but était d'éviter tout ce qui pourrait poser problème (jambes lourdes, di
 
 Tout ça fait qu'au moment de prendre le départ, je suis super à l'aise, comme une course normale, voire comme pour une sortie longue.
 
-{{< figure src="./images/Anvers2026-03.JPG" alt="À la recherche du dossard." caption="À la recherche du dossard.." class="blog-figure" >}}
+{{< figure src="./images/Anvers2026-03.JPG" alt="À la recherche du dossard." caption="À la recherche du dossard." class="blog-figure" >}}
 
 Un autre point de vue sur la prépa, pour reprendre une expression d'un de mes profs d'unif:
 > Tuer une mouche avec un bazooka.
