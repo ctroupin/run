@@ -54,10 +54,9 @@ Après une superbe descente depuis las Deseadas, nous voici au 3° ravito, égal
 
 ## 5. La Hilera
 
-Pour moi une des parties les plus difficiles à gérer: 7-8 km de plat-faux plat sur une piste forestière, avec vue sur la ligne d'arrivée (pour déprimer ou pour se donner du courage, en fonction des sensations), avant une monstrueuse montée. Cette fois-ci ça a été beaucoup mieux qu'il y a 3 ans, j'ai pu continuer à courir. A ce moment-là je me dis: 
+Pour moi une des parties les plus difficiles à gérer: 7-8 km de plat-faux plat sur une piste forestière, avec vue sur la ligne d'arrivée (pour déprimer ou pour se donner du courage, en fonction des sensations), avant une monstrueuse montée. Cette fois-ci ça a été beaucoup mieux qu'il y a 3 ans, j'ai pu continuer à courir. À ce moment-là je me dis: 
 
 > L'entrainement a peut-être payé ;)
-
 
 {{< figure src="./images/tvc05.jpg" alt="During the climbing of el Reventón, with view on la Hilera." caption="During the climbing of el Reventón, with view on la Hilera." class="blog-figure" >}}
 

@@ -14,6 +14,8 @@ Ce sont des questions que je me pose encore, et auxquelles j'espère pouvoir tro
 1. Pourquoi ça peut foirer?
 2. Pourquoi ça peut (quand même) passer?
 3. Quel temps viser?
+   
+{{< figure src="./images/OpenSeaLab_2319.JPG" alt="Lors d'une précédente visite à Anvers." caption="Lors d'une précédente visite à Anvers." class="blog-figure" >}}
 
 ## Pourquoi ça peut foirer?
 
@@ -24,7 +26,8 @@ sur un 10K. La préparation avec donc été axée là-dessus: beaucoup d'allure 
 
 Dans la prépa il y a un composante physique, tout ce qui est amélioration de la capacité à réaliser un tel effort, et puis aussi uen composante mentale: on a fait la prépa, on se sent légitime pour la course, il y a comme quelque chose qui justifie le fait qu'on soit en confiance. Cette composante je ne l'ai pas: sans me prendre pour un imposteur, je suis convaincu que je n'ai pas fait mes devoirs. 
 
-![](./images/OpenSeaLab_2319.JPG)
+{{< figure src="./images/AntwerpMarathon_km_histogram.jpg" alt="Nombre de sorties en fonction du kilométrage." caption="Nombre de sorties en fonction du kilométrage. " class="blog-figure" >}}
+
 
 ## Pourquoi ça peut passer (sans casser)?
 
@@ -34,7 +37,7 @@ La dernière semaine avant l'affutage s'est terminé à 146 km, probablement mon
 2. __La vitesse:__ bien qu'on ait quasi pas travaillé à l'allure spéficique marathon, la combinaison des séances au seuil et des sorties longues pourrait quand même aider... (je ne sais pas si je crois à ce que j'écris, mais soit).
 3. __L'expérience:__ par là je veux dire, ma participation plus tôt dans l'année au Marathon de Charleroi. Lors de cette course j'avais vraiment eu beaucoup moins de stress que dans le passé, mais pas encore l'impression de pouvoir normaliser ce type de course. J'espère que ça viendra un jour, comme c'est maintenant le cas pour un semi (à une époque ça me faisait presque peur).
 
-![](./images/OpenSeaLab_2464.JPG)
+{{< figure src="./images/AntwerpMarathon_weekly_volume.jpg" alt="Volume hebdomadaire lors des 12 semaines avant le marathon." caption="Volume hebdomadaire lors des 12 semaines avant le marathon (la dernière semaine étant celle du marathon)." class="blog-figure" >}}
 
 ## Quel temps viser?
 
@@ -55,9 +58,7 @@ __Limitations:__ le 15K ça fait déjà longtemps (avril), donc peut-être pas l
 
 Début septembre j'avais fait un [test "lactate"]( {{< relref "blog/20260907_TestLactate" >}} ), qui a permis d'estimer mes seuils lactiques:
 
-| ![](./images/lactate.png) |
-|:--:|
-| _Résultats du test de lactate, réalisé par [TwinPeakLab](https://www.twinpeaklab.be/)._|
+{{< figure src="./images/lactate.png" alt="Résultats du test de lactate, réalisé par [TwinPeakLab](https://www.twinpeaklab.be/)." caption="Résultats du test de lactate, réalisé par [TwinPeakLab](https://www.twinpeaklab.be/)." class="blog-figure" >}}
 
 - 14.1 km/h pour le premier seuil lactique (`LT1`),
 - 16.2 km/h pour le deuxième seuil (`LT2`).
@@ -83,6 +84,6 @@ Ce sera sympa de ne pas faire mentir ces chiffres, mais restons réalistes. Il f
 
 Verdict le 18 octobre, le récit sera [ici]( {{< relref "races/20261018_MarathonAnvers" >}} ).
                                                               
-
+{{< figure src="./images/OpenSeaLab_2464.JPG" alt="Lors d'une précédente visite à Anvers." caption="Lors d'une précédente visite à Anvers." class="blog-figure" >}}
                                                               
                                                               
